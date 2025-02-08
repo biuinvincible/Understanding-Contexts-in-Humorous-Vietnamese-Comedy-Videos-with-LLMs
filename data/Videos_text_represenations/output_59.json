@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Tức là cứ 100 người em nói với họ là em học ngành tâm lý học",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a brown suit and white pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Thì 99 người hỏi em cái câu này",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a dark suit and tan pants is speaking into a microphone."
+    },
+    {
+        "utterance": " Anh học ngành gì dạ? Anh học ngành tâm lý học",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "A man in a dark jacket and light pants holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Vậy anh đoán coi em đang nghĩ gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a brown suit stands on stage, holding a microphone."
+    }
+]

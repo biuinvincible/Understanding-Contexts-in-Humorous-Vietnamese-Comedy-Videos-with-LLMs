@@ -1,0 +1,117 @@
+[
+    {
+        "utterance": " Qua trở lại cái chị kỹ thuật viên gội đầu dưỡng sinh của em á",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt holds a microphone, standing in front of a brick wall."
+    },
+    {
+        "utterance": " Trước khi chị làm spa",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A person in a white shirt holds a microphone, standing in front of a brick wall."
+    },
+    {
+        "utterance": " Chị làm ruộng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Khi mà gội đầu dưỡng sinh cái bước đầu tiên là gì?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A woman in a white outfit sits with a smile, surrounded by others."
+    },
+    {
+        "utterance": " Chị tẩy tế bào chết da đầu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Chị...",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Nhìn cái đầu của em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Nhìn cái tóc của em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white shirt stands on stage, speaking into a microphone."
+    },
+    {
+        "utterance": " Nó sơ sát",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt holds a microphone, standing in front of a brick wall."
+    },
+    {
+        "utterance": " Cái máu làm ruộng chị trỗi dậy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white top sits with their head down, surrounded by others."
+    },
+    {
+        "utterance": " Mọi lần em đi gội đầu dưỡng sinh...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black shorts is holding a microphone, performing the steps of washing hair gently."
+    },
+    {
+        "utterance": " Còn chị là...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black shorts holds a microphone on stage, performing the steps of washing hair aggresively"
+    },
+    {
+        "utterance": " Chị gội mà em..",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is performing on stage, possibly singing or speaking."
+    },
+    {
+        "utterance": " Ơ... ơ... ơ...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is singing into a microphone."
+    },
+    {
+        "utterance": " Chị... đau... đau... đau... đau...",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white top sits with others, possibly at an event or presentation."
+    },
+    {
+        "utterance": " Chị...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is holding a microphone in front of a brick wall."
+    },
+    {
+        "utterance": " Chị nói không",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt is speaking into a microphone."
+    },
+    {
+        "utterance": " Gội như vậy nó mới sạch",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a white shirt is standing on stage with a microphone."
+    },
+    {
+        "utterance": " Thì em nói ừ cũng đúng ha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A person in a white shirt and black shorts holds a microphone on stage."
+    },
+    {
+        "utterance": " Gội vậy cũng sạch nữa",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt holds a microphone in front of a brick wall."
+    },
+    {
+        "utterance": " Gội vậy nó mới sạch",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman in a white top and colorful pants sits on a chair, laughing."
+    },
+    {
+        "utterance": " Tại da đầu còn con mẹ gì đâu nữa mà không sạch",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Chị tẩy tế bào chết mà tế bào sống nó háp hối luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman in a white top and floral pants sits on a chair, laughing."
+    }
+]

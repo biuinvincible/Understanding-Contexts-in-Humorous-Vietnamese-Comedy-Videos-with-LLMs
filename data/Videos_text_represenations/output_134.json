@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Mà sao mấy đứa nhỏ không thấy đứa nào về hết trơn trội vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    },
+    {
+        "utterance": " Ừ tôi gọi điện thoại nó rồi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    },
+    {
+        "utterance": "Gọi điện thoại nó, tôi nói bận lắm, lúc này tôi bận dữ lắm nó",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in brown traditional attire"
+    },
+    {
+        "utterance": " Ơm...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    },
+    {
+        "utterance": " Bậy bậy, tôi nói anh nghe con cái có bận bịu bao nhiêu nữa",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    },
+    {
+        "utterance": "Thì đám giỗ cha mẹ cũng phải về chứ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    },
+    {
+        "utterance": " Ờ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man wearing a hat and glasses "
+    },
+    {
+        "utterance": " Nói cái thứ này mà con của tôi nghe tôi quánh sạt máu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in yellow traditional attire"
+    },
+    {
+        "utterance": " Con ai đẻ mà không biết dạy, cái thứ gì mà không biết dạy con",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in yellow traditional attire"
+    },
+    {
+        "utterance": " Tôi mà gặp cha mẹ nó tôi vả chạc ở trong mặt đó tôi nói thiệt",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "2 man in traditional outfit sitting at a table"
+    }
+]

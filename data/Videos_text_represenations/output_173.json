@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Ê mày, mấy con chó bình thường nó gặp mấy con chó đặc vụ á",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men are holding up a banana to a paper "
+    },
+    {
+        "utterance": " nó có sổ lên là",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men wearing glasses and a mask are talking "
+    },
+    {
+        "utterance": " Ê cảnh sát cho tụi bay",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man with glasses and a scarf on "
+    },
+    {
+        "utterance": " Ê cảnh sát cho tụi bay không",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with glasses and a black shirt is looking at a woman "
+    }
+]

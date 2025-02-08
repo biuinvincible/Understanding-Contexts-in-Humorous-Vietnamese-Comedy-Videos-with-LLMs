@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở việc người kể chuyện đi chùa vào dịp Tết. Họ không thích đi chùa vào dịp đông người, nhưng bị mẹ ép đi cùng. Điểm mấu chốt tạo tiếng cười là khi họ vừa phàn nàn về việc không thể "khấn Phật" trong đám đông, thì ngay lập tức phải nhớ số xe và đọc thần chú trong tình huống hỗn loạn, tạo ra một tình huống trớ trêu.

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở sự nhầm lẫn có chủ ý giữa "USA" (Hoa Kỳ) và "USB" (thiết bị lưu trữ). Khi giáo viên hỏi về quốc gia giáp với USA (Hoa Kỳ), học sinh đã cố tình trả lời "USB", tạo ra một tình huống hài hước dựa trên sự tương đồng về mặt âm thanh giữa hai từ. Đây là một kiểu chơi chữ đơn giản nhưng hiệu quả trong việc tạo tiếng cười.

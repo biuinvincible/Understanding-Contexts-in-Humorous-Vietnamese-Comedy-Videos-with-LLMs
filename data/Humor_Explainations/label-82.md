@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở việc một học sinh ghi chép 10 môn học vào cùng một quyển vở, dẫn đến việc trộn lẫn các môn học một cách hài hước. Điểm cười đạt đến đỉnh điểm khi bạn của em ấy đọc nhầm bài vật lý về định luật Newton thành "Bản án chế độ Thực dân Pháp", cho thấy sự nhầm lẫn ngộ nghĩnh giữa môn vật lý và lịch sử.

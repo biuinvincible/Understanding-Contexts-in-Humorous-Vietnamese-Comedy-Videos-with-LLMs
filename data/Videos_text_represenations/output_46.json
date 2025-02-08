@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Nếu giành được giải thưởng trong cuộc thi ngày hôm nay bạn sẽ làm gì?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white t-shirt and khaki shorts stands in front of a red fan backdrop."
+    },
+    {
+        "utterance": " Đó chính là câu hỏi của phần thi ứng xử trong cuộc thi truy tìm sắc đẹp",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white t-shirt and shorts stands in front of a red fan."
+    },
+    {
+        "utterance": " do tổng công ty Phân Bón Thuốc Trừ Sâu cùng công ty Bông Ngoáy Lỗ Tài đồng tài trợ.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt with a microphone is shown in the image."
+    },
+    {
+        "utterance": " Và xin mời quý vị khán giả vỗ tay to giã man để đón chào thí sinh của chúng ta.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A young man in a white t-shirt and khaki shorts stands on a stage."
+    },
+    {
+        "utterance": " Dạ em xin kính chào ban giám khảo cùng quý vị khán giả đã tốn công tốn sức",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A group of people are sitting and clapping their hands."
+    },
+    {
+        "utterance": " lao tâm khổ tứ vất vả vật vã vỗ tay to giã man để cho em bước ra.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt stands on stage, addressing an audience."
+    },
+    {
+        "utterance": " Em là một người sinh từ bé đẹp từ nhỏ duyên dáng từ tuổi dạy thì",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt with a microphone is on stage."
+    },
+    {
+        "utterance": " nên sau khi sinh ra bố mẹ em mới quyết định đặt cho em cái tên là Mán Giã Sâu",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and khaki shorts stands on a stage with a red curtain."
+    },
+    {
+        "utterance": " tức là xấu giã man.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white t-shirt is shown with two inset images of people."
+    },
+    {
+        "utterance": " Để một phần nào đó chia lấp đi được cái nhan sắc của em.",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white t-shirt and khaki shorts stands on a stage with a red backdrop."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "utterance": " Ây, bảy, bảy, bảy",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man with a backpack and a horse "
+    },
+    {
+        "utterance": " Đang gấp rồi, đang gấp rồi",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a woman is using a computer while another woman is standing "
+    },
+    {
+        "utterance": " Nếu như mà bỏ tất cả các luật lệ á",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman is tying a tie on a wall "
+    },
+    {
+        "utterance": " Thì tỉ lệ tội phạm trên thế giới bằng 0 đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man and woman are talking on a cell phone "
+    },
+    {
+        "utterance": " Có, có, có, có",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man and woman are looking at a wall "
+    },
+    {
+        "utterance": " Có tỉ lệ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman wearing a black jacket and a black tie "
+    },
+    {
+        "utterance": " Thì mày hỏi làm gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man standing next to a woman holding a cell phone "
+    }
+]

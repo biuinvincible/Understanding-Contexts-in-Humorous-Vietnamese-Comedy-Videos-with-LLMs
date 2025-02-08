@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Ơ em cu, ai nữa cũng sẽ đến lúc phải chết đúng không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men are looking at a paper on a table "
+    },
+    {
+        "utterance": " Ờ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men in glasses talking on a cell phone "
+    },
+    {
+        "utterance": " Vậy ai sẽ là người trôn cái người đai cuối cùng vậy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men in suits are looking at a cell phone "
+    }
+]

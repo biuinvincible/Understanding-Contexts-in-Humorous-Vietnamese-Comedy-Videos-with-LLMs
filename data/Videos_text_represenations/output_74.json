@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Alo em, cuối tuần đi du lịch nha",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a yellow shirt is sleeping while holding a cell phone."
+    },
+    {
+        "utterance": " Dạ, mà em nghĩ là mình nên tiết kiệm đi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A person in a white and blue striped shirt is on the phone."
+    },
+    {
+        "utterance": " Đi du lịch bụi cũng vui rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and blue striped shirt is on the phone."
+    },
+    {
+        "utterance": " Ok em, cuối tuần đi du lịch bụi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a yellow shirt is lying down while holding a phone to their ear."
+    },
+    {
+        "utterance": " Anh dẫn em đi đâu vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white and blue striped shirt is on the phone."
+    },
+    {
+        "utterance": " Thì em muốn đi du lịch bụi mà",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white sweater and collared shirt stands outdoors, with trees visible behind them."
+    },
+    {
+        "utterance": " Thì sao?",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man with dark hair in a ponytail, wearing a black shirt."
+    },
+    {
+        "utterance": " Thì dẫn em tới công trường nè, chút nó trộn đá với đất rồi, em hít đã luôn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A yellow excavator is loading debris into a white truck."
+    }
+]

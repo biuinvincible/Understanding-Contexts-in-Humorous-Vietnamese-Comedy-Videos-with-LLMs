@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại này nằm ở việc chơi chữ thông minh với từ "bèn" trong câu chuyện anh hùng dân tộc. Người hỏi cố tình tách từ "bèn" (một trợ từ) thành tên riêng của nhân vật, tạo ra một tình huống hiểu lầm hài hước. Điều này được làm rõ thêm qua ví dụ về việc đặt tên "Rớt" và biệt danh "Lụm", tạo nên tiếng cười từ cách chơi chữ và ngữ nghĩa.

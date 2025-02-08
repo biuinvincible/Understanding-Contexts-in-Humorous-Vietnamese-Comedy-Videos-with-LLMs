@@ -1,0 +1,107 @@
+[
+    {
+        "utterance": " Đây",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and denim shorts is speaking into a microphone."
+    },
+    {
+        "utterance": " Là dụng cụ kẹp nắp nồi chuyên dụng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts is singing into a microphone."
+    },
+    {
+        "utterance": " Thì những cái nắp nồi đó mỗi lần chúng ta sử dụng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm áp, sôi nổi, vừa phải.",
+        "visual_description": "A person in a white shirt is laughing with others in the background."
+    },
+    {
+        "utterance": " là chúng ta phải cầm cái nùi giẻ chúng ta kẹp nắp nồi đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage with a microphone."
+    },
+    {
+        "utterance": " chúng ta mới có thể sử dụng được đúng không?",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh, tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Vậy thì kể từ bây giờ",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts stands on stage with a microphone."
+    },
+    {
+        "utterance": " mọi người cứ tiếp tục cầm cái nùi giẻ kẹp nắp nồi đó đi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A man in a white shirt and shorts stands on stage with a microphone."
+    },
+    {
+        "utterance": " bởi vì cái này không kẹp được",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and blue shorts stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Cái này là cái kẹp nắp nồi chuyên dụng",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A comedian performs on stage for an audience, standing confidently with a microphone."
+    },
+    {
+        "utterance": " chuyên kẹp những cái nắp nồi mà nó có sẵn cái núm cắt nhiệt đó",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Những cái nắp nồi mà cái tay mình cầm lên bình thường được đó",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt and shorts holds a microphone and red object."
+    },
+    {
+        "utterance": " Thì",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a white shirt and blue shorts holds a microphone and red object."
+    },
+    {
+        "utterance": " Thì mình lấy cái này mình kẹp lại giúp em",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm áp, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Thì cái này nó kẹp vô thì nó chắc",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm áp, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt and shorts is on stage, holding a red object."
+    },
+    {
+        "utterance": " Nó chắc lắm",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Nó chỉ chắc thua cái tay mình tự cầm thôi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Chứ thật ra là nó rất là chắc",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts is standing on a stage with a microphone."
+    },
+    {
+        "utterance": " Nói chung là em xài cái này em thấy em rất là thích",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage with a microphone."
+    },
+    {
+        "utterance": " cho nên ở đây ai có nhu cầu liên hệ em",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh, tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt and shorts stands on a stage with a microphone."
+    },
+    {
+        "utterance": " em pass rẻ lại cho",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts stands on stage with a microphone."
+    },
+    {
+        "utterance": " Cảm ơn các bạn",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, sáng, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts is standing on a stage, holding a microphone."
+    }
+]

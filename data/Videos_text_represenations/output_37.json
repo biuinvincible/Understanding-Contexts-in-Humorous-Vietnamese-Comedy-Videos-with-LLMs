@@ -1,0 +1,62 @@
+[
+    {
+        "utterance": " Thằng này con nhà ai đấy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A red square with the number 24 in white and red text is prominently displayed."
+    },
+    {
+        "utterance": " Thằng này hả?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white and red traditional outfit is next to another person."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man with short, dark hair is wearing a pink shirt adorned with gold and white designs."
+    },
+    {
+        "utterance": " Thằng này con bố nó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and red outfit stands next to another person."
+    },
+    {
+        "utterance": " Hả?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and red costume with a gold patterned hat."
+    },
+    {
+        "utterance": " Thằng này ai chẳng biết là con bố nó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a white and gold headdress and red robe stands with a man."
+    },
+    {
+        "utterance": " Nhưng mà bố nó là ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person is shown wearing a red and white patterned top."
+    },
+    {
+        "utterance": " Bố nó à?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in an orange and gold patterned shirt is visible, with a blurred hand gesture."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and red robe with gold accents, wearing a yellow crown."
+    },
+    {
+        "utterance": " Bố nói là chồng mẹ nó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman in a red and gold dress stands beside a man in a red robe."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a red and gold traditional outfit stands against a blue background."
+    },
+    {
+        "utterance": " Là người đẻ ra nó",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a red hat and robe with a dragon emblem stands in front of a decorative wall."
+    }
+]

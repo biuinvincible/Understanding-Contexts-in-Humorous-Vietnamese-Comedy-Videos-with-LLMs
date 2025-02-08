@@ -1,0 +1,77 @@
+[
+    {
+        "utterance": " Facebook nó nghe giỏi không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white sweater is speaking into a microphone on stage."
+    },
+    {
+        "utterance": " Sáng mình nói về gà, tối nó quảng cáo gà rán",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white sweater stands on stage with a microphone."
+    },
+    {
+        "utterance": " Sáng mình nói về vịt, tối nó quảng cáo vịt quay Bắc Kinh",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and black pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Đã có một lúc em quyết định là em coi coi cái khả năng mà nghe của nó như thế nào",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white sweater and dark pants stands on a stage holding a microphone."
+    },
+    {
+        "utterance": " Buổi sáng, nguyên một ngày em ngồi em nói là gan ngỗng, gan ngỗng, gan ngỗng, gan ngỗng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people is gathered, with a person in a white shirt standing out."
+    },
+    {
+        "utterance": " Tức là em tự đánh giá là cái tình hình tài chính của em nó không thể nào mà quảng cáo gan ngỗng được",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white sweater with brown stripes holds a microphone."
+    },
+    {
+        "utterance": " Tối nó chạy quảng cáo là gan ngỗng chay dành cho người có thu nhận hấp",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white sweater holds a microphone."
+    },
+    {
+        "utterance": " Tuyệt vời, xuất sắc",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people are seated in an auditorium, with some clapping."
+    },
+    {
+        "utterance": " Mà không những là nó tư vấn cho mọi người cái món mà mọi người đang muốn ăn, đang thèm nha",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white sweater and dark pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Nó còn tư vấn tình cảm luôn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and dark pants stands on stage with a microphone."
+    },
+    {
+        "utterance": " Tin được không, em cãi nhau với bạn gái mà nó còn chạy quảng cáo được",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A person in a white sweater is standing on stage with a microphone."
+    },
+    {
+        "utterance": " Em cãi nhau xong bực quá, mở điện thoại lên coi, chạy quảng cáo cuốn sách",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white sweater is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Kỹ năng đàm phán và thương lượng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white sweater holds a microphone, with their arms crossed."
+    },
+    {
+        "utterance": " Kéo lên mấy cái nữa, im lặng là vàng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white sweater and dark pants stands on a stage."
+    },
+    {
+        "utterance": " Kéo lên nữa, khóa thiền chữa lành cho đứa trẻ bên trong",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a white sweater and dark pants stands on a stage, holding a microphone."
+    }
+]

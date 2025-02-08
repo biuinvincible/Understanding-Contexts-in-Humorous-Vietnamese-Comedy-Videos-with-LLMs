@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở logic ngược đời của người chồng. Sau khi liệt kê tất cả công việc vợ làm (ruộng, việc nhà, con cái), người chồng kết luận "Rồi mày lo hết, tao lo cái gì, tao nhậu!" - một cách biện minh mỉa mai cho việc nhậu nhẹt của mình. Sự hài hước đến từ cách người chồng vô tình tự phơi bày sự vô trách nhiệm của bản thân thông qua chính lập luận của mình.

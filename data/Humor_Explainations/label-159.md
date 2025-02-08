@@ -1,0 +1,1 @@
+Tình huống hài hước được tạo ra từ cuộc đối thoại về nợ nần và triết lý về tiền bạc. Sự hài hước nằm ở cách người nói chuyển từ một tình huống đòi nợ sang một nhận xét triết lý về bản chất của tiền: "tiền của bạn thật chất không phải là của bạn, mà chỉ là tới lượt bạn xài thôi". Cách nói này vừa mang tính triết lý, vừa là một cách biện minh hài hước cho việc không trả nợ.

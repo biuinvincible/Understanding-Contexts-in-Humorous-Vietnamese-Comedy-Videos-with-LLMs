@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người đàn ông trả lời câu đố về con chó. Khi được hỏi "tại sao?", anh ta chỉ đáp lại "Đó!" - ngụ ý rằng con chó luôn hỏi "tại sao" giống như cách người phụ nữ vừa hỏi vậy. Đây là một kiểu chơi chữ thông minh, tạo tiếng cười từ việc so sánh hành động hỏi của người phụ nữ với thói quen tò mò của loài chó.

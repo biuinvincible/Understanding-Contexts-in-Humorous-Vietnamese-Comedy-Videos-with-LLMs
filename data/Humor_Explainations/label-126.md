@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở cách chơi chữ với tên riêng. Khi nói về việc "thằng Nghĩa" lấy "con Trang", người nói chỉ ra rằng khi ghép hai cái tên này lại sẽ thành "nghĩa trang" - một từ có nghĩa là nghĩa địa. Sự hài hước đến từ việc tình cờ kết hợp tên của đôi nam nữ lại tạo thành một từ có nghĩa hoàn toàn khác và không mấy may mắn trong văn hóa Việt Nam.

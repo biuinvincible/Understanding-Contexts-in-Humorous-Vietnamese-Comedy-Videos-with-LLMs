@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh cuộc đối thoại giữa một người có thẩm quyền và một người nghiện. Yếu tố hài nằm ở cách người nghiện né tránh câu hỏi và cuối cùng đưa ra câu trả lời bất ngờ: "Cháu bỏ hút lâu rồi, bây giờ cháu chuyển thân chích", tạo nên tiếng cười từ sự mâu thuẫn giữa kỳ vọng của người hỏi và thực tế phũ phàng.

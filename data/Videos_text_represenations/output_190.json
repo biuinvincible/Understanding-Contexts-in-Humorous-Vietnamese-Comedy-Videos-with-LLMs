@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Bây giờ vậy nè, ba vô ba nói một tiếng thôi mà người ta chịu cưới á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm",
+        "visual_description": "A man in a red and gold outfit stands beside another man in white."
+    },
+    {
+        "utterance": " là con cho ông ấy về coi đá banh liền.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a white shirt and glasses, possibly being crowned with a red hat."
+    },
+    {
+        "utterance": " Nhanh nhanh nha.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt and glasses is shown with another person wearing red."
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white suit and glasses appears to be speaking into a microphone."
+    },
+    {
+        "utterance": " Tao đi coi đá banh.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one in a red outfit and the other in white, are conversing."
+    },
+    {
+        "utterance": " Nói một tiếng thôi.",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man in a red shirt and hat stands next to a man in a white shirt."
+    },
+    {
+        "utterance": " Dạ.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in an orange hat and shirt stands beside another man in white."
+    },
+    {
+        "utterance": " Chị xuôi!",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A group of four people, two men and two women, stand on a stage."
+    },
+    {
+        "utterance": " Dạ?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A stage is set with a red floor, white railing, and a table with people."
+    },
+    {
+        "utterance": " Khỏe không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "Four individuals in Asian attire are gathered around a table on a stage with a red carpet."
+    },
+    {
+        "utterance": " Khỏe không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a red and yellow outfit stands on stage, facing right."
+    },
+    {
+        "utterance": " Cho cưới không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a red hat and shirt faces a woman in a white shirt."
+    },
+    {
+        "utterance": " Cho cưới không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "Four individuals are performing on a stage with an Asian-inspired backdrop and a red table."
+    },
+    {
+        "utterance": " Cưới.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a red shirt and hat stands next to a woman in white."
+    },
+    {
+        "utterance": " Cưới nha.",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a red shirt and hat stands next to a woman in white."
+    },
+    {
+        "utterance": " Dạ cưới.",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a red shirt and hat stands beside a woman in a white shirt."
+    },
+    {
+        "utterance": " Cưới nha.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A group of people in colorful attire gather around a table on a stage."
+    },
+    {
+        "utterance": " Dạ cưới.",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A group of people in traditional attire stand around a table on a stage."
+    },
+    {
+        "utterance": " Dạ cưới.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman with dark hair in a bun, wearing a white shirt with black accents."
+    },
+    {
+        "utterance": " Dạ cưới.",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a red shirt and hat, a woman in a white shirt with black accents."
+    },
+    {
+        "utterance": " Dạ cưới.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a red shirt with gold accents and a red headband is dancing."
+    },
+    {
+        "utterance": " Ờ ờ, về về về về",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A stage with a red table, four people, and a dog under green lights."
+    }
+]

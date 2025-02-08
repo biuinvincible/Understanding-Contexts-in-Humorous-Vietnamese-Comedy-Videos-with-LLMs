@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở câu hỏi về việc Apple sản xuất xe hơi và có làm cửa sổ (Windows) hay không. Đây là một câu đùa dựa trên sự chơi chữ thông minh giữa "Windows" - hệ điều hành đối thủ của Apple, và "windows" - cửa sổ trên xe hơi. Câu hỏi ngụ ý về mối quan hệ cạnh tranh giữa Apple và Microsoft (Windows) một cách hài hước.

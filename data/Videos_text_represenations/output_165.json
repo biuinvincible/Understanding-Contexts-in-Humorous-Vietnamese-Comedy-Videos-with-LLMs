@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Lâm, dừng ngay cái trò ghẹo bạn đó đi",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a woman sitting at a desk with a laptop "
+    },
+    {
+        "utterance": " Dạ thưa cô, tại em chỉ muốn biết là mấy con rùa nó có qua nhà nhau chơi với nhau được không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man and a woman are looking at a drawing "
+    }
+]

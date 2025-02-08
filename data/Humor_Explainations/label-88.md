@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách học sinh biện minh cho việc không làm bài tập về nhà. Khi bị hỏi tại sao không làm bài tập vì bố xem World Cup, học sinh đã khéo léo chơi chữ với từ "nhà" - ám chỉ việc bố cá độ bóng đá đến mức phải bán nhà, nên không còn "nhà" để làm "bài tập về nhà". Sự bất ngờ trong cách giải thích và logic "méo mó" tạo nên tiếng cười.

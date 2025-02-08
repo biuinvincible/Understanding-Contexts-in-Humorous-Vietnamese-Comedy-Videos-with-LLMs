@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh, tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc.",
+        "visual_description": "a blurry photo of a street scene with a light "
+    },
+    {
+        "utterance": " Ủa cô ơi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman in a black dress and a black tie "
+    },
+    {
+        "utterance": " Sao em?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a tie "
+    },
+    {
+        "utterance": " Nếu cuộc đời bất công với tất cả mọi người",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men standing next to each other holding a game controller "
+    },
+    {
+        "utterance": " Thì chẳng phải là nó đang công bằng với tất cả mọi người đúng không cô?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a tie and a game controller "
+    }
+]

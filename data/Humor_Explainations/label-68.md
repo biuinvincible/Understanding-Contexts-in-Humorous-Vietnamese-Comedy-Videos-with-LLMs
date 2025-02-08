@@ -1,0 +1,1 @@
+Đoạn hội thoại tạo tiếng cười thông qua những câu nói mỉa mai sắc bén. Cách sử dụng ẩn dụ so sánh "cống rãnh với đại dương" và "máng mương với thủy điện" để chế giễu đối phương tạo nên hiệu ứng hài hước chua cay. Giọng điệu trầm và cách nói chậm rãi càng làm tăng thêm sự châm biếm.

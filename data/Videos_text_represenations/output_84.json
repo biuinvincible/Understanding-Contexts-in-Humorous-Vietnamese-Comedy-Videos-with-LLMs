@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Hit sâu vào",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is standing behind another man"
+    },
+    {
+        "utterance": " Hit sâu vào",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is standing behind another man "
+    },
+    {
+        "utterance": " Hit sâu vào",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is standing behind another man "
+    },
+    {
+        "utterance": " Anh ơi anh phải cho em thở ra chứ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man is standing behind another man "
+    },
+    {
+        "utterance": " Thở mạnh ra",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man is standing behind another man "
+    }
+]

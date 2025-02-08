@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Có ai ở đây có ai ước mơ trở thành siêu nhân không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing a cap is holding a microphone on a stage"
+    },
+    {
+        "utterance": " Ai có? Giơ tay cho tôi xem",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing a cap is holding a microphone on a stage"
+    },
+    {
+        "utterance": " Một",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing a cap is holding a microphone on a stage"
+    },
+    {
+        "utterance": " Còn những người khác là không có tivi à?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing a cap is holding a microphone on a stage"
+    },
+    {
+        "utterance": " Hả",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man wearing a cap is holding a microphone on a stage"
+    }
+]

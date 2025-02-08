@@ -1,0 +1,82 @@
+[
+    {
+        "utterance": " Đi cả năm rồi, không về với em.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman is holding a cell phone in her hand "
+    },
+    {
+        "utterance": " Ghét anh ghê vậy đó.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman is holding a cell phone in her hand "
+    },
+    {
+        "utterance": " Thôi ráng yêu xa thời gian đi.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman is video calling with a man"
+    },
+    {
+        "utterance": " Năm sau là anh về rồi.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman is video calling with a man"
+    },
+    {
+        "utterance": " À...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man with a cell phone in his hand "
+    },
+    {
+        "utterance": " Ủa?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, vừa phải.",
+        "visual_description": "a woman is video calling with a man"
+    },
+    {
+        "utterance": " Sao vậy em?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man is appearing on the phone"
+    },
+    {
+        "utterance": " Chồng có nhớ cái thằng thợ sửa ống nước mười tháng trước",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman is looking at her cell phone "
+    },
+    {
+        "utterance": " chồng kêu tới sửa ống nước cho nhà mình không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman is looking at her cell phone "
+    },
+    {
+        "utterance": " Ờ, nhớ.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man is appearing on the phone"
+    },
+    {
+        "utterance": " Giờ vỡ nước rồi.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman is video calling with a man"
+    },
+    {
+        "utterance": " Ủa?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man is appearing on the phone"
+    },
+    {
+        "utterance": " Mà sao thợ gì kỳ vậy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man is appearing on the phone  "
+    },
+    {
+        "utterance": " Mới sửa đây giờ vỡ nữa rồi là sao?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man is appearing on the phone"
+    },
+    {
+        "utterance": " Không.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman is video calling with a man"
+    },
+    {
+        "utterance": " Vỡ nước ói.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman is video calling with a man"
+    }
+]

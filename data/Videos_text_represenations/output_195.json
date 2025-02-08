@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Tôi nói thật với anh, anh người phàm mắt thịt, anh làm sao mà thấy được, chỉ có cao tây ấn như tôi thì tôi mới thấy.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt stands in front of a plant, with a purple background."
+    },
+    {
+        "utterance": " Không phải là bình thường, cái nhà này bình thường như thế này, anh thấy lặng lẽ như thế mà ma nó đứng đầy xung quanh anh.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white shirt with dark hair, possibly speaking or singing."
+    },
+    {
+        "utterance": " Ghê quá vậy thầy, thầy nói nghe ớn quá à.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men in a room with a sign, one wearing green and the other white."
+    },
+    {
+        "utterance": " Nhà thầy nhiều ma, hèn gì nãy con bước vô đó, con nghe lạnh quá.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men are in the image, one wearing a green shirt and the other white."
+    },
+    {
+        "utterance": " Mày đứng ngay cái máy lạnh nó xỉa xuống mày thì không lạnh à.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and tie appears to be blowing fire."
+    },
+    {
+        "utterance": " Ma thì ma chứ làm gì có chuyện mà lạnh vì ma.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A group of people are laughing and smiling at an event or performance."
+    }
+]

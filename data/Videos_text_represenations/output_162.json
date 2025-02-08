@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Anh ơi! Cho em nói lời trăn chối được không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with a red shirt and a blue tie "
+    },
+    {
+        "utterance": " Rồi nói đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with a red shirt and a red tie "
+    },
+    {
+        "utterance": " Nếu như em đặt mục tiêu được thất bại",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man and woman are playing a video game "
+    },
+    {
+        "utterance": " thì em đạt được mục tiêu đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a tattoo on his arm "
+    },
+    {
+        "utterance": " thì là em thành công, em thất bại",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a tattoo on his arm "
+    }
+]

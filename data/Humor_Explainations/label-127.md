@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở sự nhầm lẫn trong cách xưng hô. Tình huống bắt đầu khi người nói chuyển từ gọi "cô" sang gọi "cụ", tạo ra phản ứng không hài lòng từ người được gọi qua câu hỏi "Nhiêu tuổi mà vô duyên muộn hả?". Sự hài hước được tăng cường khi người bị gọi nhầm bức xúc về việc được xưng hô không phù hợp với độ tuổi, đặc biệt là việc bị gọi già hơn tuổi thật.

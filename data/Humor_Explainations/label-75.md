@@ -1,0 +1,1 @@
+Đoạn hội thoại trở nên hài hước khi có sự hiểu lầm về việc "treo con quỷ". Khi một người đề xuất trang trí Halloween bằng cách treo "con quỷ" lên trần nhà, người kia lại nghĩ họ đang nói về việc treo "sếp" lên, dẫn đến câu nói hài hước về việc sếp quá nặng không thể treo được. Sự nhầm lẫn này tạo ra tình huống hài hước và bất ngờ.

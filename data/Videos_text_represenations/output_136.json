@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " mà ông cúng cái gì xài dữ hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "two men standing next to each other near a field "
+    },
+    {
+        "utterance": " đâu có đâu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "two men standing next to each other "
+    },
+    {
+        "utterance": " hái mấy cái cây ngoài giường tún vậy thôi à",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men standing next to each other "
+    },
+    {
+        "utterance": " cúng cái gì đây?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "two people in a field with a green cloth "
+    },
+    {
+        "utterance": " cầu bơm vú vừa đủ xài",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man standing next to a woman in a field "
+    }
+]

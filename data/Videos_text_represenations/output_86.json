@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Ba em hay có cái câu là",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Thi á con, ráng quốc cho ba con 10 nha",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Cái câu đó mọi người nghe với môn toán lý hóa",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a suit is speaking into a microphone in front of a crowd "
+    },
+    {
+        "utterance": " Mấy cái câu mà áp dụng công thức là ra đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit is speaking into a microphone in front of a crowd "
+    },
+    {
+        "utterance": " Là ra cái tờ giấy trắng đó",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Là ra khỏi phòng thi sớm đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Thì ok thì nghe nó còn hợp lý đúng không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Nhưng cái câu đó mà nghe trên đường ba em chở em đi thi IELTS",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    }
+]

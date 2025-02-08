@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này xuất phát từ tình huống éo le tại chợ cá. Câu chuyện về người phụ nữ vừa bơm môi xong đi mua cá và bị chỉ trích bởi người bán hàng tạo nên tiếng cười. Đặc biệt là câu nói mỉa mai của người bán cá "Sáng sớm bà trề môi thế này chó nó mua à?" làm nổi bật sự không phù hợp giữa việc làm đẹp quá đà và môi trường chợ búa bình dân.

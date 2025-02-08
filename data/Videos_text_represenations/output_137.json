@@ -1,0 +1,57 @@
+[
+    {
+        "utterance": " Bà ơi bà thương, bà thương cho chót",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a young man wearing a hat and sunglasses "
+    },
+    {
+        "utterance": " Bà cho con nhiều nhiều tí",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man sitting on a wall with a cell phone "
+    },
+    {
+        "utterance": " Bà cho 2 đồng trả đủ mua bó rau muống thôi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man sitting on a bench with a sign "
+    },
+    {
+        "utterance": " Con không lấy giả lại bà đây",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man with a cell phone sitting on a wall "
+    },
+    {
+        "utterance": " Ăn mày mà ra giá nữa",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman in a blue dress is standing in front of a vase "
+    },
+    {
+        "utterance": " Tiền tao tao muốn cho ít nhiêu tao cho chứ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman in a dress standing next to a plant "
+    },
+    {
+        "utterance": " Trời đất ơi thằng này nó chảnh thiệt đó nha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a painting of a man in a blue shirt and a dog "
+    },
+    {
+        "utterance": " Lấy kiểu này mà ăn nhục lắm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a hat is talking on a cell phone "
+    },
+    {
+        "utterance": " Cảm ơn",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a woman in a blue dress standing next to a statue "
+    },
+    {
+        "utterance": " Ăn mày thì ăn mày vẫn có nguyên tắc của thằng ăn mày",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man wearing a hat and a tie "
+    },
+    {
+        "utterance": " Đây bà không nhìn thấy donation minimum 10$",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a sign that says \"no parking\" on it "
+    }
+]

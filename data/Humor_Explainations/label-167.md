@@ -1,0 +1,1 @@
+Yếu tố hài hước được tạo ra từ cách chơi chữ thông minh với từ "hotdog" và "colddog". Người nói tạo ra một câu đùa dựa trên logic ngô nghê rằng khi cho hotdog (món ăn nóng) vào tủ lạnh, nó sẽ biến thành "colddog" (chó lạnh), bằng cách thay đổi tiền tố "hot" thành "cold". Sự kết hợp giữa logic trẻ con và cách chơi chữ tạo nên tiếng cười.

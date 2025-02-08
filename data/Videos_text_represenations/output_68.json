@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Chị đánh em đau thế mà, đánh ông này nhẹ thế",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a green costume holds a black and white cat, standing with two others."
+    },
+    {
+        "utterance": " mày thích bì tị à?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a colorful costume stands with two others in front of an archway."
+    },
+    {
+        "utterance": " hmmm...",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a red robe and another in a black and gold costume stand together."
+    },
+    {
+        "utterance": " mày nhìn lại cái mặt mày xem",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a colorful costume with a large, dark, wild hairstyle."
+    },
+    {
+        "utterance": " cống rãnh nhưng đòi sóng sánh với đại dương",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "Three people in colorful costumes are standing on a stage with a blue sky background."
+    },
+    {
+        "utterance": " máng mương nhưng đòi tương đương với thủy điện à",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "Three people in colorful costumes stand on a stage with a circular backdrop."
+    }
+]

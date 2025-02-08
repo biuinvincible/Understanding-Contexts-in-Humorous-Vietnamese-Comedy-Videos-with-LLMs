@@ -1,0 +1,97 @@
+[
+    {
+        "utterance": " Nỗi lòng người Nam gốc Bắc",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a gray suit jacket and tan pants holds a microphone."
+    },
+    {
+        "utterance": " Như mọi người đã biết rồi thì em là người Nam gốc Bắc",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit and white pants is holding a microphone."
+    },
+    {
+        "utterance": " Khi mà em diễn bằng tiếng Nam nhiều quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A crowd of people is seated in a theater, watching something."
+    },
+    {
+        "utterance": " thì lên những clip thì sẽ có những comment chửi là",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit and light pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Thằng này nó pha tiếng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a brown suit and tan pants holds a microphone, pointing with his finger."
+    },
+    {
+        "utterance": " Mày nói dốc Bắc là pha tiếng, chém cha không bằng pha quế",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit holds a microphone and points at the camera."
+    },
+    {
+        "utterance": " Tiếng đó là tíêng của em",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a red shirt sits in a chair, with another person visible behind them."
+    },
+    {
+        "utterance": " Em không phải là thằng Bắc.... em là Bắc Thật",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit and glasses holds a microphone on stage."
+    },
+    {
+        "utterance": " Em không phải là hàng Bắc Rep",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man in a dark suit and white pants holds a microphone, gesturing with his hand."
+    },
+    {
+        "utterance": " Em là Bắc Auth",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a brown suit and white pants is holding a microphone."
+    },
+    {
+        "utterance": " Thần thoại Bắc Auth",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit jacket holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Thì em thấy là thật ra cũng có một vài điều",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a suit holding a microphone."
+    },
+    {
+        "utterance": " ở Hà Nội mà em thấy cũng không Hà Nội lắm",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a brown suit and glasses holds a microphone, standing in front of a blue background."
+    },
+    {
+        "utterance": " Ví dụ như",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown jacket holds a microphone, with a blue background."
+    },
+    {
+        "utterance": " Bia hơi Hà Nội",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và êm dịu.",
+        "visual_description": "A person in a suit stands with a microphone, likely speaking or singing."
+    },
+    {
+        "utterance": " Thì lần này em đi thì em còn phát hiện ra là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a brown suit holds a microphone, with his mouth open."
+    },
+    {
+        "utterance": " Bún chả Hà Nội",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A crowd of people sits in a theater, with some people standing at the back."
+    },
+    {
+        "utterance": " Nem thì nó cũng rán Hà Nội thôi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit jacket holds a microphone, standing against a blue background."
+    },
+    {
+        "utterance": " Hà Nội chưa Hà Nội lắm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a dark suit holds a microphone, possibly performing or speaking."
+    }
+]

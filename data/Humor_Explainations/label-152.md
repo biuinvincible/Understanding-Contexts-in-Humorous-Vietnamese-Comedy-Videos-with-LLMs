@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người nói đưa ra một câu hỏi có vẻ logic nhưng thực chất là một câu nói đùa về mối quan hệ giữa kích thước và độ tuổi của bức ảnh. Cách chơi chữ này tạo ra sự hài hước khi gắn kết hai khái niệm không liên quan - kích thước vật lý của bức ảnh và thời gian chụp ảnh.

@@ -1,0 +1,57 @@
+[
+    {
+        "utterance": " Mình nghĩ những sự tích cây đa mọi người đã đọc rồi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit holds a microphone and speaks on stage."
+    },
+    {
+        "utterance": " cho nên mình hôm nay mình sẽ không đọc lại, kể cho mọi người nghe những cái mà mình nghĩ ít người biết hơn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit holds a microphone and appears to be speaking."
+    },
+    {
+        "utterance": " Đó là những dị bản",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black jacket holds a microphone and sings."
+    },
+    {
+        "utterance": " Khi ở độ tuổi này mình đọc và là một diễn viên hài thì mình thấy có rất nhiều điểm kỳ cục",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person is standing on a stage, holding a microphone."
+    },
+    {
+        "utterance": " mà mình thấy nó rất mắc cười nên mình muốn kể cho mọi người nghe",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone, smiling at the camera."
+    },
+    {
+        "utterance": " Câu chuyện thứ nhất",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói nhanh.",
+        "visual_description": "A man in a black suit holds a microphone, with a black background."
+    },
+    {
+        "utterance": " SỰ TÍCH THỎ NGỌC",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, sáng, rõ nét, sôi nổi, đều và chậm.",
+        "visual_description": "A person in a black shirt holds a microphone, possibly performing or speaking."
+    },
+    {
+        "utterance": " Ngày xưa ngày xưa có ba ông tiên",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in black attire stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Một hôm nọ ba ông quyết định là xuống trần gian để thử lòng chúng sanh",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A man in a black suit and tie stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Cho nên ba ông mới hóa thân thành ba ông già",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone, set against a dark background."
+    },
+    {
+        "utterance": " Tức là thay đồ thôi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person with short hair holds a microphone, wearing a black jacket and shirt."
+    }
+]

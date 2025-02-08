@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Quan, mày thiếu nợ đại ca tao bao nhiêu cây vàng mày nhớ không mày?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "A person in a white shirt is on the floor, while others stand nearby."
+    },
+    {
+        "utterance": " Dạ nhớ, lúc mượn 10 cây, tiền lời cắt cổ là...",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black pants stands with others on a stage set."
+    },
+    {
+        "utterance": " Hả?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black pants stands with others on a stage set."
+    },
+    {
+        "utterance": " À dạ không, tiền lời nhẹ nhàng, vốn lẫn lời là 22 cây ạ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a blue shirt is speaking, with another man in white partially visible."
+    },
+    {
+        "utterance": " Rồi mày tính lúc nào mày trả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants stands on a stage with others."
+    },
+    {
+        "utterance": " Dạ chắc tới đời con em trả mới nổi quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black hat is on stage with three others."
+    },
+    {
+        "utterance": " Ba ba, cái chuyện mà cứu ba thì con sẽ cứu, nhưng chuyện gì ra chuyện đó",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt is standing next to a table with a teapot on it."
+    },
+    {
+        "utterance": " Bây giờ đó, đời của ba ăn mặn thì ba đừng có bắt đời con khát nước",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black cap touches another person's chest."
+    },
+    {
+        "utterance": " Rồi bắt đời cháu ba phải đi tiểu, tội nghiệp nó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt is touching another person's shoulder."
+    }
+]

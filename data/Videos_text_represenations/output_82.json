@@ -1,0 +1,87 @@
+[
+    {
+        "utterance": " Khi mà 1 quyển vở mà ghi 10 môn như thế này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a black shirt talking on a cell phone "
+    },
+    {
+        "utterance": " Là ông nào mà vớ vớ vớ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit talking on a cell phone "
+    },
+    {
+        "utterance": " phải vở của em mà đọc vào",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "a man in a suit talking on a cell phone "
+    },
+    {
+        "utterance": " tẩu hỏa nhập ma luôn",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, ấm áp, đều đặn, vừa phải.",
+        "visual_description": "a man in a suit talking on a cell phone "
+    },
+    {
+        "utterance": " Kiểu như là",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a man standing on a sidewalk talking on a cell phone "
+    },
+    {
+        "utterance": " Sau khi hồn Trương Ba nhập vào xác ông hàng thịt",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Ngay lập tức ông bèn chạy về nhà",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " tính đạo hàm căn bậc 2",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Câu chuyện này cũng chẳng có cái gì cả cho đến khi là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Trong giờ kiểm tra đầu giờ, giờ vật lý",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Thằng bạn em nó lấy vở của em",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, ít biến động.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " để nó trả bài",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Buổi trước là học cái bài về định luật 3 Newton",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " Thằng bạn em nó lấy vở của em nó đọc",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a bandana standing next to a sign "
+    },
+    {
+        "utterance": " Định luật 3 Newton phát biểu rằng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man is speaking into a microphone"
+    },
+    {
+        "utterance": " vào năm 1925",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "a man is talking on a cell phone "
+    },
+    {
+        "utterance": " Bản án chế độ Thực dân Pháp ra đời",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man is speaking into a microphone"
+    }
+]

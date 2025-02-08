@@ -1,0 +1,72 @@
+[
+    {
+        "utterance": " Gớm, mà hôm nay thế anh gọi vợ anh về có việc gì",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white robe is seen with their mouth open, as if speaking."
+    },
+    {
+        "utterance": " Mà vợ anh như thế nào anh kể tôi nghe rồi tôi giúp cho",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men sit on a rug, one dressed in green and the other in white."
+    },
+    {
+        "utterance": " Trời ơi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "Two men sit on a red and white rug in front of a red table."
+    },
+    {
+        "utterance": " Vợ công việc chết đuối",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "Two men sit on a rug, one wearing green and the other white, in a room."
+    },
+    {
+        "utterance": " Mấy tháng này đêm nào nó cũng hiện về",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men sit on a rug, one in a green shirt and the other in white."
+    },
+    {
+        "utterance": " Làm con ngủ không có được",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a green shirt and tie sits in front of a dresser."
+    },
+    {
+        "utterance": " Đây này",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a green shirt and tie sits in front of a wooden dresser."
+    },
+    {
+        "utterance": " Nếu đã hiện về như thế",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "Two men sit on a pink rug, one in a green shirt and the other in white robes."
+    },
+    {
+        "utterance": " Tất nhiên bà phải có sự oan ức",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men, one in a green shirt and the other in white robes, sit on a rug."
+    },
+    {
+        "utterance": " Thôi bây giờ anh cứ kêu bà ấy về đi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white robe with short dark hair and a microphone is speaking."
+    },
+    {
+        "utterance": " Đôi khi bà còn thiếu nợ ai ở trên trần giang",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man wearing a white shirt is speaking into a microphone."
+    },
+    {
+        "utterance": " Bà không muốn vướng víu",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "Two men sit on a rug in front of a red dresser with a plant."
+    },
+    {
+        "utterance": " Bà nhờ anh trả hộ thì sao",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and tie is speaking on a TV show."
+    },
+    {
+        "utterance": " Vậy thôi kh...khỏi kêu bả về thầy",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A solid black background with no visible objects or features."
+    }
+]

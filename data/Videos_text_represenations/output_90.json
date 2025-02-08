@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " tại sao gọi môn bóng đá là thể thao vua",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " dạ em nghĩ là tại môn đó là cho vua coi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " với lại trong cung toàn thái giám đá không",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " nên gọi là bóng đá",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

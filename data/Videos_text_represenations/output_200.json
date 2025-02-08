@@ -1,0 +1,157 @@
+[
+    {
+        "utterance": " Đây 9 cái này là đốt về thiên đình",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in white holds a golden object, with a red and white mat below."
+    },
+    {
+        "utterance": " 1, 2, 3, 4, 5, 6, 7",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in white attire is sitting on a mat, holding a yellow object."
+    },
+    {
+        "utterance": " 7 cái này là đốt về âm phủ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and another in white sit on a rug."
+    },
+    {
+        "utterance": " Một cái này là tôi đốt ở đây để gọi hồn vợ anh về",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men sit on a rug, one in a green shirt and the other in white."
+    },
+    {
+        "utterance": " Tổng cộng là 270 đô",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt sits on the floor, with a table behind him."
+    },
+    {
+        "utterance": " Kể cả tiền deposit",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in white attire sits on the floor, with a wooden table nearby."
+    },
+    {
+        "utterance": " Thầy ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and tie sits in front of a plant."
+    },
+    {
+        "utterance": " Gọi hồn sao hao dữ vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, vừa phải.",
+        "visual_description": "A man in a green shirt and tie sits in front of a curtain."
+    },
+    {
+        "utterance": " Tôi tính cái này có 10 đồng một tờ thôi mà",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men sit on a rug, one in a green shirt and tie, the other in white."
+    },
+    {
+        "utterance": " Đâu có cần đốt nhiều vậy thầy",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a green shirt and tie is shown with his eyes closed."
+    },
+    {
+        "utterance": " Anh này buồn cười nhờ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, vừa phải.",
+        "visual_description": "Two men sit on a rug, one in white and the other in green."
+    },
+    {
+        "utterance": " Thế anh sang Úc anh có xin visa không",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men sit on a rug in front of a red desk with golden objects."
+    },
+    {
+        "utterance": " Dạ có",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, ít biến động, chậm.",
+        "visual_description": "Two men sitting on a rug in front of a desk, one in a green shirt and the other in white."
+    },
+    {
+        "utterance": " Đấy anh xin visa thì đây tôi cũng xin visa cho vợ anh đây",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and tie is visible on the left side."
+    },
+    {
+        "utterance": " Mà gửi cái này có phải visa thường đâu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a green shirt and tie sits on the floor with another man."
+    },
+    {
+        "utterance": " Cái này là visa ét prét",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men sit on a purple rug in front of a dresser with various items."
+    },
+    {
+        "utterance": " Gọi là nó phải về ngay là ét prét",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a green shirt and tie sits in front of a tree."
+    },
+    {
+        "utterance": " Hiểu không",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A group of people are seated in an audience, laughing and clapping together."
+    },
+    {
+        "utterance": " Thành thử ra mới đưa cái visa này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men sit on a rug, one in green and the other in white."
+    },
+    {
+        "utterance": " Mà bây giờ tôi cũng không biết vợ anh là đang trên hay là ở dưới",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A crowd of people laugh and smile at an event or performance."
+    },
+    {
+        "utterance": " Thành thử ra tôi cũng vừa gửi lên trên",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A crowd of people laughing and smiling, with some covering their mouths."
+    },
+    {
+        "utterance": " Mà tôi vừa gửi xuống dưới",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "Two men sit on a rug, one in a green shirt and the other in a white robe."
+    },
+    {
+        "utterance": " Đụng đâu thì nó về đấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white robe gestures with his hand, possibly speaking or singing."
+    },
+    {
+        "utterance": " Hiểu không",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white robe sits on the floor, with a table to his left."
+    },
+    {
+        "utterance": " Con biết chắc chắn là vợ con ở trên chứ không ở dưới đâu",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a white robe sits in a chair, looking to the left."
+    },
+    {
+        "utterance": " Đôi khi nó ở dưới thì sao",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white robe is sitting with his left arm bent."
+    },
+    {
+        "utterance": " Không có đâu",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "Two men sit on a mat in front of a dresser, one wearing a green shirt and the other white."
+    },
+    {
+        "utterance": " Tại vì lúc còn sống bà giúp biết bao nhiêu người lâm vào bước đường cùng",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man in a white shirt with black hair tied back is shown."
+    },
+    {
+        "utterance": " Vợ anh cũng làm từ thiện thế ngày xưa bà nàm gì",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men sit on a rug with a table and cityscape in the background."
+    },
+    {
+        "utterance": " Dạ mở tiệm cầm đồ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A male in a green shirt and brown tie is shown in the picture."
+    },
+    {
+        "utterance": " Bây giờ tôi nghĩ bà nằm còn dưới hơn cái chữ dưới",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Two men sitting on a rug in front of a table with various objects."
+    }
+]

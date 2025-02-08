@@ -1,0 +1,1 @@
+Yếu tố hài hước được tạo ra từ cách chơi chữ và mâu thuẫn trong câu nói "Tiền không phải là tất cả, nhưng mà không có tiền... vất vả em ơi". Cách nói này vừa thể hiện sự thật đắng về vai trò của tiền bạc, vừa tạo ra tiếng cười từ việc phá vỡ kỳ vọng của người nghe về một câu nói triết lý.

@@ -1,0 +1,1 @@
+Yếu tố hài hước xuất phát từ cách chơi chữ với "du lịch bụi". Khi người yêu đề xuất du lịch tiết kiệm bằng cách đi "du lịch bụi", người kia đã hiểu theo nghĩa đen và đề xuất đưa đến công trường - nơi có nhiều bụi thực sự. Sự mâu thuẫn giữa nghĩa bóng và nghĩa đen của từ "bụi" tạo nên tiếng cười.

@@ -1,0 +1,1 @@
+Sự hài hước được tạo ra từ câu hỏi ngây thơ về logic của việc tổ chức sinh nhật. Người hỏi đặt ra một thắc mắc có vẻ vô lý nhưng lại khá thú vị về khoảng thời gian chờ đợi giữa thời điểm sinh ra (9 tháng) và thời điểm tổ chức sinh nhật đầu tiên (12 tháng sau khi sinh), tạo nên tiếng cười từ cách nhìn nhận ngây thơ về quy ước xã hội.

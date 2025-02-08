@@ -1,0 +1,57 @@
+[
+    {
+        "utterance": " Ba suy nghĩ đi hồi nãy con hả đi ra ngoài đường á con gặp ông Sáu Râu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and grey pants is handing a green object to another person."
+    },
+    {
+        "utterance": " Ông chỉ vô mặt con ông nói ba mày giựt hụi tao một năm nay không trả rồi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a white shirt and gray pants stands next to another wearing a blue shirt."
+    },
+    {
+        "utterance": " Bây giờ mày về mày thông báo với ba mày tao sẽ qua tao đốt nhà ba mày",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black pants is gesturing with their hands."
+    },
+    {
+        "utterance": " Trời ơi! Rồi mày tả lời sao?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm áp, đều đặn và vừa phải.",
+        "visual_description": "A person in a white shirt and black hat holds a small white object."
+    },
+    {
+        "utterance": " Con mới nói bây giờ chú muốn đốt cứ tự nhiên qua đốt khỏi cần thông báo",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap is gesturing with their hand."
+    },
+    {
+        "utterance": " Sao mày nói kì vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "A person in a white shirt and black cap stands beside a table with a tablecloth."
+    },
+    {
+        "utterance": " Bởi vì con thấy cái nhà này không phải là nhà của mình",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a blue shirt stands in front of a purple curtain."
+    },
+    {
+        "utterance": " Ngày xưa nó là nhà của mình và bây giờ ba tiễn nó đi bằng số đề rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap stands beside a table with vegetables."
+    },
+    {
+        "utterance": " Bây giờ người khác làm chủ rồi bây giờ quyết định là cho người ta",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants is standing next to a chair."
+    },
+    {
+        "utterance": " Cho mình mướn bây giờ muốn đốt là đốt nhà người ta không phải đốt nhà mình",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black hat stands beside a chair, facing another man."
+    },
+    {
+        "utterance": " Vô tư! Vô tư!",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black cap is the central figure."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Thưa thầy",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " Con người có phải là động vật săn mồi vào ban đêm không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " Không, con người chúng ta hoạt động vào buổi sáng mà em",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a black vest "
+    },
+    {
+        "utterance": " Nhưng sáng đi làm, tối chúng ta đi nhậu mới có thời gian săn mồi như thế này",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

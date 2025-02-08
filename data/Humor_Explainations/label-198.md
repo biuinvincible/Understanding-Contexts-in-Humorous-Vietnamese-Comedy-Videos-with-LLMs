@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở câu chuyện về cái chết "oan" của một người. Ban đầu người kể tạo không khí căng thẳng với việc nói về cái chết oan ức, nhưng khi tiết lộ nguyên nhân là do đi cướp ngân hàng và bị bắn 4 phát M79, lại còn than phiền nạn nhân "yếu" vì "chịu không nổi", tạo nên tiếng cười từ sự phi lý trong lập luận.

@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Nếu như con người không nhìn thấy không khí,",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with a white shirt and a black tie "
+    },
+    {
+        "utterance": " Vậy cá có nhìn thấy nước không cô?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with glasses and a tie "
+    }
+]

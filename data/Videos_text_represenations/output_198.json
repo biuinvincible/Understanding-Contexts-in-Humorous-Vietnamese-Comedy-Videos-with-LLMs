@@ -1,0 +1,57 @@
+[
+    {
+        "utterance": " Nè nè nè, nghe tao hỏi, tại sao ba mày chết?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "Three children sit in red chairs, smiling and laughing together."
+    },
+    {
+        "utterance": " Oan lắm chứ ơi, oan lắm chứ ơi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A man in a green shirt and a boy in a black jacket are standing together."
+    },
+    {
+        "utterance": " Oan là oan sao?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, sáng, rõ nét, sôi nổi, đều và nhanh.",
+        "visual_description": "Two men are standing in front of a sign with red and blue text."
+    },
+    {
+        "utterance": " Bố cháu bị bắn chết oan, nên mẹ cháu khóc rầu rã suốt mấy tháng trời",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, sôi nổi, vừa phải.",
+        "visual_description": "Two men, one young and one older, are standing in front of a sign."
+    },
+    {
+        "utterance": " Khổ quá",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi, vừa phải.",
+        "visual_description": "A boy in a red shirt and black jacket is shown with a microphone."
+    },
+    {
+        "utterance": " Mà tại sao ba mày bị bắn chết oan?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A boy in a suit and red shirt stands beside a man wearing a green shirt."
+    },
+    {
+        "utterance": " Cướp ngân hàng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A crowd of people, mostly women, are laughing and smiling in an audience setting."
+    },
+    {
+        "utterance": " Mà ổng yếu thiệt, đơn giản chỉ có 4 phát m79 thụt vào ổng, mà ổng chịu không nổi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A young boy in a black jacket stands next to a man in a green shirt."
+    },
+    {
+        "utterance": " Trời ơi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "Two men in dress shirts and ties stand beside a sign with Vietnamese writing."
+    },
+    {
+        "utterance": " Thế mới bảo là chết oan",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and tie is centered, with a logo on the bottom right."
+    },
+    {
+        "utterance": " Trời ơi, 4 phát m79 mà thụt cả dòng họ mày hổng chết là hên đó, huống chỉ mà nói mình ổng chịu không nổi, thôi dẹp đi mày!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A young boy in a black suit jacket, red shirt, and black tie is shown."
+    }
+]

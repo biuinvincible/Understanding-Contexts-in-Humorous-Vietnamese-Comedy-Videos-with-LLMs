@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Bữa lên Tinder",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a brown jacket holds a microphone, standing against a black background."
+    },
+    {
+        "utterance": " Mọi người thường lên Tinder mọi người kiếm gì? Người yêu",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a brown jacket and dark pants holds a microphone."
+    },
+    {
+        "utterance": " Kiếm một người bạn nào đó để thoả mãn một cái nhu cầu nào đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown jacket holds a microphone, gesturing with his hand."
+    },
+    {
+        "utterance": " Xong có mấy người kiểu...",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A man stands on a stage, holding a microphone and gesturing with his hand."
+    },
+    {
+        "utterance": " Chụp hình gia đình",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man stands on a stage, holding a microphone and wearing a jacket."
+    }
+]

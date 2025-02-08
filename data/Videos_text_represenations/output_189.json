@@ -1,0 +1,77 @@
+[
+    {
+        "utterance": " Tại ba chứ ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are on stage, one wearing a red and gold outfit, the other in white."
+    },
+    {
+        "utterance": " Tại tao sao tại tao?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man and woman stand on a stage with a table and chairs."
+    },
+    {
+        "utterance": " Tại ba là con kêu ba đi buổi sáng đi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "Two men, one in a red and gold outfit and the other in a white suit, are standing on stage."
+    },
+    {
+        "utterance": " Ba nói buổi sáng ba kẹt đi coi cúp châu Mỹ, Nam Mỹ gì đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one in a red and gold outfit and the other in a white suit."
+    },
+    {
+        "utterance": " Xong con kêu ba đi buổi trưa?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a red and yellow outfit is singing on stage."
+    },
+    {
+        "utterance": " Buổi trưa mấy đứa thanh niên trong phường nó đá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in an orange outfit and hat stands beside a man in a white suit."
+    },
+    {
+        "utterance": " Xong con kêu ba đi buổi chiều?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "A man in a red hat and orange shirt with gold circles on it."
+    },
+    {
+        "utterance": " Buổi chiều mấy đứa thiếu nhi nó đá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in traditional Chinese attire, with a red hat and matching robe."
+    },
+    {
+        "utterance": " Thì bây giờ có buổi tối thôi à",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A man in a red shirt and hat is speaking into a microphone."
+    },
+    {
+        "utterance": " Mày biết tao ghiền bóng đá mà, bữa tối nhưng mà bữa nay tao book lộn lịch",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two Asian men are standing on a stage, facing each other under a blue spotlight."
+    },
+    {
+        "utterance": " Tao lấy đủ lịch tao đâu có biết",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white suit and glasses stands in front of a dark background."
+    },
+    {
+        "utterance": " À thì ra là nãy giờ sáng giờ ba lề mề là tại ba không muốn đi tại tối nay ba coi trận chung kết Chelsea với Manchester đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white suit jacket with dark hair and glasses is speaking."
+    },
+    {
+        "utterance": " Đúng rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man and woman stand on a stage with a table and chairs."
+    },
+    {
+        "utterance": " Mày đổi ngày khác đi hỏi vợ ngày nào hỏi không được",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man and woman stand on a stage with a table and chairs."
+    },
+    {
+        "utterance": " Chung kết năm có 1 ngày chứ mấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white jacket and glasses is speaking into a microphone."
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở việc thay đổi kích cỡ quần áo. Câu chuyện xoay quanh việc size áo của một người thay đổi từ XXXL xuống còn S, một sự thay đổi cực đoan về kích cỡ. Sự hài hước được tăng cường qua câu hỏi mỉa mai "Thế từ trên xuống dưới còn chỗ nào giữ được size cũ không?", ngụ ý về sự thay đổi đáng kể về cân nặng của người được nhắc đến.

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người thua cược chuyển từ thất vọng sang thái độ bất cần bằng cách gọi số tiền 10 triệu là "thí cô hồn". Điểm cười đến từ phản ứng bực tức của người thắng cược khi nghe đối phương coi thường số tiền thắng cược của mình bằng cụm từ mang tính tâm linh "thí cô hồn", làm giảm đi niềm vui chiến thắng của người thắng cuộc.

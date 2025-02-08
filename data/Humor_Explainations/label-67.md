@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người kể chứng kiến một ông đánh đứa trẻ và muốn can thiệp nhưng lại ngại vì "ông quá bự". Sự mâu thuẫn giữa cảm xúc phẫn nộ và thực tế về khả năng thể chất tạo nên tiếng cười. Cách kể chuyện với giọng điệu trầm và chậm rãi càng làm nổi bật sự hài hước của tình huống.

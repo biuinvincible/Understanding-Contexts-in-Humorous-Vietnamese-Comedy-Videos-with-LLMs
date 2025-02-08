@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách chơi chữ thông minh với từ "hóa". Người nói bắt đầu bằng câu hỏi về môn hóa học, sau đó chuyển sang sử dụng từ "tha hóa" trong một ngữ cảnh hoàn toàn khác, tạo ra một câu nói mang tính triết lý hài hước. Sự chuyển đổi bất ngờ từ môn học sang vấn đề đạo đức xã hội tạo nên tiếng cười.

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người đàn ông tự chế giễu bản thân. Khi được hỏi tại sao không quen Hà mà lại quen người phụ nữ hiện tại, anh ta thẳng thắn đáp "Tại anh ngu á" - một câu trả lời tự châm biếm bản thân nhưng cũng ngụ ý rằng quyết định quen người phụ nữ hiện tại là một quyết định không sáng suốt.

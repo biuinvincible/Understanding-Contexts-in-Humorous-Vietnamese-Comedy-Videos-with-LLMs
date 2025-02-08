@@ -1,0 +1,1 @@
+Tình huống hài hước đến từ cách người cha vội vàng hỏi vợi cho con để kịp về xem bóng đá. Thay vì thực hiện nghi thức hỏi cưới trang trọng, ông chỉ hỏi nhanh gọn "Cho cưới không?" và lặp đi lặp lại câu hỏi, tạo nên tình huống vừa hài hước vừa gấp gáp, phản ánh tình yêu bóng đá đặc biệt của người cha.

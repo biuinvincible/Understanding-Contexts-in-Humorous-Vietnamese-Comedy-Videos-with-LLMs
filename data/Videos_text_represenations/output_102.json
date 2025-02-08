@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Câu hỏi tiếp theo",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm áp và nhiều âm sắc.",
+        "visual_description": "a man in a t-shirt "
+    },
+    {
+        "utterance": " Ở Việt Nam cái tên nào bị người ta chửi nhiều nhất?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a t-shirt "
+    },
+    {
+        "utterance": " Tên Như",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a traditional costume "
+    },
+    {
+        "utterance": " Tại sao tên Như?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a t-shirt "
+    },
+    {
+        "utterance": " Ủa chứ mày không nghe ta chửi hả?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a traditional costume "
+    },
+    {
+        "utterance": " Ngu như heo, lì như bò, hai đứa tấu hề vô duyên như hạch",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a traditional costume "
+    }
+]

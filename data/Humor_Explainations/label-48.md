@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi Táo chúc Ngọc Hoàng "vạn tuế, triệu tuế, tỉ tuế, đô la tuế". Sự hài hước nằm ở việc thêm "đô la tuế" vào câu chúc truyền thống, với lý giải rằng đô la ổn định hơn vàng. Đây là cách đưa yếu tố hiện đại (tỷ giá đô la) vào nghi thức cổ truyền, tạo nên sự tương phản dí dỏm và châm biếm tinh tế về tình hình kinh tế.

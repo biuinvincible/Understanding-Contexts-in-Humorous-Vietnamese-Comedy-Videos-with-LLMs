@@ -1,0 +1,62 @@
+[
+    {
+        "utterance": " Cậu đến đây làm gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is sitting on a chair while a man is walking next to him "
+    },
+    {
+        "utterance": " Anh ngồi đây làm gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man is sitting on a chair while a man is walking next to him "
+    },
+    {
+        "utterance": " Tôi là bác sĩ, em là con bệnh, em đến khám bệnh",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two people standing next to each other "
+    },
+    {
+        "utterance": " Sức khỏe thế nào?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man is standing"
+    },
+    {
+        "utterance": " Sức khỏe tốt chả sao",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in t-shirt is standing "
+    },
+    {
+        "utterance": " Sức khỏe tốt thì cậu đến đây làm gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a doctor uniform"
+    },
+    {
+        "utterance": " Em đến khám bệnh",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in t-shirt is standing "
+    },
+    {
+        "utterance": " Bệnh gì?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in t-shirt is standing "
+    },
+    {
+        "utterance": " Ơ anh đã khám đâu mà em biết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in t-shirt is standing "
+    },
+    {
+        "utterance": "Ơ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in t-shirt is standing "
+    },
+    {
+        "utterance": " Bác sĩ phải khám bệnh nhân mới biết bệnh gì chứ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two people standing next to each other "
+    },
+    {
+        "utterance": " Chưa khám rồi hỏi bệnh nhân bệnh gì, cần gì bác sĩ?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a t-shirt is standing next to another man who is sitting on a chair"
+    }
+]

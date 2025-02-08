@@ -1,0 +1,1 @@
+Đoạn hội thoại tạo tiếng cười thông qua việc chơi chữ và vòng vo khi trả lời câu hỏi "Thằng này con nhà ai?". Thay vì trả lời thẳng, người đối thoại liên tục đưa ra những câu trả lời hiển nhiên nhưng không đi vào trọng tâm: "con bố nó", "bố nó là chồng mẹ nó", "là người đẻ ra nó". Cách trả lời lòng vòng này tạo nên tình huống hài hước.

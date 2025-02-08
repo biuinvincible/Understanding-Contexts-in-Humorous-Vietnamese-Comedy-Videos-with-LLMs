@@ -1,0 +1,1 @@
+Sự hài hước trong câu nói này đến từ một nghịch lý thú vị về bệnh viện. Người nói chỉ ra một điểm độc đáo: bệnh viện là nơi duy nhất mà con người có thể rời đi mà không cần phải vào (vì họ được sinh ra ở đó). Câu nói tạo tiếng cười thông qua việc chỉ ra một thực tế hiển nhiên nhưng ít ai để ý đến này.

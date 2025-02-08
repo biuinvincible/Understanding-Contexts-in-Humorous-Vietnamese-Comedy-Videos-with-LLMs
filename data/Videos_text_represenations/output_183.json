@@ -1,0 +1,72 @@
+[
+    {
+        "utterance": " Anh Quang ơi tôi giới thiệu cho anh nha",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two women, one standing and the other moving, are shown in a room with a purple curtain."
+    },
+    {
+        "utterance": " Đây là con dâu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman and man stand together, with the man holding a small object."
+    },
+    {
+        "utterance": " Việt Kiều ở bên Mỹ mới về",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a blue robe stands beside a woman with long hair and a floral top."
+    },
+    {
+        "utterance": " Qua chào bố chồng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A woman with dark hair and a pink top stands in front of a purple background."
+    },
+    {
+        "utterance": " Chồng hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a pink top stands next to two people, one wearing a blue robe."
+    },
+    {
+        "utterance": " Ừ, nhanh",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Three individuals, two women and a man, are standing in a room with a table."
+    },
+    {
+        "utterance": " Chồng hả?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a blue outfit stands on stage, surrounded by people and furniture."
+    },
+    {
+        "utterance": " Sao không nói trước gì hết vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a blue outfit stands in the center of a room with others."
+    },
+    {
+        "utterance": " Bố chồng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is crouched on the floor, surrounded by others."
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a blue silk outfit stands center stage, flanked by two women and a person crouching."
+    },
+    {
+        "utterance": " Con chào anh bố chồng ạ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A person in a blue outfit stands on stage, accompanied by three others and a table with chairs."
+    },
+    {
+        "utterance": " Ơi trời ơi tại bố",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman and man in traditional attire stand side by side, engaged in conversation."
+    },
+    {
+        "utterance": " Con nhìn thấy bố trẻ quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, đều, vừa phải",
+        "visual_description": "A woman in a pink top and a man in a blue robe are standing together."
+    },
+    {
+        "utterance": " Con tưởng nó thằng nào",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a pink dress and a man in a blue robe are dancing together."
+    }
+]

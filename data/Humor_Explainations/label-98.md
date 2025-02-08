@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người thầy giáo bị tát vì sai sót lịch sử. Câu nói "Em hãy yêu những trận đánh của Quang Trung và Nguyễn Huệ" chứa một sai lầm cơ bản vì Quang Trung và Nguyễn Huệ là cùng một người. Khi thầy giáo định nói "Hai anh em Quang Trung và..." thì bị tát, tạo nên tình huống hài hước từ việc giáo viên mắc lỗi kiến thức cơ bản trong khi đang giảng dạy.

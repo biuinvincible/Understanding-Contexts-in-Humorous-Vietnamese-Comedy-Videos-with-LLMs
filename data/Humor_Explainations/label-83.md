@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh cuộc đối thoại giữa bác sĩ và bệnh nhân. Yếu tố hài nằm ở sự mâu thuẫn logic khi bác sĩ hỏi bệnh nhân bệnh gì trước khi khám, và câu trả lời thông minh của bệnh nhân: "Ơ anh đã khám đâu mà em biết". Sự hài hước được tăng cường qua việc bệnh nhân chỉ ra sự vô lý trong cách hỏi bệnh của bác sĩ.

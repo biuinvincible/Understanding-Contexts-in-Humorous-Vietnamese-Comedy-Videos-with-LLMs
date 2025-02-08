@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Con gái Phú ông",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man dressed in traditional attire"
+    },
+    {
+        "utterance": " Tên là Mầu Thị",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man dressed in traditional attire"
+    },
+    {
+        "utterance": " Cụ, cụ, cụ, cụ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman dressed in traditional attire"
+    },
+    {
+        "utterance": " Con Thị Mầu, nó tên là Thị Mầu, sao cụ lại gọi nó là Mầu Thị?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman dressed in traditional attire"
+    },
+    {
+        "utterance": " Mày dốt, mày không theo kịp thời đại rồi con ạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man dressed in traditional attire"
+    },
+    {
+        "utterance": " Ngày xưa ở làng mình nó gọi là Thị Mầu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man dressed in traditional attire"
+    },
+    {
+        "utterance": " Vâng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 peolple in traditional attire stading next to each other"
+    },
+    {
+        "utterance": " Nhưng bây giờ Mỹ Tây nó sang, nó làm, nó đầu tư nhiều lắm rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 peolple in traditional attire stading next to each other"
+    },
+    {
+        "utterance": " Bây giờ nó phải đổi ngược lại, tên là Mầu Thị, hiểu chưa ?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 peolple in traditional attire stading next to each other on a stage"
+    },
+    {
+        "utterance": " Ồ, thế ờ, mình nghĩ là ngược",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 peolple in traditional attire stading next to each other on a stage"
+    },
+    {
+        "utterance": "Thế mày tên gì?",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh",
+        "visual_description": "a man dressed in traditional attire"
+    },
+    {
+        "utterance": " Con á, tên thật, trong giấy khai sanh của con á, tên là Trần Thị Cở",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "2 peolple in traditional attire stading next to each other"
+    },
+    {
+        "utterance": " Đấy, mày sang Mỹ nó đổi lại là cởi trần ngay",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man dressed in traditional attire"
+    }
+]

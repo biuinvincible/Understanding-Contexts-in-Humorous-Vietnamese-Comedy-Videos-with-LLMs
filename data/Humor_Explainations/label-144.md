@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở câu hỏi về tính chất nghịch lý của thuốc độc hết hạn. Sự hài hước được tạo ra từ việc đặt ra một câu hỏi có vẻ vô lý nhưng lại khá logic về bản chất của độc tính trong thuốc độc khi hết hạn sử dụng, khiến người nghe phải suy nghĩ về một tình huống paradox thú vị.

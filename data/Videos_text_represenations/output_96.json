@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Muốn làm bánh tại nhà ta phải có gì",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Coi nhà",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Em rất là thích đi coi phim và vừa rồi em mới đi coi một bộ phim là",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man in a striped suit is speaking into a microphone on stage."
+    },
+    {
+        "utterance": " Nhà bà nữ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Ok mình bỏ qua cái tính đúng sai của nó",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Em chỉ thấy đây là một bộ phim có một cái tình tiết vô cùng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray suit stands on a stage, holding a microphone to his mouth."
+    },
+    {
+        "utterance": " Bất hợp lý",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a black and white pinstripe suit is holding a microphone."
+    },
+    {
+        "utterance": " Và nó không hề thực tế, nó không hề đời",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black pinstripe suit holds a microphone and gestures with their hand."
+    },
+    {
+        "utterance": " Cái đoạn cuối á, cái lúc mà người mẹ ngồi với",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Man in a black suit on stage with a microphone."
+    },
+    {
+        "utterance": " làm tóc với người con gái, xong người mẹ mới quay qua hỏi con gái là",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black and white striped suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Ê nếu mà ngày xưa mẹ không cấm cản con",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a black and white striped suit holds a microphone."
+    },
+    {
+        "utterance": " Thì con có bầu với hẳn John không? John là một nhân vật",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a pinstripe suit holds a microphone, with a dark background."
+    },
+    {
+        "utterance": " John Song Luân thủ vai, người con gái lắc đầu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Man in white and black striped suit, holding microphone, speaking."
+    },
+    {
+        "utterance": " Em thấy đây nó cực kỳ không hợp lý luôn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black and white striped suit holds a microphone."
+    },
+    {
+        "utterance": " Em nhìn Song Luân em còn muốn có bầu nữa",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black and white striped suit holds a microphone."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Trong các loại sữa, sữa nào tốn nhất?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "The image is a black screen with the TikTok logo and text."
+    },
+    {
+        "utterance": " Sữa ông thọ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and black spotted jacket is dancing."
+    },
+    {
+        "utterance": " Ông thọ ổng già mà ổng là đàn ông làm gì có sữa",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt with black spots stands beside another in a suit."
+    }
+]

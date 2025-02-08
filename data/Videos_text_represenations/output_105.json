@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Dạ thưa thầy",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " Sao?",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a black suit"
+    },
+    {
+        "utterance": " Làm người xấu bị trời đánh vậy mấy ông mà sáng chế rồi cột thu lôi là ủng hộ kẻ xấu phải không thầy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

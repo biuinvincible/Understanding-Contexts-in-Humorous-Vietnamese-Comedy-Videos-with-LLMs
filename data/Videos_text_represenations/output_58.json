@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Quần áo nữ không thể được may bằng gì?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person sits on a bench in front of lush greenery, wearing a black t-shirt."
+    },
+    {
+        "utterance": " Không biết",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black T-shirt and shorts sits on a wooden bench outdoors."
+    },
+    {
+        "utterance": " Kim chỉ nam",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black t-shirt and shorts sits on a chair outside."
+    }
+]

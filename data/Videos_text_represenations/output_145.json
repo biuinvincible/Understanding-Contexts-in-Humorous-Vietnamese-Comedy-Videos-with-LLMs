@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Thưa cô, nếu như nhà sĩ kiếm tiền bằng việc răng người khác bị hư",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man with a black shirt and a white tie "
+    },
+    {
+        "utterance": " Vậy tại sao chúng ta dùng kem rán răng được chứng nhận bởi nhà sĩ?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a tie and a picture of a man "
+    }
+]

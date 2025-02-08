@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Cậu nghiện mấy năm rồi?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a room with a large stage with 2 people on it "
+    },
+    {
+        "utterance": " Dạ, cháu nghiện cũng khá lâu rồi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, ít biến động.",
+        "visual_description": "a room with a large stage with 2 people on it "
+    },
+    {
+        "utterance": " Hút bao nhiêu lâu?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a room with a large stage with 2 people on it "
+    },
+    {
+        "utterance": " Ủa quá bác buồn cười nhờ, đấy có phải thành tích đúng không mà ghi nhớ để báo cáo",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a handcuff "
+    },
+    {
+        "utterance": " Này, nói cho nghiêm chỉnh, hút bao nhiêu lâu rồi?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a man is sitting at a table while another with handcuff is standing next to him"
+    },
+    {
+        "utterance": " Cháu hút lâu rồi nhưng cháu cũng bỏ lâu rồi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is sitting at a table while another with handcuff is standing next to him "
+    },
+    {
+        "utterance": " Cái mắt trắng dã, cái môi thâm xì kia kia mà bỏ rồi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man is sitting at a table while another with handcuff is standing next to him "
+    },
+    {
+        "utterance": " Nói đi, hút bao nhiêu lâu?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a handcuff "
+    },
+    {
+        "utterance": " Cháu bỏ hút lâu rồi, bây giờ cháu chuyển thân chích",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a handcuff is talking "
+    }
+]

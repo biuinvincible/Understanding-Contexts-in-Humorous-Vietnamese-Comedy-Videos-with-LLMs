@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Anh, con nhỏ kia nó kêu em mập như heo á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman with a black hair and glasses "
+    },
+    {
+        "utterance": " Nó dám nói vậy hả?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses "
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman with a black hair and glasses "
+    },
+    {
+        "utterance": " Con heo sao mập bằng em?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses "
+    }
+]

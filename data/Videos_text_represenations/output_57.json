@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Đâu biết tại sao người ta hay gọi vợ là nóc nhà",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black t-shirt and shorts sits on a bench outdoors."
+    },
+    {
+        "utterance": " Tại sao?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man sits on a bench in front of lush greenery, wearing a dark t-shirt and shorts."
+    },
+    {
+        "utterance": " Mái lợp",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt sits on a bench with a drink in front of them."
+    }
+]

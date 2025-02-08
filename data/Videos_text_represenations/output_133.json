@@ -1,0 +1,177 @@
+[
+    {
+        "utterance": " Alo",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Alo, dạ chú ơi cho con đặt hàng bún đậu mắm tôm nha chú",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Rồi em ăn sao nè",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Dạ, giờ chú lấy con 2 phần bún đậu đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Mà nhớ lấy lẹ lẹ để còn nóng ăn cho ngon nha chú",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Một phần chú lấy bún chứ không lấy đậu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Một phần kia chú lấy đậu chứ đừng lấy bún",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Rồi, rồi, rồi, nhanh lắm nha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Đợi tôi xíu nha, tôi chạy tới liền nha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Khoan chú",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Hấp tấp quá, con chưa có dặn xong mà",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Bây giờ một phần chú lấy bún không lấy đậu",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Nhưng mà lấy lòng chứ đừng lấy giò",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Còn phần lấy đậu không lấy bún thì lấy giò chứ đừng lấy lòng",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Khoan, khoan, khoan, từ từ, chậm lại",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Nói lại, nói lại, sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Trời đất ơi dễ quá mà cũng kêu người ta nhắc lại nữa",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Bây giờ nè, phần lấy bún không lấy đậu thì lấy lòng chứ không lấy giò",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Còn phần lấy đậu không lấy bún thì lấy giò chứ không lấy lòng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Mà nếu mà chú muốn lấy lòng con nữa đó ha",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Thì làm ơn làm phước phần lấy bún không lấy đậu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Lấy lòng chứ không lấy giò đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Thì lấy chả cốm chứ không lấy chả nem",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Còn cái phần mà lấy đậu không lấy bún không lấy giò",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Chứ không lấy lòng thì ăn chả nem chứ không ăn chả cốm",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Mà giờ nếu mà nhiệt tình rồi đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Cái phần lấy bún không lấy đậu, lấy lòng không lấy giò",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Lấy chả cốm chứ không lấy chả nem",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Thì ăn mắm tôm chứ không ăn mắm mặn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Còn cái phần mà lấy đậu không lấy bún không lấy giò",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Không lấy lòng không lấy chả nem",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Chứ không lấy chả cốm thì bỏ nước mắm mặn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Nhưng mà đừng lấy ớt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person talking on a phone"
+    },
+    {
+        "utterance": " Mình ăn có 1 cử thôi mà em",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    },
+    {
+        "utterance": " Sao chịu khó dữ vậy?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a delivery man in yellow outfit with a helmet talking on a phone"
+    }
+]

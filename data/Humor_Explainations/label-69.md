@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách người kể chỉ trích tình tiết phi lý trong phim "Nhà Bà Nữ", đặc biệt là khi nhận xét về diễn viên Song Luân. Câu kết "Em nhìn Song Luân em còn muốn có bầu nữa" tạo tiếng cười bởi sự mâu thuẫn giữa việc chỉ trích kịch bản không thực tế và thừa nhận sức hấp dẫn của nam diễn viên.

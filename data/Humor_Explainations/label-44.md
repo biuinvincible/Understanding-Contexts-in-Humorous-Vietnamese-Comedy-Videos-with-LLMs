@@ -1,0 +1,1 @@
+Tình huống hài hước trong đoạn này đến từ câu trả lời châm biếm của nhân vật khi được hỏi có phải đang đợi xe buýt. Thay vì trả lời đơn giản, người trả lời đã dùng sự mỉa mai "dạ không em chờ tên lửa" và "em bay ra cái hành tinh này" để thể hiện sự khó chịu với câu hỏi hiển nhiên.

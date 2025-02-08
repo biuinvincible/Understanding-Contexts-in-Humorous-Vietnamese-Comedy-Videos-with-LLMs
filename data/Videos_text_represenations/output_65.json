@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Cái từ đam mê rất là hay nhá",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket holds a microphone, standing before a brick wall."
+    },
+    {
+        "utterance": " Mọi người cứ theo đuổi cái gì mà nó không ra tiền ấy",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a leather jacket stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Thì cứ gọi là đam mê",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Anh em hỏi anh tí",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Chị bên cạnh có phải đam mê của anh không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket stands in front of a brick wall, holding a microphone."
+    }
+]

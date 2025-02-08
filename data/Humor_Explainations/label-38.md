@@ -1,0 +1,1 @@
+Yếu tố hài hước đến từ cách đề xuất giải pháp quá khắc nghiệt và phi thực tế cho vấn đề tắc nghẽn giao thông. Hai giải pháp được đưa ra là "để người vi phạm đâm chết luôn" và "giải tán các thành phố về nông thôn" cho thấy sự mỉa mai sâu cay về tình trạng giao thông. Cách nói giống như quan chức trình tấu lên Ngọc Hoàng càng làm tăng thêm tính hài hước.

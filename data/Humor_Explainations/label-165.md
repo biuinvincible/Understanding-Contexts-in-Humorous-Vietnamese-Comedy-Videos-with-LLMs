@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi học sinh bị giáo viên nhắc nhở về việc trêu chọc bạn, nhưng câu trả lời của em lại là một câu hỏi ngây thơ về rùa. Sự tương phản giữa lời nhắc nhở nghiêm túc của cô giáo và câu hỏi vô tư, ngây thơ về việc rùa có thể qua nhà nhau chơi hay không tạo ra hiệu ứng hài hước thông qua sự đối lập này.

@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở việc một người không tin vào khả năng gọi hồn, nhưng người thầy lại dùng cách lập luận rất "độc đáo" để chứng minh việc người chết có thể trở về: dẫn chứng qua các bài hát của Quốc Dũng ("Người về từ nòng đất") và Trịnh Công Sơn ("Một cõi đi về"). Cách lập luận này vừa ngô nghê vừa không liên quan, tạo nên tiếng cười từ sự phi lý.

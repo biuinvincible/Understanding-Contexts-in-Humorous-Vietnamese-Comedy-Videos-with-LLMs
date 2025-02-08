@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn này nằm ở cách chế giễu về "chó đặc vụ". Người nói tưởng tượng ra tình huống hài hước khi chó thường gặp chó đặc vụ và hỏi "Ê cảnh sát cho tụi bay không?". Điều này nhân cách hóa chó một cách hài hước, gán cho chúng những hành vi và đối thoại như con người, đặc biệt là cách nói chuyện đường phố, tạo nên tình huống vừa vô lý vừa buồn cười.

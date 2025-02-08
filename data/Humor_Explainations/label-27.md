@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này đến từ cách hướng dẫn xử lý tình huống bị bóng đè một cách phi lý. Các bước được đề xuất như "thử cử động" và "ngồi dậy bật đèn" trở nên vô nghĩa vì người bị bóng đè không thể cử động. Sự mâu thuẫn giữa hướng dẫn và thực tế tạo nên tiếng cười, đặc biệt khi người nghe liên tục chỉ ra sự vô lý trong các bước hướng dẫn này.

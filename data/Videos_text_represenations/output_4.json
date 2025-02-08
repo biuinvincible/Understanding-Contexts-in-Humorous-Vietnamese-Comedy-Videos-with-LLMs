@@ -1,0 +1,72 @@
+[
+    {
+        "utterance": " Đi chùa vào mùa Tết",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in an orange shirt holds a microphone, standing in front of a dark background."
+    },
+    {
+        "utterance": " Có ai ở đây giống em không ta?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a brown shirt and black pants holds a microphone."
+    },
+    {
+        "utterance": " Mình thích đi chùa nhưng mình sợ đi chùa mấy cái dịp lễ Tết",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person is shown speaking into a microphone."
+    },
+    {
+        "utterance": " Bị đông quá",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person is standing on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Tết là em nói là thôi, thà qua Tết ra giêng đi chùa",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a red shirt and black pants is standing on a stage."
+    },
+    {
+        "utterance": " Mình còn khấn Phật được",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a patterned shirt holds a microphone, with their left hand visible."
+    },
+    {
+        "utterance": " Vậy mà Tết vừa rồi, mẹ em ép em qua nói là đi đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Tranh thủ đi, chứ tao đi 1 mình buồn, em mới đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a patterned shirt holds a microphone and speaks into it."
+    },
+    {
+        "utterance": " Nó đông thiệt mọi người, em đi chùa ở quận 9 đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Nó đông tới cái mức mà em vừa gửi xe ở bãi gửi xe, đoàn gửi đẩy",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person stands on a stage, holding a microphone and speaking to the audience."
+    },
+    {
+        "utterance": " Em thấy Phật đứng ngay trước mặt em",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person stands on a stage, holding a microphone and addressing an audience."
+    },
+    {
+        "utterance": " Mới câu trước em nói...",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "A person in a brown jacket holds a microphone and gestures with their hands."
+    },
+    {
+        "utterance": " Số xe của con là 14493, câu số hai...",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person is standing on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " ...nam mô ai gì đà Phật",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is clapping with others in the background."
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở câu hỏi về dân tộc Chăm và người lười. Đây là một câu đùa chơi chữ dựa trên âm của từ "Chăm" - vừa là tên dân tộc, vừa có nghĩa là siêng năng, chịu khó (trong tiếng Việt). Việc hỏi liệu trong dân tộc Chăm có ai lười không tạo ra một nghịch lý hài hước vì nó mâu thuẫn với chính ý nghĩa của từ "chăm".

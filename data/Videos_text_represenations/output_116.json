@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Tại sao ngày xưa anh không quen con Hà mà anh lại quen em?",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a woman with glasses and a white t=shirt "
+    },
+    {
+        "utterance": " Tại anh ngu á",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses "
+    }
+]

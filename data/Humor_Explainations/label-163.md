@@ -1,0 +1,1 @@
+Sự hài hước trong câu hỏi này nằm ở việc tưởng tượng về cách người điếc nhìn nhận hành động ngáp của người khác. Câu hỏi tạo tiếng cười bằng cách đặt ra một góc nhìn thú vị: vì người điếc không nghe được âm thanh, họ có thể nhầm lẫn giữa hành động ngáp to (mở miệng rộng) với hành động hét, tạo ra một tình huống hiểu lầm hài hước dựa trên cách diễn giải hình ảnh.

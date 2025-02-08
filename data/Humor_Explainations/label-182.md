@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở tình huống người nói vô tình lỡ lời khi định nói "gia đình có truyền thống văn học" nhưng lại nói thành "gia đình vô học". Sự nhầm lẫn này tạo ra một tình huống oái oăm, đặc biệt khi nó hoàn toàn trái ngược với ý định ban đầu của người nói, khiến họ phải vội vàng sửa lại ngay lập tức.

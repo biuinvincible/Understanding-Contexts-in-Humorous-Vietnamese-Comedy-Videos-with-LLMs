@@ -1,0 +1,1 @@
+Yếu tố hài hước đến từ câu trả lời bất ngờ và có phần "độc ác" của người đàn ông. Khi được hỏi khi nào thấy người phụ nữ đẹp nhất, thay vì đưa ra lời khen ngợi như mong đợi, anh ta lại nói là lúc cô ấy đeo khẩu trang - ngụ ý rằng khi che đi khuôn mặt thì trông cô ấy đẹp hơn. Đây là một tình huống tạo tiếng cười từ sự mâu thuẫn giữa kỳ vọng và thực tế.

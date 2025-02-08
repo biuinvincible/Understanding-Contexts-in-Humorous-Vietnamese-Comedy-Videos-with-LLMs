@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Con dâu, ở bên Mỹ con làm gì vậy con?",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, ấm áp, đều đặn và vừa phải.",
+        "visual_description": "A person in a white shirt and brown pants sits on a chair with a blue pillow."
+    },
+    {
+        "utterance": " Dạ thưa bố, ở bên Mỹ con làm chủ công ty bóp ạ.",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt sits on a couch, while another person in blue attire walks by."
+    },
+    {
+        "utterance": " Mát xa đó hả?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man and woman stand side by side, holding items in their hands."
+    },
+    {
+        "utterance": " Ờ không, bố hiểu nhầm rồi.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a blue robe is speaking to a woman in a pink dress."
+    },
+    {
+        "utterance": " Bóp là cái ví đấy.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "An Asian man in a blue robe holds a white object beside an Asian woman."
+    },
+    {
+        "utterance": " Cái ví là cái này này, đấy.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, đều, nhanh.",
+        "visual_description": "A man in a blue robe and a woman in a red top are holding bags."
+    },
+    {
+        "utterance": " Bố biết không, hãng của con sản xuất, bố thấy chữ LV không?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi, vừa phải.",
+        "visual_description": "A man in a blue robe and a woman in a pink top are holding gifts."
+    },
+    {
+        "utterance": " Thấy, thấy, thấy.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A woman in a pink top holds a black purse with colorful designs and a book."
+    },
+    {
+        "utterance": " Tiếng Mỹ gọi là LV.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap stands against a purple backdrop."
+    },
+    {
+        "utterance": " Ba biết không, bố biết không, viết tắt là tên con Lê Vân đấy bố ạ.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man and woman are standing together, holding items, in front of a table."
+    }
+]

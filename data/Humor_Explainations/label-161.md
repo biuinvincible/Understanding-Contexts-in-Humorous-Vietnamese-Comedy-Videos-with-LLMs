@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở cách người nói tạo ra một suy luận dựa trên chuỗi logic hài hước về nguồn gốc của đồ chơi khủng long nhựa. Từ việc nhựa được làm từ dầu mỏ, mà dầu mỏ được tạo ra từ hóa thạch (bao gồm cả khủng long), người nói đưa ra kết luận vui nhộn rằng khủng long nhựa thực chất được làm từ khủng long thật, tạo ra một vòng tròn logic hài hước.

@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh trò chơi chữ với tên "Quang Tài". Khi người đến tìm hỏi "Quan Tài", con trai chủ nhà đùa rằng "Ở đây không phải trại hòm, không có Quan Tài" - chơi chữ giữa tên người và quan tài (棺材) nghĩa là áo quan. Sự hài hước còn tăng thêm khi người con cố tình tiết lộ nơi cha trốn, làm hỏng kế hoạch trốn tránh của cha mình một cách đầy hóm hỉnh.

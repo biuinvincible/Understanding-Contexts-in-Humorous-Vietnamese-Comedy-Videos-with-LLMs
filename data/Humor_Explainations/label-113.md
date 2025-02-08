@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người đàn ông "an ủi" người phụ nữ. Thay vì bênh vực cô khi bị người khác so sánh với heo, anh ta lại châm biếm bằng cách nói "Con heo sao mập bằng em?" - ngụ ý rằng cô còn mập hơn cả heo. Đây là một tình huống gây cười từ phản ứng bất ngờ và không đúng như mong đợi của người đàn ông.

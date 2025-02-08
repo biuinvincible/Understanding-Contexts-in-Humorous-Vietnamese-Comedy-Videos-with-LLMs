@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Thật ra chồng mình nhiều khi cũng biết",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is visible, with their face blurred out."
+    },
+    {
+        "utterance": " Nịnh vợ, cũng rất là tinh tế, hiểu ý",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person is standing on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Có lần mà mình than mệt là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a brown shirt and jeans holds a microphone, standing in front of a brick wall."
+    },
+    {
+        "utterance": " Nay mình mệt, mình thèm cơm nhà ấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a brown shirt and light blue jeans holds a microphone."
+    },
+    {
+        "utterance": " Anh sẽ rất là sốt sắng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person holds a microphone in front of a brick wall."
+    },
+    {
+        "utterance": " Thèm cơm nhà nào để anh đặt",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman in light blue jeans and a brown shirt holds a microphone."
+    }
+]

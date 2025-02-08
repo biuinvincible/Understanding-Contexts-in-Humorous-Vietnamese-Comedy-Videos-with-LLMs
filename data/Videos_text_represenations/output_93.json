@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Nước nào giáp USA",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " USB",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

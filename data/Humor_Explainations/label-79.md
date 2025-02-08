@@ -1,0 +1,1 @@
+Tình huống hài hước được tạo ra từ một câu nói đùa về người mù bị mụn. Yếu tố hài hước nằm ở cách chơi chữ thông minh khi so sánh những nốt mụn nổi trên mặt với chữ nổi Braille mà người khiếm thị sử dụng để đọc. Câu nói "chỉ cần sờ tay lên mặt là có chuyện để đọc" tạo ra một liên kết bất ngờ và hài hước giữa hai khái niệm này.

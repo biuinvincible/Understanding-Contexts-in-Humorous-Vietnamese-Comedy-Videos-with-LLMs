@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Lúc nãy ngươi bảo ta vào ăn 2 cái món gì nhỉ?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and another in a yellow shirt are shown."
+    },
+    {
+        "utterance": " Thân Bảo Ngọc Hoàng ăn 2 món là xôi xéo và chim cút",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt with a red collar and colorful designs is visible."
+    },
+    {
+        "utterance": " Ờ, 2 cái món í, ta ăn mỗi món 1 nửa",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a yellow shirt stands next to someone wearing white, with eyes closed."
+    },
+    {
+        "utterance": " Ta ăn chim và ăn xôi, còn cút với xéo là phần ngươi nhé",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white robe stands beside another person wearing a yellow robe."
+    }
+]

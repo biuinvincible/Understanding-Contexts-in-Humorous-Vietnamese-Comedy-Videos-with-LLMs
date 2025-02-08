@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách người nói tạo ra một nghịch lý thông minh về thành công và thất bại. Khi đặt mục tiêu là thất bại, người nói tạo ra một tình huống mâu thuẫn: nếu họ thất bại trong việc đạt được mục tiêu thất bại, điều đó có nghĩa là họ thành công; nhưng nếu họ thành công trong việc thất bại, điều đó lại có nghĩa là họ đã đạt được mục tiêu ban đầu.

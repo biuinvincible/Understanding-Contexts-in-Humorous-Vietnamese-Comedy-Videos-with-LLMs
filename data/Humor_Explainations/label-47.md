@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách Ngọc Hoàng chia đồ ăn một cách ranh mãnh. Khi được phục vụ xôi xéo và chim cút, thay vì chia đều, Ngọc Hoàng khéo léo tách từng món thành hai phần: lấy phần "chim" và "xôi" cho mình, để lại phần "cút" và "xéo" cho người kia. Đây là cách chơi chữ thông minh, tạo tiếng cười từ việc tách các từ ghép thành những từ riêng lẻ với nghĩa hoàn toàn khác.

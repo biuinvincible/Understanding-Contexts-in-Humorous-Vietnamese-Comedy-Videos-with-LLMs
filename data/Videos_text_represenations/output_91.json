@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Lân Jee trả lời cho cô biết tại sao bóng đá nam lại được nhiều người coi hơn bóng đá nữ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Dạ tại người ta không thích sự tham lam cô",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " Là sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Tại bóng đá nữ cầu thủ nữ cố dí chú banh trong khi họ đã có sẵn 2 chú banh rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người vợ thông báo tin mang thai với chồng đang đi xa. Cô ấy bắt đầu bằng việc nhắc về "thợ sửa ống nước" từ 10 tháng trước, khiến chồng lo lắng về việc ống nước bị hỏng. Khi anh ấy thắc mắc vì sao mới sửa lại hỏng, cô vợ mới tiết lộ đó là "vỡ nước ối", tạo nên một tình huống bất ngờ và hài hước thông qua cách chơi chữ thông minh.

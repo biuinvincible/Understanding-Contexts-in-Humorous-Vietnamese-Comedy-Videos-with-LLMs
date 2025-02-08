@@ -1,0 +1,1 @@
+Yếu tố hài hước trong câu đố này nằm ở việc chơi chữ với từ "hổ mang". "Hổ mang" có thể được hiểu theo hai cách: một là loài rắn hổ mang, hai là con hổ đang mang (bò) lên núi. Câu hỏi tạo ra sự nhầm lẫn hài hước khi người nghe phải phân biệt giữa hai cách hiểu này, dù cách viết và đọc hoàn toàn giống nhau.

@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Mời em",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man with a white shirt and a black tie "
+    },
+    {
+        "utterance": " Em bé mất 9 tháng để sinh ra",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a beard standing next to a wall "
+    },
+    {
+        "utterance": " Vậy sao phải chờ 12 tháng nữa mới được ăn sinh nhật",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with a tie and glasses "
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Tôi ăn ở nhân đức như vậy rồi mà bắt tôi nghèo hoài à",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and another in a blue shirt sit at a table."
+    },
+    {
+        "utterance": " Người ta nhà nghèo rớt mùng tơi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a blue shirt sits at a table with a teapot and radio."
+    },
+    {
+        "utterance": " Còn nhà của tôi á, không có cái mùng tơi mà rớt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and a person in a blue shirt sit at a table."
+    },
+    {
+        "utterance": " Khi tôi sinh ra mang được hai tiếng con nhà nghèo",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black pants sits at a table with a person in a blue shirt."
+    },
+    {
+        "utterance": " Ba nín đi!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and another in a blue shirt sit at a table."
+    },
+    {
+        "utterance": " Ba không có quyền hát bài này",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and a person in a blue shirt are on stage."
+    },
+    {
+        "utterance": " Bởi vì ba sinh ra không phải là con nhà nghèo, ba sinh ra là con nhà giàu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants is standing next to a table."
+    },
+    {
+        "utterance": " Ngày xưa ông nội để biết bao nhiêu tiền của lại",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and another in a blue shirt stand facing each other."
+    },
+    {
+        "utterance": " Vì số đề cờ bạc mà đi hết ra ngoài đường rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap stands opposite another with a blue top."
+    },
+    {
+        "utterance": " Con mới có quyền hát bài này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap is shown with their arm extended."
+    }
+]

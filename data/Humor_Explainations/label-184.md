@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở sự hiểu lầm về từ "bóp". Khi cô dâu nói mình làm chủ công ty bóp, bố chồng hiểu nhầm là tiệm mát xa, trong khi thực tế cô ấy đang nói về công ty sản xuất ví. Điểm cười được đẩy lên cao khi cô dâu còn nói đùa rằng chữ "LV" trên ví là viết tắt của tên mình "Lê Vân", tạo ra một tình huống hài hước về thương hiệu nổi tiếng Louis Vuitton.

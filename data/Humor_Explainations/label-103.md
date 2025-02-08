@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại này nằm ở câu hỏi ngây ngô nhưng logic về truyện Sơn Tinh - Thủy Tinh. Học sinh đặt câu hỏi về sự mâu thuẫn giữa việc Sơn Tinh chiến thắng trong truyện cổ tích, nhưng thực tế trái đất lại có đến 70% là nước. Sự kết hợp giữa truyện dân gian và thực tế địa lý tạo nên một tình huống hài hước và thú vị.

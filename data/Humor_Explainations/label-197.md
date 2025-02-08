@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người thầy khoe về khả năng sai khiến âm binh và kể chuyện CIA mời ông đi do thám dinh Saddam Hussein. Nhưng điểm cười nằm ở chỗ đoàn âm binh được cử đi nghe lén không hiểu được tiếng Iraq nên "về tay không". Sự mâu thuẫn giữa việc khoe khoang khả năng siêu nhiên với một lý do thất bại rất đời thường tạo nên tiếng cười.

@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn này nằm ở cách xây dựng và phá vỡ kỳ vọng của khán giả. Ban đầu, câu chuyện được kể với giọng điệu nghiêm túc về việc bị phát hiện ngoại tình và mua quà cho người khác, khiến khán giả cảm thấy căng thẳng. Nhưng khi tiết lộ rằng tất cả chỉ là giấc mơ của bạn gái, tạo nên một tình huống bất ngờ và hài hước.

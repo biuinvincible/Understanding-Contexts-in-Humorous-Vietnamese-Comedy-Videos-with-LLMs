@@ -1,0 +1,1 @@
+Tình huống này tạo tiếng cười từ sự đơn giản và vô cảm trong cách an ủi. Khi người phụ nữ tâm sự "em buồn quá", người đàn ông chỉ đáp lại ngắn gọn "Đừng buồn" - một câu trả lời quá đơn giản và thiếu sự đồng cảm, tạo nên tình huống hài hước từ sự mâu thuẫn giữa mong đợi được an ủi và thực tế.

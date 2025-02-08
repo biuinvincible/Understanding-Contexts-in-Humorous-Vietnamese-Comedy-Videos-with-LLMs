@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở tình huống gặp bác sĩ thực tập. Sự trùng hợp về tên và địa chỉ ban đầu tạo cảm giác thân thiện, nhưng twist hài hước đến khi phát hiện đây là ca mổ đầu tiên của cả bác sĩ lẫn bệnh nhân. Cảnh bác sĩ được đồng nghiệp động viên "đừng run như lúc thi" càng làm tăng thêm độ hài hước của tình huống.

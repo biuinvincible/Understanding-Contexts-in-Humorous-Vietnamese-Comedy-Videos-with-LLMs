@@ -1,0 +1,97 @@
+[
+    {
+        "utterance": " Bây giờ em đã diễn hài được khoảng...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " bao nhiêu rồi? Gần 3 năm rồi.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black jacket stands before a crowd, holding a microphone."
+    },
+    {
+        "utterance": " Thì nhiều người gặp em, nhiều người sẽ nói là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Ủa Nam ơi, sao mày có thể tự tin",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket holds a microphone, speaking to an audience."
+    },
+    {
+        "utterance": " mà mày đứng trước sân khấu, mày nói trước nhiều người như vậy mà mày không run?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a black leather jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Em kêu không, có run.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "A person in a black jacket holds a microphone, with a partially visible background."
+    },
+    {
+        "utterance": " Và em nói với mọi người luôn là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A man in a black leather jacket holds a microphone, with his other hand on his chest."
+    },
+    {
+        "utterance": " khi mà em nhận được những lời khen như vậy, em không biết nhận nó làm sao.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Thì cái lúc đó em không biết phải nhận như thế nào hết.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black leather jacket holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Và sau này em mới đi tìm cách để em trả lời những lời khen đó.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a metal grate."
+    },
+    {
+        "utterance": " Em mới bắt được một cái câu chân ngôn của Albert Einstein.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, with his hand on his forehead."
+    },
+    {
+        "utterance": " Tôi không có tài năng gì đặc biệt hết.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a crowd."
+    },
+    {
+        "utterance": " Tôi chỉ vô cùng, vô cùng tò mò thôi.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black leather jacket holds a microphone, possibly speaking or singing."
+    },
+    {
+        "utterance": " Xong bạn em bữa đó kêu",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black leather jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Nam mày chỉ tao đi, làm sao mà mày có cái khả năng mày đứng mày nói",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a wall with a logo."
+    },
+    {
+        "utterance": " mà mày nghĩ ra những cái câu chuyện như vậy được.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a black jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Tao không có tài năng gì đặc biệt hết.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Tao chỉ vô cùng, vô cùng mắc nói thôi.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, speaking to an audience."
+    },
+    {
+        "utterance": " Tao thề với mày là tao nhiều chuyện vờ lờ luôn.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket holds a microphone and gestures with his hand."
+    }
+]

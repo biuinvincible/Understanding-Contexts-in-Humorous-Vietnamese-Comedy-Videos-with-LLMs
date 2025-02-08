@@ -1,0 +1,1 @@
+Yếu tố hài hước được xây dựng qua câu chuyện về mối quan hệ thân thiết giữa hai anh em, đặc biệt là cách diễn giả thể hiện tình cảm quá mức dành cho em trai đến nỗi làm bạn gái ghen. Điểm cười nằm ở phản ứng của bạn gái và cách diễn giả khéo léo hóa giải tình huống bằng câu nói "Anh là của chung mà".

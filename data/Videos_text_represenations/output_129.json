@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Ông nói vậy ông nghe được hả?",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Nghe được mới nói chứ!",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Tôi làm bao nhiêu chuyện đó!",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Là để cho ông có sức khỏe để ông lo đi mằn",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": " Ông kiếm tiền về nuôi vợ con",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": " Ông không làm gì, 30 Tết rồi, mà ông coi trong nhà, không có cái gì hết trơn hết trội",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": "làm sao mà cũng rước ông bà chứ?",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Mày rước đi, mày thích thì mày rước đi!",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in a brown traditional outfit"
+    },
+    {
+        "utterance": " Đã biết trong nhà không có gì, còn rước ông bà về làm giống ôn gì?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a brown traditional outfit"
+    }
+]

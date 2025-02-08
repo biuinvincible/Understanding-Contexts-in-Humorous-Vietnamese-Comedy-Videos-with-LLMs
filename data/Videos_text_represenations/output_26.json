@@ -1,0 +1,72 @@
+[
+    {
+        "utterance": " Ở đây mọi người, ngày xưa có ai mà ba mẹ cho mình tiền tiêu xài không?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Không",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone to his mouth."
+    },
+    {
+        "utterance": " Không luôn, trời ơi tội nghiệp vậy",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Giống em vậy",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Tức là từ lúc em bắt đầu đi học tới giờ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and gesturing with his hands."
+    },
+    {
+        "utterance": " Chưa có bao giờ ba mẹ em cho một đồng cắt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Tức là muốn mua một cái mì gói đang ăn, mì miu đó mọi người biết không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Cái mì mình bóp vụn lên xong ăn á, không có luôn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit is standing on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Một ngàn cũng không, ba em kêu muốn cái gì về nhà ba nấu cho ăn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Mà ba có nấu đâu",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit is standing on a stage, speaking into a microphone."
+    },
+    {
+        "utterance": " Vậy mà thằng em của em á, từ lúc nó bước chân vào cấp 3 tới giờ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Tháng nào ba mẹ em cũng cho nó 3 triệu tiền tiêu xài",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Trích từ lương của em",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a suit and tie is standing on a stage."
+    },
+    {
+        "utterance": " Anh trai bây giờ đi làm có tiền rồi, lo cho em đi con",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit is standing on stage, speaking into a microphone."
+    }
+]

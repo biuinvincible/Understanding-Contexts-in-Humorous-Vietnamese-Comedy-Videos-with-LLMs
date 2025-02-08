@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở câu hỏi ngây ngô về việc sư tử có biết về sự tồn tại của cá mập hay không. Đây là một câu hỏi vô lý vì sư tử và cá mập sống trong hai môi trường hoàn toàn khác nhau (đất liền và biển), không có cơ hội để biết về sự tồn tại của nhau. Cách đặt câu hỏi này thể hiện sự ngây thơ một cách hài hước của người nói.

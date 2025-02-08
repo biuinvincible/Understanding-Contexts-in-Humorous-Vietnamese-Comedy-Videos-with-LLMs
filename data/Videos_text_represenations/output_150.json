@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Ui! Có phải là thời gian là tiền bạc không cô?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men sitting at a table with a cell phone "
+    },
+    {
+        "utterance": " Đúng rồi, thời gian là tiền bạc.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "two men in suits are standing together "
+    },
+    {
+        "utterance": " Ủa vậy cái máy ATM ngoài kia là cổ mấy thời gian phải không cô?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men standing in a room with a wall "
+    }
+]

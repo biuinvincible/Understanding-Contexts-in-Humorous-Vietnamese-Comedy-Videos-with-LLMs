@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Nè anh nói em nghe bên Mỹ nè",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a light blue top and black pants sits on a bench with another person."
+    },
+    {
+        "utterance": " Chỗ nào mà vui á thì người ta kêu là fun",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and another in a patterned shirt sit on a bench."
+    },
+    {
+        "utterance": " Ồ thế bên Pháp vui hơn",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white top sits next to another person with their hands raised."
+    },
+    {
+        "utterance": " Sao bên Pháp vui hơn?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt sits next to someone wearing a black and white striped shirt."
+    },
+    {
+        "utterance": " Bên Pháp đi đâu cũng thấy fun",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white top and another in a silver shirt sit on a bench."
+    },
+    {
+        "utterance": " Fun đầy đường ấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits next to another person in a patterned shirt."
+    },
+    {
+        "utterance": " Không phải",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and another in a silver shirt sit on a bench."
+    },
+    {
+        "utterance": " Fun đây là funny á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits beside another wearing a silver shirt on a bench."
+    },
+    {
+        "utterance": " Fun là vui á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits next to a person in a silver shirt."
+    },
+    {
+        "utterance": " Trời ơi chứ không phải cái đó em ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a white shirt sits next to a man on a wooden bench."
+    },
+    {
+        "utterance": " Sao em cứ nghe loáng thoáng không",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and another in a silver shirt sit on a bench."
+    },
+    {
+        "utterance": " Ai biết đâu em",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits beside another person in a silver shirt."
+    },
+    {
+        "utterance": " Dân nhà quê nghe fun fun em tưởng đâu toàn thứ bón ruộng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white top and another in a silver shirt sit on a bench."
+    }
+]

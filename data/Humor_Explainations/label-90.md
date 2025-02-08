@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách học sinh giải thích tên gọi "thể thao vua" của môn bóng đá. Thay vì đưa ra lý do thông thường về tính phổ biến hay sự thu hút của môn thể thao này, học sinh lại liên hệ với bối cảnh cung đình, tạo ra một lời giải thích hài hước về việc thái giám trong cung "đá bóng". Cách chơi chữ và logic ngây ngô tạo nên tiếng cười.

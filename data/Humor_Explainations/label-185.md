@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở sự hiểu lầm về hệ thống tưới nước tự động trong công viên. Nhân vật chính tưởng rằng các vòi phun nước bị vỡ nên cố gắng bịt lại, không nhận ra đó là hệ thống tưới cây tự động. Sự ngây ngô này được thể hiện qua việc người nói đã bịt "hai mươi mấy ống" và vẫn lo lắng khi nước "thọt lên khắp nơi", tạo nên tình huống dở khóc dở cười.

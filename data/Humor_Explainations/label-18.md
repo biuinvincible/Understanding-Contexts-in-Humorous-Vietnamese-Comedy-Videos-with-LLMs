@@ -1,0 +1,1 @@
+Tình huống hài hước trong đoạn này nằm ở việc người nói mô tả sự "nghiện" săn sale của mình. Điểm hài hước đặc biệt là khi anh ta bỏ đồ vào giỏ hàng và đợi sale đến nỗi quên luôn mình cần mua gì. Sự mâu thuẫn giữa việc cần thiết phải mua một món đồ với quyết tâm "phải là chiến thần săn sale" tạo nên tiếng cười, đặc biệt khi kết quả là không nhớ nổi món đồ ban đầu mình cần mua.

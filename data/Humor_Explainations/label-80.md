@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách MC đùa về việc mơ ước trở thành siêu nhân. Khi chỉ có một người giơ tay, anh ta đã hỏi một câu đầy mỉa mai "Còn những người khác là không có tivi à?", ngụ ý rằng ai cũng từng xem phim siêu nhân trên TV và mơ ước trở thành siêu nhân trong thời thơ ấu. Câu nói tạo tiếng cười bằng cách chỉ ra một sự thật phổ biến về tuổi thơ của nhiều người.

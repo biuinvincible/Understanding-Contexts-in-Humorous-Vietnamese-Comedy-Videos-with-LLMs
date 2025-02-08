@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Có những cái quán cà phê",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a white shirt and black pants stands on a red carpet, pointing to the left."
+    },
+    {
+        "utterance": " Người ta gọi là quán cà phê",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white jacket and black pants is standing on a red carpet."
+    },
+    {
+        "utterance": " trá hình không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói nhanh.",
+        "visual_description": "A man in a white jacket stands on a red stage, speaking into a microphone."
+    },
+    {
+        "utterance": " Tức là sao?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white jacket stands on a red floor, holding a microphone."
+    },
+    {
+        "utterance": " Ở dưới đó là một cái quán cà phê",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Ở trên đó là một cái chỗ càaaaaa phê",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a white jacket holds a microphone, gesturing with his right hand."
+    }
+]

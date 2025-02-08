@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Dạ, chào thầy. Thầy đây chắc là Pháp Sư Trần Phiêu Diêu.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and black pants stands facing another man in white."
+    },
+    {
+        "utterance": " Thế mà nhìn tướng này không biết à?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and tie holds papers, standing in front of a sign."
+    },
+    {
+        "utterance": " Nó mỏng thế này thì mới phiêu diêu khắp nơi được chứ.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "Two men stand on a stage, one in a white robe and the other in a green shirt."
+    },
+    {
+        "utterance": " Chỉ cần gió thoáng một cái là từ đây đến sang San Phrang Sít Cô",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "A man in a white robe stands in front of a tree, with a building behind him."
+    },
+    {
+        "utterance": " Phiêu diêu khắp nơi để cứu nhân độ thế mà.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men stand in a room with a couch, plants, and a sign."
+    },
+    {
+        "utterance": " Thế đi đây có việc gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "Two men on a stage, one in a green shirt and black pants, the other in a white robe."
+    },
+    {
+        "utterance": " Dạ, vậy mà con nghe tên thầy, con tưởng thầy sắp phiêu diêu miền cực lạc.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white robe stands before a green plant, with a logo visible."
+    },
+    {
+        "utterance": " Tôi vả vào cái mồm anh này nói vớ vẩn.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a green shirt holds a rolled-up paper."
+    }
+]

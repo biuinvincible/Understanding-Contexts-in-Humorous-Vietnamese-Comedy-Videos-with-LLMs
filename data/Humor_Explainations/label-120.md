@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách giải quyết câu đố và twist cuối cùng. Câu chuyện xoay quanh việc một người mù muốn mua xà bông, tạo ra sự tò mò về cách người mù có thể yêu cầu mua hàng. Kết thúc bất ngờ "Nó mù chứ nó đâu có câm đâu" tạo tiếng cười từ việc phá vỡ định kiến và sự mong đợi của người nghe về cách giao tiếp của người khuyết tật.

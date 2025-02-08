@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Thiên năm nay em bao nhiêu tuổi?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman standing in front of a wall with a sign "
+    },
+    {
+        "utterance": " Dạ 32 tuổi cô",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men in a room with a green wall "
+    },
+    {
+        "utterance": " Ê chú năm nay chú 32 tuổi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men in suits and glasses are looking at a computer "
+    },
+    {
+        "utterance": " Vậy đây là cái thời điểm già nhất của chú",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men in suits are looking at a cell phone "
+    },
+    {
+        "utterance": " Nhưng mà cũng là cái thời điểm trẻ nhất của chú hiện tại đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with glasses and a scarf "
+    }
+]

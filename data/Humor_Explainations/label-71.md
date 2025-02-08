@@ -1,0 +1,1 @@
+Đoạn hội thoại hài hước khi nói về việc sử dụng Tinder, một ứng dụng hẹn hò. Yếu tố hài hước nằm ở sự tương phản giữa mục đích thông thường của người dùng (tìm người yêu hoặc thoả mãn nhu cầu) với việc có người đăng "hình gia đình". Sự mâu thuẫn này tạo nên tiếng cười vì hình ảnh gia đình hoàn toàn không phù hợp với bản chất của một ứng dụng hẹn hò.

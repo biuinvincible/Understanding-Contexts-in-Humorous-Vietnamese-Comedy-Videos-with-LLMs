@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở việc chơi chữ với tên của cha con trong gia đình. Người con trách cha đặt tên không khéo: cha tên Quan, con tên Tài, khi ghép lại thành "Quan Tài" - nghĩa là cái hòm. Anh ta hài hước chỉ ra rằng mỗi khi hàng xóm gọi cả hai cha con cùng lúc "Quan Tài" nghe như "tiêu diêu miền cực nhọc", tạo nên tiếng cười từ sự trùng hợp đáng tiếc này trong cách đặt tên.

@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Khi các em bị dụ vào con đường cờ bạc thì các em sẽ nghĩ gì để tự bỏ?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Dạ em sẽ nghĩ tới nhà á cô",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " À nghĩ tới nhà là nghĩ tới gia đình rồi đó đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Dạ không, nhà cái",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

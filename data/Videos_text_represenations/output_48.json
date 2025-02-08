@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Dạ! Ngọc Hoàng vạn tuế, triệu tuế, tỉ tuế, đô la tuế à!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "People in traditional Vietnamese clothing perform on a stage with a red and gold backdrop."
+    },
+    {
+        "utterance": " Này Táo Tiền Vàng!",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A stage with five people in colorful costumes, with a red and gold backdrop."
+    },
+    {
+        "utterance": " Dạ!",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a pink and white shirt stands out in a crowd of people."
+    },
+    {
+        "utterance": " Sao lắm tuế thế?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a yellow and red headdress and matching robe is visible."
+    },
+    {
+        "utterance": " Dạ!",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a yellow hat and matching attire is prominently featured."
+    },
+    {
+        "utterance": " Mà nghe nói ở dưới giá đô la nó đang chững lại. Ngươi chúc ta như vậy là có ý gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man wears a pink and gold robe with a matching headdress."
+    },
+    {
+        "utterance": " Dạ bẩm Ngọc Hoàng! Nếu mà chúc theo giá vàng ấy, thì lúc nó lên, lúc nó xuống, dạ bấp bình lắm ạ!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a pink and gold costume with a large headdress."
+    },
+    {
+        "utterance": " Thôi thần cứ chúc theo giá đô la, tuy nó chững một chút nhưng nó lành.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a vibrant red robe and ornate gold headdress is visible."
+    }
+]

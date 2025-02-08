@@ -1,0 +1,37 @@
+[
+    {
+        "utterance": " Em đi sửa cái điện thoại",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a dark jacket and light pants stands on stage holding a microphone."
+    },
+    {
+        "utterance": " Cái điện thoại của em nó bị chập nguồn, nó không hạt động",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a brown jacket and white pants stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Em đưa cho anh thỏa điện thoại, anh kêu anh ơi điện thoại của em",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark jacket and khaki pants stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Anh coi giùm em, nó hư rồi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a brown jacket and white pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Ok Nam chờ anh xíu, anh cầm vô",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, vừa phải.",
+        "visual_description": "A man stands on a stage, speaking into a microphone."
+    },
+    {
+        "utterance": " 30 phút sau anh cầm lại, Nam ơi điện thoại em hư rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark jacket and light pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Xin lỗi em cầm giáo dục nó lại",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark jacket and khaki pants stands on a stage with a microphone."
+    }
+]

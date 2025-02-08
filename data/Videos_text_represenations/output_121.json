@@ -1,0 +1,102 @@
+[
+    {
+        "utterance": " Có một thợ săn đang cầm cây súng đi ngoài đường",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "three people standing next to each other "
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Có ba con chim đang đậu trên cây",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "two men dressed up in costumes standing next to each other "
+    },
+    {
+        "utterance": " Anh giơ súng lên bắn một cái đùng",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "people standing around a stage "
+    },
+    {
+        "utterance": " Một con chim rớt xuống đất chết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "people standing around a stage "
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men dressed up in costumes standing next to each other "
+    },
+    {
+        "utterance": " Một con bay đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men in suits are standing together "
+    },
+    {
+        "utterance": " Một con đậu lại",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men dressed up in suits standing next to each other "
+    },
+    {
+        "utterance": " Đố hai anh?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Tại sao mấy con chim đó nó làm như vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "three people standing next to each other "
+    },
+    {
+        "utterance": " Con chim bay đi là con chim sợ chết?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Bậy",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Còn con chim ở lại là con chim anh hùng?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man with long black hair talking into a microphone "
+    },
+    {
+        "utterance": " Bậy luôn",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "three people standing next to each other"
+    },
+    {
+        "utterance": " Ủa vậy chứ sao?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "three people standing next to each other"
+    },
+    {
+        "utterance": " Một con rớt xuống đất chết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "two men standing next to each other "
+    },
+    {
+        "utterance": " Ờ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men in suits standing next to each other "
+    },
+    {
+        "utterance": " Một con bay đi báo cảnh sát",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men in suits standing next to each other"
+    },
+    {
+        "utterance": " Còn một con ở lại làm nhân chứng",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men in suits standing next to each other"
+    }
+]

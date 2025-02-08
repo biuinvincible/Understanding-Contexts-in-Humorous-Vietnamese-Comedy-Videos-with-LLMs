@@ -1,0 +1,77 @@
+[
+    {
+        "utterance": " Hồi nhỏ là mình rất là nhỏ con và mình rất là nhát",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit and white shirt is holding a microphone."
+    },
+    {
+        "utterance": " Sợ đủ thứ, sợ ma, sợ phát biểu, sợ bị người ta dị nghị, sợ kim, sợ nhổ răng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a black suit and white collared shirt holds a microphone."
+    },
+    {
+        "utterance": " Nói chung là sợ đủ thứ hết",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Vì mình nhát như vậy, cho nên khi đi học mình hay bị ăn hiếp lắm mọi người",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a suit is holding a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Cái hồi mình học lớp 1, lúc mà ra chơi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black suit holds a microphone and stands on stage."
+    },
+    {
+        "utterance": " Đang ngồi ngu ngu, tự nhiên có nguyên một đám mấy đứa lớp lớn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black suit and white shirt is holding a microphone."
+    },
+    {
+        "utterance": " Chạy lại chỉ mặt hỏi một câu rất khó hiểu luôn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white collared shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Mày đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A person in a white collared shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Cái đứa quýnh mình luôn",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt stands out in front of a crowd."
+    },
+    {
+        "utterance": " Càng quýnh, càng hỏi nhiều câu khó hiểu hơn",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Mày biết chuyện gì chưa? Nói chưa",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white collared shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Nhớ ra đi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black suit and white shirt holds a microphone on stage."
+    },
+    {
+        "utterance": " Biết tao là ai không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A person in a black suit and white collared shirt is holding a microphone."
+    },
+    {
+        "utterance": " Xong rồi đang quýnh, quýnh, quýnh, có một thằng chạy lại",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white collared shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Ê, không phải nó mày ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black jacket covers their mouth with their hand."
+    }
+]

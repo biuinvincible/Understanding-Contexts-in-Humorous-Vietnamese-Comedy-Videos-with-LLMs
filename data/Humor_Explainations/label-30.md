@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn này nằm ở việc chế giễu các mẹo "gặp ma" phi lý trên mạng. Đặc biệt là việc châm biếm cách thử nghiệm đầu tiên - đứng cầm ô đỏ trong nhà 15 phút, được kết luận là "test người khùng" chứ không phải test thấy ma. Tiếp theo là việc so sánh hài hước giữa lớp yoga và nghĩa địa khi nói về tư thế trồng chuối, tạo nên tiếng cười từ sự liên tưởng bất ngờ.

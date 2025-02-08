@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở câu trả lời của khách khi được hỏi đã biết đến Sài Gòn Tếu bao lâu. Câu trả lời "Mới hôm qua" tạo tình huống hài hước bởi sự mâu thuẫn với kỳ vọng thông thường - thay vì một khoảng thời gian dài, câu trả lời ngắn gọn và bất ngờ này làm nổi bật sự thật thà đáng yêu của khách hàng.

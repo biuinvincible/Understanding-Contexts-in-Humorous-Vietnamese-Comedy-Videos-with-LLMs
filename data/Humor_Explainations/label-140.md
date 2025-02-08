@@ -1,0 +1,1 @@
+Tình huống hài hước được xây dựng qua câu chuyện về một người đàn ông phải vội vã trốn chạy khi chồng của người phụ nữ bất ngờ về nhà. Điểm cười nằm ở khoảnh khắc nhận ra nghịch lý: người đang chạy trốn chính là chồng, tạo nên một tình huống dở khóc dở cười và thể hiện sự bối rối tột độ của nhân vật.

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người cha đặt ưu tiên giữa việc đi hỏi vợ cho con và xem bóng đá. Khi con trai đề nghị đổi ngày đi hỏi vợ khác, người cha lập tức phản bác với lý do "chung kết năm có 1 ngày chứ mấy", hàm ý rằng việc đi hỏi vợ có thể làm bất cứ ngày nào khác. Sự so sánh mức độ quan trọng một cách hài hước này phản ánh tình yêu bóng đá có phần "quá đà" của người cha.

@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Các bạn ơi, người ta nói là trời đánh tránh bữa ăn đúng không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men are talking on a cell phone "
+    },
+    {
+        "utterance": " Nếu mà con ngủi đang hút máu á, mày có được đánh không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men wearing glasses and a tie "
+    }
+]

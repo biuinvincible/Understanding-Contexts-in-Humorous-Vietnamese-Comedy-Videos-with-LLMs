@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cú twist bất ngờ khi người nói ban đầu tỏ ra rất hứng thú với việc người Mỹ nói tiếng Anh "ào ào" và muốn học tiếng Anh. Tuy nhiên, thay vì mục đích giao tiếp với người Mỹ như mọi người thường nghĩ, họ lại bày tỏ mong muốn học tiếng Anh... để nói chuyện với người Việt. Sự mâu thuẫn này tạo nên tiếng cười từ kỳ vọng bị phá vỡ một cách bất ngờ.

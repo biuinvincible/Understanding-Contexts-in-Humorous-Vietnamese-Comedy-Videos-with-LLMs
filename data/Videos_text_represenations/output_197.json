@@ -1,0 +1,127 @@
+[
+    {
+        "utterance": " Thầy thầy, thầy còn sai được cả âm binh nữa phải không thầy?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "Two men in a room with a sign, plants, and furniture."
+    },
+    {
+        "utterance": " Ôi, cái đấy thì còn phải nói.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men standing on a stage in front of a sign and furniture."
+    },
+    {
+        "utterance": " Gớm âm là gì?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A man in a white robe and another in a green shirt stand before a sign."
+    },
+    {
+        "utterance": " Âm là dưới.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt is holding a cell phone and looking down."
+    },
+    {
+        "utterance": " Binh là gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men on a stage, one in white and the other in green."
+    },
+    {
+        "utterance": " Binh là lính.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white robe is smiling, with a logo on the right."
+    },
+    {
+        "utterance": " Âm binh là lính dưới.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt is speaking into a microphone."
+    },
+    {
+        "utterance": " Thế là lính dưới thì phải có người trên khiển nó thì nó mới làm được đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and tie is shown with a red candle behind him."
+    },
+    {
+        "utterance": " Tôi là người trên của nó.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a white robe is shown from the waist up, with his head down."
+    },
+    {
+        "utterance": " Chính vì điều đấy tôi đã sai được nó.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt is dancing with his arms raised."
+    },
+    {
+        "utterance": " Anh biết không cái dạo mà Mỹ đánh Iraq.",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Two men, one in white and one in green, stand on a stage with a red chair."
+    },
+    {
+        "utterance": " Dạ.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a white karate uniform and another in a green shirt converse."
+    },
+    {
+        "utterance": " CIA mời tôi.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men stand on a stage with a red chair, table, and plant."
+    },
+    {
+        "utterance": " Trời ơi.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one in a white shirt and the other in a green shirt, are shown."
+    },
+    {
+        "utterance": " Khiển âm binh.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are standing in front of a sign, one wearing a white shirt and the other a green shirt."
+    },
+    {
+        "utterance": " Nhưng tôi khiển bọn âm binh nhà tôi, tôi sai đi một đoàn.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a green shirt and tie holds papers, with a woman in white."
+    },
+    {
+        "utterance": " Nó vào đến tận dinh Saddam Hussein.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a white robe sits on a red chair, gesturing with his hand."
+    },
+    {
+        "utterance": " Gớm anh biết nó ngồi nó nghe hết tất cả về những cái mà chiến lược quân sự của Saddam Hussein.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white outfit sits on a red chair, and another man stands nearby."
+    },
+    {
+        "utterance": " Trời ơi.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "Two men are in a room with a red chair, table, and purple rug."
+    },
+    {
+        "utterance": " Nói vậy thì Mỹ có lợi quá phải không thầy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men are in a room with a red chair, table, and dresser."
+    },
+    {
+        "utterance": " Lợi mẹ gì đâu.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and tie stands in front of a white sign."
+    },
+    {
+        "utterance": " Ủa sao kỳ vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person wearing a white robe sits in front of a purple background."
+    },
+    {
+        "utterance": " Mấy đứa nó đi về tay không hết.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man wearing a white shirt sits on a red patterned chair, looking to the right."
+    },
+    {
+        "utterance": " Ủa sao vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "A man with dark hair in a white robe sits on a patterned chair."
+    },
+    {
+        "utterance": " Trước khi đi nó có học tiếng Iraq đâu mà nó hiểu.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men are in a room with a sign, one seated and one standing."
+    }
+]

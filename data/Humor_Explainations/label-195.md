@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở sự tương phản giữa thầy pháp nói rằng nhà có ma và người khách cảm thấy lạnh. Khi khách nói cảm thấy lạnh vì có ma, thầy pháp chỉ ra sự thật hài hước rằng người đó đang đứng dưới máy lạnh. Sự tương phản giữa niềm tin mê tín và thực tế đơn giản tạo nên tiếng cười.

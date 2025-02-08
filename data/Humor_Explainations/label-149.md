@@ -1,0 +1,1 @@
+Câu hỏi tạo tiếng cười bằng cách đặt ra một nghịch lý logic thú vị về cái chết. Khi đặt câu hỏi về việc ai sẽ chôn người chết cuối cùng, người nói đã tạo ra một tình huống không thể giải quyết được, vì nếu mọi người đều phải chết, sẽ không còn ai để chôn người cuối cùng, tạo nên một vòng lặp logic hài hước.

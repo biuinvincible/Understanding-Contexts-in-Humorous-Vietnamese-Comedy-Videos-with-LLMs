@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Đi coi hài đọc thoại ở ngoài nó khác lắm",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is visible, with the rest of their body and face blurred."
+    },
+    {
+        "utterance": " Mình coi trên youtube",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and dark jacket holds a microphone, gesturing with their hands."
+    },
+    {
+        "utterance": " Coi youtube cái thứ nhất nó bị phiền là gì?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Quảng cáo đúng không? Đang coi hài đọc thoại",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A crowd of people, mostly seated, with a man in the foreground holding a water bottle."
+    },
+    {
+        "utterance": " Bạn bị trĩ nội trĩ ngoại",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and dark jacket holds a microphone."
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại này nằm ở việc một người liên tục yêu cầu đối phương "Hit sâu vào" mà không để ý rằng người kia cần thở. Sự hài hước đạt đỉnh khi nạn nhân phải lên tiếng: "Anh ơi anh phải cho em thở ra chứ", cho thấy sự mất kiên nhẫn của người hướng dẫn và sự khó khăn của người thực hiện.

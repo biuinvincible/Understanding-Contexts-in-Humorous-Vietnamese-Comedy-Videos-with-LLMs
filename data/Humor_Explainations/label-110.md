@@ -1,0 +1,1 @@
+Đoạn đối thoại tạo tiếng cười từ câu trả lời bất ngờ và hài hước khi được hỏi về nơi ở. Thay vì trả lời địa chỉ nhà thông thường, người đàn ông trả lời "nhà nghỉ", tạo ra một tình huống gây cười từ sự không phù hợp giữa câu hỏi và câu trả lời, đồng thời ngụ ý về một tình huống có thể gây ngượng ngùng.

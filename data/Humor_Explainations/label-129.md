@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cuộc tranh cãi về việc rước ông bà về ăn Tết. Mâu thuẫn nảy sinh khi trong nhà "không có cái gì hết trơn hết trội" nhưng vẫn đòi rước ông bà về. Câu nói "Đã biết trong nhà không có gì, còn rước ông bà về làm giống ôn gì?" làm nổi bật tình huống khó xử một cách hài hước khi phải cân bằng giữa truyền thống văn hóa và thực tế kinh tế.

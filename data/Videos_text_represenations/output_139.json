@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Cái bài hát này được mang tên là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a suit and tie standing next to a man in a black and white photo "
+    },
+    {
+        "utterance": " Caravan of life",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man in a suit talking on a microphone "
+    },
+    {
+        "utterance": " Trời đất ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit and tie is on a microphone "
+    },
+    {
+        "utterance": " Trời ơi bài này nổi tiếng bên Hồng Kông á nha",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit and tie speaking into a microphone "
+    },
+    {
+        "utterance": " Từ sau ngon lành mà",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit and tie standing in front of a microphone "
+    },
+    {
+        "utterance": " Bài này là của Lu Đức Hòa hát á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit and tie standing next to a man in a suit "
+    },
+    {
+        "utterance": " Biết Lu Đức Hòa nữa hả?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit and tie standing next to a man in a suit "
+    },
+    {
+        "utterance": " Biết chứ sao không biết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit and tie standing next to a man in a red hat "
+    },
+    {
+        "utterance": " Vậy biết tui là ai không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man dressed in a costume standing next to a statue "
+    },
+    {
+        "utterance": " Thì anh là tui biết rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a costume standing next to a man in a mask "
+    },
+    {
+        "utterance": " À không phải, biết ai không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in a costume standing next to a statue "
+    },
+    {
+        "utterance": " À anh là ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit and tie standing next to a man in a suit "
+    },
+    {
+        "utterance": " Tui là Lu Đức Dây",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a costume standing next to a wall "
+    }
+]

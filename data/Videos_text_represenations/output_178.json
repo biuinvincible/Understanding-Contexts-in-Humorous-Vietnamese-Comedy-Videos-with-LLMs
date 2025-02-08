@@ -1,0 +1,147 @@
+[
+    {
+        "utterance": " Có khách tới rồi, nhà không có ăn mà còn mời khách",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a blue shirt stands with his hands on his hips."
+    },
+    {
+        "utterance": " Ê không có",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men engage in a heated argument in a living room setting."
+    },
+    {
+        "utterance": " Tao nghe kỹ rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men engage in a physical confrontation on a stage with furniture."
+    },
+    {
+        "utterance": " Tiếng thằng Sáu Quýt",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man and woman in the front row of an audience are laughing."
+    },
+    {
+        "utterance": " Sáu Quýt là ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and gray pants stands with another person in a blue shirt."
+    },
+    {
+        "utterance": " Xã hội đen",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and backwards cap stands beside another man in blue."
+    },
+    {
+        "utterance": " Trời ơi đàn em của chủ nợ tao",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black pants stands next to another person wearing a blue shirt."
+    },
+    {
+        "utterance": " Tao nói mày nghe, bây giờ tao vô bếp trốn nghe không",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black cap stands next to another person."
+    },
+    {
+        "utterance": " Nói vô mày đừng nói tao có nhà nghe chưa",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black hat is holding another man's arm."
+    },
+    {
+        "utterance": " Ê còn con, còn con sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black hat stands next to a man in a blue shirt."
+    },
+    {
+        "utterance": " Kệ mày",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black pants stands next to a man in a blue shirt."
+    },
+    {
+        "utterance": " Ba",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and gray pants is standing next to another person."
+    },
+    {
+        "utterance": " Quang Tài có nhà không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants is pointing to the right."
+    },
+    {
+        "utterance": " Quang Tài có ở trỏng không?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black pants stands in front of a table with chairs."
+    },
+    {
+        "utterance": " Ờ, ở",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black pants stands on a stage with furniture."
+    },
+    {
+        "utterance": " Ba mày đâu?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt and dark pants stands on a stage with furniture."
+    },
+    {
+        "utterance": " Ở đây không phải trại hòm, không có Quan Tài",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men standing side by side, one wearing a black tank top and the other a white shirt."
+    },
+    {
+        "utterance": " Tao hỏi ba mày đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A crowd of people, predominantly Asian, seated in rows with a mix of men and women."
+    },
+    {
+        "utterance": " Ba, ba con",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt is gesturing to another person, with two others nearby."
+    },
+    {
+        "utterance": " Đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and gray pants stands on a stage with others."
+    },
+    {
+        "utterance": " Ba",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "An actor in a white shirt and gray pants stands beside a table with two chairs."
+    },
+    {
+        "utterance": " Ba mày đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black hat is prominently featured."
+    },
+    {
+        "utterance": " Trốn rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt stands between two others, with a table and chairs nearby."
+    },
+    {
+        "utterance": " Trốn đâu?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "A person in a white shirt stands between two men, one pointing and the other with hands on hips."
+    },
+    {
+        "utterance": " Trốn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap is gesturing with their right arm."
+    },
+    {
+        "utterance": " Trốn đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black cap is visible."
+    },
+    {
+        "utterance": " Trốn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black cap stands next to someone wearing a black tank top."
+    },
+    {
+        "utterance": " Trốn đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black cap stands beside another individual."
+    },
+    {
+        "utterance": " Dưới bếp chứ đâu, ở đây đâu có chỗ trốn",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a white shirt and backwards baseball cap is talking to another man."
+    }
+]

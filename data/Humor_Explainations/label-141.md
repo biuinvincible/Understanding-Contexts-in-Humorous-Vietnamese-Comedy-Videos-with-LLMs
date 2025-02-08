@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ một câu hỏi triết lý mang tính nghịch lý về người điếc bẩm sinh và ngôn ngữ suy nghĩ của họ. Sự hài hước đến từ việc đặt ra một câu hỏi có vẻ ngớ ngẩn nhưng lại chứa đựng một góc nhìn thú vị về mối quan hệ giữa ngôn ngữ và tư duy, khiến người nghe phải suy nghĩ về một vấn đề họ chưa từng quan tâm đến trước đây.

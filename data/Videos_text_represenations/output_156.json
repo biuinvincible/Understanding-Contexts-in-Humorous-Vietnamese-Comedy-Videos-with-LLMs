@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Thế mày không ai có thể ở trong một căn phòng trống không được đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a blue shirt and a woman in a pink shirt "
+    },
+    {
+        "utterance": " Hỏi không? Mày hỏi không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man with a beard is looking at a computer screen "
+    }
+]

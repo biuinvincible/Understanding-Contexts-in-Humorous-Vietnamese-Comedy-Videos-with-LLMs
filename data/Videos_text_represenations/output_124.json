@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Hi, Class",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a female costume with long hair"
+    },
+    {
+        "utterance": "Can you speak Vietnamese?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt"
+    },
+    {
+        "utterance": " Yes, I can.",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a female costume with long hair"
+    },
+    {
+        "utterance": " Vậy nói tiếng Việt đi cô, nói tiếng chi vậy?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt"
+    }
+]

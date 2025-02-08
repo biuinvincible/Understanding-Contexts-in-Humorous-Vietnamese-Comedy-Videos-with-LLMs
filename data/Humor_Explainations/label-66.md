@@ -1,0 +1,1 @@
+Sự hài hước nằm ở cách chơi chữ và suy luận hóm hỉnh về "sữa Ông Thọ". Khi được hỏi về loại sữa đắt nhất, câu trả lời "sữa Ông Thọ" được phản biện một cách dí dỏm rằng "Ông Thọ ổng già mà ổng là đàn ông làm gì có sữa". Yếu tố hài hước đến từ việc lấy tên thương hiệu sữa nổi tiếng để tạo ra một tình huống phi lý dựa trên nghĩa đen của từ.

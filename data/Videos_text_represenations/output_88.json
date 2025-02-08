@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Lân Jee? Tại sao em không làm bài tập về nhà?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Dạ tại cha em coi World Cup á cô",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    },
+    {
+        "utterance": " Cha em coi World Cup thì liên quan gì tới bài tập của em?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Thì tại bán nhà làm gì có nhà đâu để làm bài tập",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

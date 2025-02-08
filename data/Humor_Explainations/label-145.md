@@ -1,0 +1,1 @@
+Sự hài hước được tạo ra từ việc chỉ ra một nghịch lý trong ngành nha khoa: nha sĩ kiếm tiền từ việc điều trị răng hư nhưng lại là người chứng nhận cho các sản phẩm ngăn ngừa răng hư. Câu hỏi mang tính châm biếm này khiến người nghe phải suy nghĩ về một mâu thuẫn thú vị trong thực tế, tạo nên tiếng cười từ sự phát hiện này.

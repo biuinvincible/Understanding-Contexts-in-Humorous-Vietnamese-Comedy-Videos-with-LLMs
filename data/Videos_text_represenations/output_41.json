@@ -1,0 +1,102 @@
+[
+    {
+        "utterance": " Vị anh hùng dân tộc nào, sau khi đánh đuổi giặt Ân, ông bèn cưỡi ngựa bay về trời?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Three men stand on a stage, each holding a microphone and a sword."
+    },
+    {
+        "utterance": " Câu trả lời ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Three men stand on a stage, each holding a microphone and wearing casual attire."
+    },
+    {
+        "utterance": " Con không biết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are standing on a stage, one holding a microphone and the other drinking from a bottle."
+    },
+    {
+        "utterance": " Ngu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "Two men are singing into microphones on a stage with a drum set behind them."
+    },
+    {
+        "utterance": " Câu này dễ ợt mà không biết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two men are singing into microphones, one wearing a red shirt and the other a brown shirt."
+    },
+    {
+        "utterance": " Chứ ba biết hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are on stage, one wearing a red shirt and the other a brown robe."
+    },
+    {
+        "utterance": " Câu này người ta hỏi mánh thôi, trong câu hỏi có câu trả lời rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a blue shirt is holding a microphone."
+    },
+    {
+        "utterance": " Ủa ai vậy bà?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are standing on a stage, each holding a microphone in their right hand."
+    },
+    {
+        "utterance": " Sau khi đánh đuổi giặt Ân, ông bèn lên ngựa, ổng tên là ông Bèn đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a red shirt and white pants is standing on a stage with others."
+    },
+    {
+        "utterance": " Nói rõ ràng tên ông Bèn chứ nói tên ông nội mày ha mà lưỡng lự",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Three men are on a stage, one wearing a red shirt and white pants, another in a brown suit with a scarf, and the third in a blue shirt and gray pants."
+    },
+    {
+        "utterance": " Cái gì vậy ba?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one holding a microphone, are in front of a black wall with green dots."
+    },
+    {
+        "utterance": " Cô đọc cái sách kia nói là, viết là, sau khi đánh đuổi giặt Ân, ông liền gửi ngựa bay về trời, không lẽ ông này tên Liền?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one holding a microphone, stand in front of a black and green background."
+    },
+    {
+        "utterance": " Ai cũng có cái tên thường gọi với cái tên trong khai sinh",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men singing into microphones, one wearing a brown shirt and scarf, the other in blue."
+    },
+    {
+        "utterance": " Chứ tên trong khai sinh là Nguyễn Văn Rớt, mà bà nội mày hay kêu là thằng Lụm",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a red shirt holds a microphone, standing alongside two other individuals."
+    },
+    {
+        "utterance": " Sao kỳ vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a red shirt and white pants stands next to two other individuals."
+    },
+    {
+        "utterance": " Bà lỡ bà đặt tên Rớt, bà kêu tên Lụm, bà gỡ chút đỉnh vậy đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a light blue polo shirt holds a microphone, standing in front of a backdrop."
+    },
+    {
+        "utterance": " À",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, ấm áp, đều đặn và vừa phải.",
+        "visual_description": "Two men are standing on a stage, one holding a microphone and the other holding an award."
+    },
+    {
+        "utterance": " Thì ông này cũng vậy, tên Bèn là tên trong khai sinh, mà tên Liền là nickname của ổng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men are shown holding microphones, with one wearing a red shirt and the other a brown shirt."
+    },
+    {
+        "utterance": " Ủa ba, ba, cái thời đó mà còn chát chít và yahoo.com nữa hả ba?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a red shirt and white shorts holds a microphone, extending their hand."
+    },
+    {
+        "utterance": " Mày giỏi cãi quá, mày biết ai mà cãi cãi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a red shirt and white shorts holds a microphone, speaking to an audience."
+    }
+]

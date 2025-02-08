@@ -1,0 +1,1 @@
+Tình huống hài hước trong đoạn này đến từ cách kể chuyện và kết thúc bất ngờ. Người kể bắt đầu với một câu chuyện nghiêm túc về việc chứng kiến một đứa trẻ bị tát, thể hiện sự phẫn nộ và muốn can thiệp. Tuy nhiên, kết thúc "em muốn lại em quýnh ổng luôn nhưng mà ông quá bự" tạo tiếng cười vì sự tương phản giữa ý định anh hùng và thực tế về khả năng thực hiện của người kể.

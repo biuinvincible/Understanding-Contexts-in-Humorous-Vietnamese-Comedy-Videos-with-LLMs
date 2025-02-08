@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người nói không tìm thấy bàn thờ để thắp nhang nên quyết định "mượn hai cô hồn sống" để nói chuyện với tổ tiên. Cách gọi người khác là "cô hồn sống" tạo ra sự mâu thuẫn hài hước vì thường "cô hồn" chỉ dùng để chỉ người đã mất.

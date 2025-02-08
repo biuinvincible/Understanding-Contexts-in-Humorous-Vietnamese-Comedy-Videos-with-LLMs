@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Chào em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses "
+    },
+    {
+        "utterance": " Con trai gì mà cô gái cháy vậy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman with glasses "
+    },
+    {
+        "utterance": " Mạnh mẽ, dứt khoát lên anh",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "a woman with glasses "
+    },
+    {
+        "utterance": " Anh rất chào em",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses "
+    }
+]

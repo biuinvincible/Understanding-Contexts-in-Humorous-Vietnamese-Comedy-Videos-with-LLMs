@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Em đang ngồi chờ xe buýt",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit and glasses stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Có cái chú chú lại chứ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a dark jacket and khaki pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Hello em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark jacket and khaki pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Em chờ xe buýt hả?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark jacket and light pants is holding a microphone on stage."
+    },
+    {
+        "utterance": " Dạ không em chờ tên lửa",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person stands on a stage, holding a microphone and wearing a dark jacket."
+    },
+    {
+        "utterance": " Em bay ra cái hành tinh này chứ em mệt quá rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a dark jacket and light pants holds a microphone on stage."
+    }
+]

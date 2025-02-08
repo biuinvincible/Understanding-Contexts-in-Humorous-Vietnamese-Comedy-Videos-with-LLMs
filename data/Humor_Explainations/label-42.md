@@ -1,0 +1,1 @@
+Tính hài hước trong đoạn này xuất phát từ việc mô tả sự "thông minh" của thuật toán quảng cáo Facebook. Người kể chuyện tạo tiếng cười khi kể về việc thử nghiệm khả năng nghe của Facebook bằng cách nói về "gan ngỗng" - một món ăn xa xỉ, và cách Facebook đáp ứng bằng quảng cáo "gan ngỗng chay" phù hợp với thu nhập, cùng với việc quảng cáo sách tự giúp khi cãi nhau với bạn gái.

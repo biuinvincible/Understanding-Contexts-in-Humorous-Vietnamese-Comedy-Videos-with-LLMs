@@ -1,0 +1,117 @@
+[
+    {
+        "utterance": " Em đi coi phim với bạn em nha, em phát hiện ra là",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man on stage, holding a microphone and wearing a gray vest over a white shirt."
+    },
+    {
+        "utterance": " Nó coi bồ nó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt stands on stage with a microphone."
+    },
+    {
+        "utterance": " giống như cái bình oxy di động vậy",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Kiểu đang ngồi coi phim nha",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man sits on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Sợ cười nhiều quá hết hơi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white shirt and gray vest holds a microphone, speaking on stage."
+    },
+    {
+        "utterance": " Vui em ha",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, smiling adn pretending to put his arm on somebody on stage."
+    },
+    {
+        "utterance": " Hức...hức...hức...hức",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, smiling adn pretending to put his arm on somebody on stage."
+    },
+    {
+        "utterance": " Hítttt...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, pretending to put his arm on somebody and sniff."
+    },
+    {
+        "utterance": " Hức...hức...hức...hức",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, smiling adn pretending to put his arm on somebody on stage."
+    },
+    {
+        "utterance": " Hítttt...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, pretending to put his arm on somebody and sniff."
+    },
+    {
+        "utterance": " Nó hít nguyên một buổi luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Nhưng mà khó chịu là cái vầy nè",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people, mostly young adults, are gathered together, smiling and looking forward."
+    },
+    {
+        "utterance": " Nó hít xong đúng không",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Nó review cho mình nghe",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone."
+    },
+    {
+        "utterance": " Hítttt...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt holds a microphone, pretending to put his arm on somebody and sniff."
+    },
+    {
+        "utterance": " Phê quá",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt sings into a microphone."
+    },
+    {
+        "utterance": " Phê quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A crowd of people are laughing and clapping in a dimly lit room."
+    },
+    {
+        "utterance": " Mày phê cái gì",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a gray vest and black pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Mấy đứa không có bồ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt stands on stage, addressing an audience."
+    },
+    {
+        "utterance": " Không biết được đâu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man holds a microphone, wearing a gray vest over a white collared shirt."
+    },
+    {
+        "utterance": " Ê không biết thiệt á",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a gray vest and white shirt speaks into a microphone on stage."
+    },
+    {
+        "utterance": " Bởi vậy bạn thân cho thử miếng được không",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A crowd of people, mostly women, are laughing and smiling together."
+    },
+    {
+        "utterance": " Cho ké miếng đi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A crowd of people, with one man in the foreground wearing a white t-shirt."
+    }
+]

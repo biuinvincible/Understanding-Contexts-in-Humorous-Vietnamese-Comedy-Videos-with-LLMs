@@ -1,0 +1,82 @@
+[
+    {
+        "utterance": " Mọi người biết ngày xưa á, ba em không cho em tiền",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a gray suit holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " Bởi vì ba em sợ là em không biết xài tiền, em xài hoang phí",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a suit holds a microphone and appears to be speaking."
+    },
+    {
+        "utterance": " Ngày xưa mọi người biết ở trong trường em nó bán một cái cục sida á",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Mọi người biết cái cục mà quăng xong nó dính vô tường á biết không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit is holding a microphone up to his mouth."
+    },
+    {
+        "utterance": " Đó",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Em mượn của bạn em chơi, nó có 1 ngàn đồng thôi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Mà em không có để em mua, em phải mượn của bạn em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone and gesturing with his hands."
+    },
+    {
+        "utterance": " Xong em quăng cái nó dính lên trên nóc nhà, nó không chạy xuống",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit is holding a microphone and speaking into it."
+    },
+    {
+        "utterance": " Em nợ nó 1 ngàn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a dark suit and tie is holding a microphone to their mouth."
+    },
+    {
+        "utterance": " Em phải cắn nó răng cắn cỏ như vậy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a suit is standing on a stage, speaking into a microphone."
+    },
+    {
+        "utterance": " Ba ơi cho con xin 1 ngàn thôi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Ba hỏi tại sao mày xin?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Tại con mượn đồ chơi của anh ta con làm hư rồi bây giờ con phải đền đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A large group of people are laughing in an auditorium setting."
+    },
+    {
+        "utterance": " Tao chưa cho mày tiền mày đã nợ rồi mày thấy không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A group of people, mostly young adults, sit in an auditorium, laughing and smiling."
+    },
+    {
+        "utterance": " Mà cũng đúng ha",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a dark suit is holding a microphone and smiling."
+    },
+    {
+        "utterance": " Thứ phá gia chi tử",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a dark suit is holding a microphone and smiling."
+    }
+]

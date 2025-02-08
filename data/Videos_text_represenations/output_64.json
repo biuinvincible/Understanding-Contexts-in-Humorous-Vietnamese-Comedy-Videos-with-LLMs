@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Bọn em làm Hài Độc Thoại được 3 năm rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black leather jacket and gray pants is speaking into a microphone."
+    },
+    {
+        "utterance": " Nhưng mà trong 3 năm đấy em chưa bao giờ gọi Hài Độc Thoại là nghề cả",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black leather jacket stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Nghề nó phải có thu nhập đấy",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black leather jacket stands on stage, holding a microphone."
+    }
+]

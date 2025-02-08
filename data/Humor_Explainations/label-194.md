@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách chơi chữ với từ "phiêu diêu". Thầy pháp nói về việc "phiêu diêu khắp nơi" để cứu nhân độ thế với ý nghĩa tích cực, nhưng người kia lại dùng cụm từ "phiêu diêu miền cực lạc" ám chỉ cái chết, được coi là trù ẻo, tạo nên tình huống hài hước từ sự đối lập trong cách sử dụng cùng một từ.

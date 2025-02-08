@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Anh ơi, anh mua mỹ phẩm cho em hóa trang ngày Halloween đi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a woman sitting next to a man on a couch"
+    },
+    {
+        "utterance": " Anh mua rồi đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man sitting on a couch"
+    },
+    {
+        "utterance": " Vậy hả? Anh nhớ mua cái dĩa mà hóa trang nhìn sợ sợ để em đi hù tụi bạn em nha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman is talking to a man"
+    },
+    {
+        "utterance": " Đúng với em luôn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man sitting on a couch"
+    },
+    {
+        "utterance": " Nước tẩy trang nè",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man sitting on a couch with a bottle on his hand"
+    }
+]

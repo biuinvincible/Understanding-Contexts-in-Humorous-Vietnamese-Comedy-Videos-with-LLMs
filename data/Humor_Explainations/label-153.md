@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách người nói chuyển từ quảng cáo kênh YouTube sang một câu hỏi triết lý về sự công bằng của cuộc sống. Họ đưa ra một nghịch lý thú vị: nếu cuộc đời bất công với tất cả mọi người thì điều đó lại chính là sự công bằng. Cách lập luận này tạo ra tiếng cười từ việc xoay chuyển một khái niệm tiêu cực thành tích cực một cách bất ngờ.

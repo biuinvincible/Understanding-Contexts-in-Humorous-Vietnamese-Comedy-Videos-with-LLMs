@@ -1,0 +1,1 @@
+Sự hài hước được tạo ra từ câu hỏi về người thiết kế tiền được trả lương bằng chính sản phẩm của họ. Đây là một nhận xét dí dỏm về mối quan hệ giữa người thiết kế và sản phẩm của họ - trong trường hợp này là tiền. Câu hỏi tạo ra tiếng cười vì nó chỉ ra một tình huống đặc biệt khi sản phẩm được thiết kế chính là phương tiện thanh toán.

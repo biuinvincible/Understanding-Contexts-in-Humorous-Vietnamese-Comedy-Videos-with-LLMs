@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Mấy ngày hôm nay tôi nghe thấy xì xào là Ngọc Hoàng đang chờ các táo lên để mà biểu quyết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man and woman are standing side by side, both dressed in traditional Asian attire."
+    },
+    {
+        "utterance": " Để mà đưa ra một cái quyết định gì đó về mặt nhân sự đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man and woman in traditional Asian attire stand together, with the man on the left."
+    },
+    {
+        "utterance": " Nghe xì xào?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man and woman in traditional Asian attire stand together, with the woman gesturing."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "Two individuals, one male and one female, are depicted wearing traditional Asian attire."
+    },
+    {
+        "utterance": " Đến cái chỗ xì xào mà hỏi nhé",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man and woman in colorful attire face each other, with the woman wearing a purple scarf."
+    }
+]

@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh việc người nói đi xem phim kinh dị với bạn gái cũ. Sự hài hước nằm ở cách anh ta miêu tả phản ứng sợ hãi của mình, muốn quay sang tìm sự an ủi từ bạn gái nhưng cô ấy đã trốn mất dưới áo khoác. Kết thúc hài hước khi nhân viên rạp đến báo hết phim, như một sự giải thoát cho cả hai người đang sợ hãi.

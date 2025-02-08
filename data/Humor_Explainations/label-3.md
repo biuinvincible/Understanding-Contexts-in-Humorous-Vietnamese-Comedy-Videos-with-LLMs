@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn hội thoại nằm ở câu chuyện về "chị tâm linh" - người có vẻ thường xuyên đưa ra những nhận xét kỳ quặc. Điểm cười đến từ việc "chị tâm linh" này ban đầu tạo không khí căng thẳng khi nhắc về đôi bông tai, khiến người nghe lo lắng về điềm gở, nhưng hóa ra chỉ đơn giản là muốn xin link mua bông tai, tạo ra một tình huống "hết hồn hóa vui".

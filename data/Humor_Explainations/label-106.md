@@ -1,0 +1,1 @@
+Đoạn hội thoại tạo tiếng cười thông qua một câu chơi chữ thông minh. Người nói đã biến tấu từ "ngoại tình" (ngoại = bên ngoài) thành "nội tình" khi đề cập đến việc ngoại tình với người hướng nội (nội = bên trong). Sự tương phản giữa "ngoại" và "nội" tạo ra một tình huống hài hước, đặc biệt khi được nói với giọng điệu trầm và chậm rãi, làm tăng thêm hiệu quả của lời nói đùa.

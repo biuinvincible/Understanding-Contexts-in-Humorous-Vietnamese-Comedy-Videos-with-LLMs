@@ -1,0 +1,1 @@
+Đoạn hội thoại mang tính hài hước khi miêu tả một người ăn mày "chảnh", không chấp nhận số tiền ít ỏi và còn đặt ra mức quyên góp tối thiểu 10$. Sự hài hước nằm ở việc đảo ngược vai trò thông thường của người ăn xin - thay vì biết ơn và khiêm tốn, người này lại tỏ ra kiêu kỳ và đòi hỏi, thậm chí còn từ chối nhận tiền vì cho rằng số tiền quá ít.

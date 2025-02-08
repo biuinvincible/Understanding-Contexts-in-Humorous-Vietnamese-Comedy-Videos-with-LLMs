@@ -1,0 +1,1 @@
+Tình huống hài hước được tạo ra từ việc một người đàn ông chào hỏi thiếu quyết đoán, bị người phụ nữ chỉ trích là "con trai gì mà cô gái cháy vậy". Khi được nhắc phải mạnh mẽ và dứt khoát hơn, anh ta đã thêm từ "rất" vào lời chào, tạo nên một tình huống hài hước từ sự gượng gạo và thiếu tự nhiên trong cách ứng xử.

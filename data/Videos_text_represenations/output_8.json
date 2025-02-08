@@ -1,0 +1,117 @@
+[
+    {
+        "utterance": " Thì khi mà tụi mình cứ thích chơi chữ như vậy",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a black suit is standing on stage with a microphone."
+    },
+    {
+        "utterance": " Thì nó thành thói quen mọi người",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a black suit and glasses is speaking into a microphone."
+    },
+    {
+        "utterance": " Và nó bị một cái mình gọi là bệnh nghề nghiệp",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit holds a microphone, with their hand raised."
+    },
+    {
+        "utterance": " Tức là có những tình huống mà mình không cố ý chơi chữ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone with a blue handle."
+    },
+    {
+        "utterance": " Nhưng mà cứ thế mà chữ nó tự chơi mọi người",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói nhanh.",
+        "visual_description": "A person in a black shirt holds a microphone against a dark background."
+    },
+    {
+        "utterance": " Ví dụ nha hôm bữa mình đi ăn ở ngoài quán nhậu",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man is holding a microphone and wearing a black jacket with a necklace."
+    },
+    {
+        "utterance": " Ngồi ăn với nguyên đám bạn",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black jacket holds a microphone with the right hand."
+    },
+    {
+        "utterance": " Có bà cụ lại hỏi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person wearing glasses and a black jacket holds a microphone."
+    },
+    {
+        "utterance": " Con, con có ăn đậu phộng, trứng cút gì giúp bà không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Dạ cút",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a black shirt holds a microphone with a serious expression."
+    },
+    {
+        "utterance": " Thế bà cụ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black suit jacket holds a microphone with his right hand."
+    },
+    {
+        "utterance": " Bà xin lỗi con",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a dark outfit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Nguyên đám bạn chửi mình",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit is standing on stage, holding a microphone."
+    },
+    {
+        "utterance": " Nói mình ăn nó mất dạy mày",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a black shirt holds a microphone, with their right hand raised."
+    },
+    {
+        "utterance": " Hông, cái lúc đó mình mới nhận ra",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black suit holds a microphone, set against a black background."
+    },
+    {
+        "utterance": " Rồi một trường hợp khác",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black shirt holds a microphone, with the background being black."
+    },
+    {
+        "utterance": " Hôm bữa bạn của mình bị tiêu chảy",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone with a blue ring on it."
+    },
+    {
+        "utterance": " Nó chạy tới chạy lui mấy chục lần",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a black jacket holds a microphone against a dark background."
+    },
+    {
+        "utterance": " Rất đau luôn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, with a black background behind him."
+    },
+    {
+        "utterance": " Thì mình muốn động viên nó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person is shown in the picture, wearing a black suit and holding a microphone."
+    },
+    {
+        "utterance": " Mình muốn nói cái gì đó để tinh thần nó tốt hơn",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a black suit is holding a microphone."
+    },
+    {
+        "utterance": " Tới cái lần thứ mười mấy mà nó đi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Have fun man",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in dark attire stands on a stage, holding a microphone to their mouth."
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở cách trả lời thông minh và hóm hỉnh của người được hỏi. Khi người hỏi nói về việc nghe "xì xào" về Ngọc Hoàng và các táo, người kia đáp lại bằng cách chỉ ra sự phi lý một cách hài hước: thay vì hỏi người không liên quan, sao không đến thẳng chỗ "xì xào" mà hỏi. Câu trả lời này vừa hợp lý vừa tạo tiếng cười từ việc chơi chữ với từ "xì xào".

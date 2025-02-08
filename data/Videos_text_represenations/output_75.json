@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Halloween năm nay, tôi định sẽ trang trí cái giang phòng của mình",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and black suit stands in front of a door."
+    },
+    {
+        "utterance": " theo phong cách kinh dị chút xíu",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and grey animal onesie sits at a desk with a laptop."
+    },
+    {
+        "utterance": " không biết mọi người có idea gì hay không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and black jacket stands against a white wall."
+    },
+    {
+        "utterance": " em nghĩ là nên dắn một cái con ma kinh dị lên cái tường này ở sếp",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white and gray animal onesie sits at a desk with a laptop."
+    },
+    {
+        "utterance": " xong mình để mấy bộ xương xung quanh",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black suit stands with hands clasped together."
+    },
+    {
+        "utterance": " cũng khá là hay đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white animal onesie with a hood and ears is smiling."
+    },
+    {
+        "utterance": " nhưng mà tôi nghĩ là mình sẽ kiếm một con quỷ gì đó ghê ghê",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black suit stands against a white wall."
+    },
+    {
+        "utterance": " xong rồi treo lên trên trần nhà luôn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Two young men sit together, one wearing a white onesie with a hood and the other in casual attire."
+    },
+    {
+        "utterance": " ủa đâu được, sếp nặng vậy sao treo sếp lên được",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black jacket stands against a white wall."
+    }
+]

@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ sự trùng hợp ngẫu nhiên giữa hành động bơm môi thẩm mỹ và hành động "chề môi" (thể hiện sự chê bai). Điểm cười đến từ phản ứng của người bán cá, khi họ hiểu nhầm môi sưng do bơm của khách hàng là đang có ý "chề môi" chê cá của mình, dẫn đến phản ứng tức giận đánh khách hàng và càu nhàu "cá tươi thế kia mà bà chảy môi thế này".

@@ -1,0 +1,37 @@
+[
+    {
+        "utterance": " Dạ, à được rồi, có mặt hai người thì dễ làm việc hơn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 men and a woman standing on a stage"
+    },
+    {
+        "utterance": "Bây giờ mời cô bước qua bên này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "2 men and a woman standing on a stage"
+    },
+    {
+        "utterance": " Dạ mời cụ bước qua bên này",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và vừa phải.",
+        "visual_description": "2 men and a woman standing on a stage"
+    },
+    {
+        "utterance": " Ủa xin lỗi, luật sư mới mời ai vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 men and a woman standing on a stage"
+    },
+    {
+        "utterance": " Dạ con mời cụ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 men and a woman standing on a stage"
+    },
+    {
+        "utterance": " Nhiêu tuổi mà vô duyên muộn hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "an old man in a black traditional outfit"
+    },
+    {
+        "utterance": " Nghĩ sao ta đi hai vợ chồng mày mời vợ tao mày mời em mày mời tao mày quất cái tớ cụ là sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 men and a woman standing next to each other"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Thế con gà có trước hay quả trứng có trước?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A red square with the number 24 in white text is centered on a white background."
+    },
+    {
+        "utterance": " Cái đấy mày phải đi hỏi con gà chứ mày hỏi tao",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a pink robe and yellow hat is prominently featured."
+    },
+    {
+        "utterance": " Tao không biết",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man and woman in traditional Asian attire stand facing each other."
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước được tạo ra từ một câu đố về tội phạm và luật lệ. Người nói đặt ra một tình huống nghịch lý: nếu bỏ hết luật lệ thì tỷ lệ tội phạm sẽ bằng 0, vì khi không còn luật lệ thì không có hành vi nào bị coi là phạm tội. Cách chơi chữ này tạo ra tiếng cười từ việc đảo ngược logic thông thường về mối quan hệ giữa luật pháp và tội phạm.

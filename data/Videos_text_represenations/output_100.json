@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Có một lần em đi ngoài đường và em thấy một cái ông kia",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a suit talking into a microphone in front of a crowd "
+    },
+    {
+        "utterance": " ổng tát một cái đứa nhỏ khoảng 8 9 tuổi, ổng tát, bốp",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a suit talking into a microphone in front of a crowd "
+    },
+    {
+        "utterance": " nó khóc ré lên giữa đường",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit talking into a microphone "
+    },
+    {
+        "utterance": " Mọi người tức không?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit talking into a microphone "
+    },
+    {
+        "utterance": " Em rất tức, em muốn lại em quýnh ổng luôn nhưng mà ông quá bự",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a suit talking into a microphone"
+    }
+]

@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách người đàn ông "an ủi" người phụ nữ. Khi cô ấy khiêm tốn nói không đẹp bằng trong hình, thay vì nói những lời động viên tích cực, anh ta lại đồng ý và nói thẳng "trong hình em đâu có đẹp đâu". Đây là một tình huống gây cười từ sự mâu thuẫn giữa kỳ vọng được an ủi và câu trả lời thẳng thắn đến mức "tàn nhẫn".

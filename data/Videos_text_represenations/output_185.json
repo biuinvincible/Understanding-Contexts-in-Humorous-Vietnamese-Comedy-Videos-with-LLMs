@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Anh ơi giúp em với",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh",
+        "visual_description": "A man in a striped shirt and black pants stands on a stage with purple curtains."
+    },
+    {
+        "utterance": " Cái gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a striped shirt stands beside a large, bamboo-framed screen with purple curtains."
+    },
+    {
+        "utterance": " Anh anh giúp em với",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Two people, one in a white shirt and one in a gray shirt, are on stage."
+    },
+    {
+        "utterance": " Sao vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black pants appears to be dancing with another person."
+    },
+    {
+        "utterance": " Chuyện gì?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a green striped shirt sits among an audience, clapping enthusiastically."
+    },
+    {
+        "utterance": " Anh",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a green shirt is clapping, surrounded by other people clapping and smiling."
+    },
+    {
+        "utterance": " Anh giúp em",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is handing a clear plastic object to another man."
+    },
+    {
+        "utterance": " Bịt mấy cái ống nước",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt stands next to another person in a striped shirt."
+    },
+    {
+        "utterance": " Ống nước bị vỡ rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is facing another person wearing a sequined shirt."
+    },
+    {
+        "utterance": " Trời ơi",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt faces another person wearing a black and white shirt."
+    },
+    {
+        "utterance": " Ống nước nhà bị vỡ hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt hands an object to another person wearing a sequined shirt."
+    },
+    {
+        "utterance": " Không, ống nước công viên",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants stands beside another person on stage."
+    },
+    {
+        "utterance": " Ống nước công viên nó vỡ lung tung cả lên",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is holding plastic bags next to another person."
+    },
+    {
+        "utterance": " Em, em bịt hết ống này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt is gesturing with their arm extended."
+    },
+    {
+        "utterance": " Nó lại thọ lên ống khác",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white jacket is holding a wrapped gift, while another person stands nearby."
+    },
+    {
+        "utterance": " Bịt hết ống này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants is standing next to a man."
+    },
+    {
+        "utterance": " Nó lại thọ lên ống khác",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black pants is handing something to another person."
+    },
+    {
+        "utterance": " Em bịt mới được hai mươi mấy ống thôi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is gesturing to another person wearing a silver shirt."
+    },
+    {
+        "utterance": " Còn bây giờ nó thọ lên khắp nơi rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and black pants stands beside another person."
+    },
+    {
+        "utterance": " Trời ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white dress is handing a silver object to another person."
+    },
+    {
+        "utterance": " Cái đó là cái tưới nước tự động của người ta ông ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a blue shirt hands a silver object to another man."
+    },
+    {
+        "utterance": " Khổ quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white top and a person in a silver shirt are shown."
+    }
+]

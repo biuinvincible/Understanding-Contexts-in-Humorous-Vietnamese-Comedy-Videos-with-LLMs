@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Mọi người biết môn hóa không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a suit is speaking into a microphone "
+    },
+    {
+        "utterance": " Con người có thể tha hóa nhưng tha hóa không tha con người đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "a man in a suit is speaking into a microphone in front of a crowd "
+    }
+]

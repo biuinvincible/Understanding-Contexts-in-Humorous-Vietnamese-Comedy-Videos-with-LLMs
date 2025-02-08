@@ -1,0 +1,142 @@
+[
+    {
+        "utterance": " Em không thích xài đồ fake",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A man in a black suit is standing on a stage and singing into a microphone."
+    },
+    {
+        "utterance": " Nhưng mà ngày xưa",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A man in a suit stands on a stage holding a microphone."
+    },
+    {
+        "utterance": " Em từng xài đồ fake",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và chậm.",
+        "visual_description": "A man in a black suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Mẹ mua cái gì? Mình mặc cái đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a brown suit is holding a microphone and singing."
+    },
+    {
+        "utterance": " Nhưng mà mẹ em thì thương con",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Được cái mẹ em rất muốn con mình xài những cái đồ tốt nhất",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Mẹ em mua hàng hiệu không à",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Mẹ em mua cho em một cái áo Gucci",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit holds a microphone, speaking into it."
+    },
+    {
+        "utterance": " Cái vấn đề của cái áo Gucci này là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit holds a microphone, with his mouth open as if speaking."
+    },
+    {
+        "utterance": " Cái chữ Gucci đọc sao ghi y chang vậy đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, sôi nổi, vừa phải.",
+        "visual_description": "A man in a suit holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " G-U",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person is holding a microphone and wearing a dark-colored suit jacket."
+    },
+    {
+        "utterance": " C-H-I dài",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều và nhanh.",
+        "visual_description": "A man in a black suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Trời ơi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Em kêu mẹ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Mình mua đồ fake rồi",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, ấm áp, đều đặn và vừa phải.",
+        "visual_description": "A person in a dark suit holds a microphone, standing against a black background."
+    },
+    {
+        "utterance": " Mình mua sao cho nó giống nhất được không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Lần sau mẹ em cầm cái áo khác vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit is speaking into a microphone on stage."
+    },
+    {
+        "utterance": " Được chưa con",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A man in a black suit holds a microphone with both hands."
+    },
+    {
+        "utterance": " G-U-C-I ngắn tuyệt vời",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit holds a microphone, singing or speaking into it."
+    },
+    {
+        "utterance": " Mà nó chỉ có một chữ C thôi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A man in a dark suit holds a microphone, speaking into it with confidence."
+    },
+    {
+        "utterance": " Mẹ",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, sáng, đều, vừa phải.",
+        "visual_description": "A person in a black suit is standing on a stage with a microphone."
+    },
+    {
+        "utterance": " Riff lại một lần cuối thôi nha",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " G-U-C-C-I ngắn chấm hết lộn không có dấu chấm",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và đều.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone and gesturing."
+    },
+    {
+        "utterance": " Chỉ vậy thôi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Cái áo cuối cùng mẹ em mua về",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit is standing on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Tuyệt vời",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit and glasses holds a microphone on stage."
+    },
+    {
+        "utterance": " G-U-C-C-I ngắn",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit is holding a microphone and eating something."
+    },
+    {
+        "utterance": " Có con cá xấu nữa",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a dark suit holds a microphone, possibly speaking or singing."
+    }
+]

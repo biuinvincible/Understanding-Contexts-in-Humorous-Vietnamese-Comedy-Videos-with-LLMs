@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách so sánh thông minh giữa việc con người không nhìn thấy không khí và việc cá có nhìn thấy nước hay không. Câu hỏi tưởng chừng ngây ngô này lại là một phép so sánh thú vị về nhận thức của các loài sinh vật với môi trường sống của họ, tạo nên tiếng cười từ sự liên tưởng bất ngờ này.

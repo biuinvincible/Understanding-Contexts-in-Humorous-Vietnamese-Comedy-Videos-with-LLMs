@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Ê ê ê ê ê ê...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is cutting a paper on a wall "
+    },
+    {
+        "utterance": " Khi mà tao nói câu mày đừng tin tao là mày sẽ tin câu mày đừng tin tao",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men are talking on a cell phone "
+    },
+    {
+        "utterance": " để đừng tin tao hay là mày sẽ không tin tao",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man with glasses and a woman with a cell phone "
+    },
+    {
+        "utterance": " vì tao nói mày đừng tin tao",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two men are using a toothbrush to cut a banana "
+    }
+]

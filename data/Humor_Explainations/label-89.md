@@ -1,0 +1,1 @@
+Yếu tố hài hước xuất hiện trong cách chơi chữ với từ "nhà". Khi giáo viên hỏi về cách tránh cờ bạc và nghĩ đến "nhà" với ngụ ý gia đình, học sinh đã tạo bất ngờ bằng cách trả lời "nhà cái" - thuật ngữ trong cờ bạc. Sự đối lập giữa kỳ vọng của giáo viên về một câu trả lời mang tính giáo dục và câu trả lời thực tế của học sinh tạo nên tiếng cười.

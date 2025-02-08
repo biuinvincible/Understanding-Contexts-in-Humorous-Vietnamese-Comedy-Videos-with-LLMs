@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Anh chị xui ơi, tôi vui quá, để đồ lên con, để đồ lên con",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "Two men are on a stage, one wearing a white suit and the other in red."
+    },
+    {
+        "utterance": " Đáng lý ra ngày hôm nay tôi tới đây",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A stage with four people, a table, and a red carpet, surrounded by an audience."
+    },
+    {
+        "utterance": " là để trước là tôi thắp nhang cho bàn thờ ông bà",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A group of people in traditional Asian attire gather around a table on stage."
+    },
+    {
+        "utterance": " nhưng bây giờ tôi không thấy cái bàn thờ thôi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a red and gold outfit with a headset against a black background."
+    },
+    {
+        "utterance": " thì mượn hai cô hồn sống này để tôi nói chuyện cũng được",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A group of people in colorful attire stand around a table on a stage."
+    },
+    {
+        "utterance": " Ấy..",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Four men in traditional Vietnamese attire stand around a red table on a stage."
+    },
+    {
+        "utterance": " Kêu đàng hoàng nha!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Four men in traditional Vietnamese attire stand around a red table on a stage."
+    },
+    {
+        "utterance": " À M..Mượn hai anh chị",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Four men in traditional Vietnamese attire stand around a red table on a stage."
+    },
+    {
+        "utterance": " để tôi có đôi lời với ông bà tổ tiên",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A red stage with a table and four people in traditional Asian attire."
+    }
+]

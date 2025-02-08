@@ -1,0 +1,1 @@
+Đoạn hội thoại tạo tiếng cười từ chủ đề "bóng đè" khi một khán giả trả lời cảm giác "phê" thay vì sợ hãi như thông thường. Tình huống càng trở nên hài hước khi người dẫn chương trình đùa về việc không biết đó là "bóng tâm linh hay bóng giới tính". Sự kết hợp giữa chủ đề ma quái với phản ứng bất ngờ và cách chơi chữ tạo nên tình huống hài hước độc đáo.

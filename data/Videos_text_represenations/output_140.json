@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Hôm bữa đó hông, tui với nó đang nằm ngủ ngon lành",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "a black and white photo of a black and white photo "
+    },
+    {
+        "utterance": " Cái tự nhiên giữa đêm cái nó bật người nó thức dậy",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in a blue shirt and a woman in a blue shirt "
+    },
+    {
+        "utterance": " Cái nó nói, anh ơi anh ơi, chết rồi, chồng em về tới",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man and a woman standing in a room "
+    },
+    {
+        "utterance": " Rồi sao?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a cat is playing with a video game "
+    },
+    {
+        "utterance": " Trời ơi, tui thức dậy tui lo tui gom quần áo muốn chết luôn vậy đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man wearing a suit and tie "
+    },
+    {
+        "utterance": " Tui chạy ra tui leo ra ngoài cửa sổ liền cho đi, cửa trước chồng nó thấy tui làm sao",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man holding a baseball bat while standing next to a woman "
+    },
+    {
+        "utterance": " Đó, tui leo ra cửa sổ tui leo xuống, tui chạy ra tui lấy xe, chạy liền, chạy Ê!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men standing next to each other in front of a tv "
+    },
+    {
+        "utterance": " Chạy nửa đường, tui thức nhớ của tui chồng đó mà",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "a man in a hat and a woman in a dress "
+    }
+]

@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ việc người ăn mày sử dụng thành ngữ "lá lành đùm lá rách" một cách sáng tạo và hài hước, thêm vào đó những cấp độ mới như "lá nát đùm lá tả tơi". Cách chơi chữ này không chỉ thể hiện sự dí dỏm mà còn là một cách thông minh để thuyết phục người cho tiền tăng số tiền quyên góp.

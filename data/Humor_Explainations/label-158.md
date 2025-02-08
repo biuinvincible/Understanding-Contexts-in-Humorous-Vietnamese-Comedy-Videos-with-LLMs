@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở việc đặt câu hỏi về nhân vật Nobita trong truyện Doraemon. Câu hỏi tạo tiếng cười bằng cách chỉ ra một nghịch lý thú vị trong cốt truyện: mặc dù Nobita có access đến cánh cửa thần kỳ của Doraemon nhưng vẫn thường xuyên đi học trễ. Điều này làm nổi bật tính cách lười biếng đặc trưng của Nobita một cách hài hước.

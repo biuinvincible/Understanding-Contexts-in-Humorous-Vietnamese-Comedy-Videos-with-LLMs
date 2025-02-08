@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Vâng, bà ơi, ông mình có câu lá lành đùm lá rách, lá rách đùm lá nát, lá nát nó đùm cái lá tả tơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman standing in front of a wall with a cell phone "
+    },
+    {
+        "utterance": " Không lẽ bà thấy con tả tơi thế này bà không đùm con lại sao bà?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man sitting on a bench with a sign "
+    }
+]

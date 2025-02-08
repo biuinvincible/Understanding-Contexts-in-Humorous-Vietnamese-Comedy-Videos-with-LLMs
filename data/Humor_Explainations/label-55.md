@@ -1,0 +1,1 @@
+Sự hài hước được tạo ra từ việc liệt kê các "nguyên tắc sống" theo cách chơi chữ và ẩn ý. Các cụm từ "truyền thoảng, giữ nhanh", "tham yêu trung thành", "ăn chia sòng phàng" vừa có vẻ như những lời khuyên sâu sắc, nhưng lại mang hàm ý hài hước về cách "thành công" không mấy chính danh.

@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Tại sao tôi cứ nghe tiếng ồn nhỉ?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in female teacher costume"
+    },
+    {
+        "utterance": " Dạ tại cô có lỗ tai nè cô",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

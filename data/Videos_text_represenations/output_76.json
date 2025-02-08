@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Halloween này em sẽ hóa trang thành người yêu cũ của anh",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man and woman are sitting next to each other"
+    },
+    {
+        "utterance": " Thôi anh xin em á",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing a t-shirt  "
+    },
+    {
+        "utterance": " Nói tới người yêu cũ là anh sợ rồi chứ gì",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man and woman are sitting next to each other "
+    },
+    {
+        "utterance": " Không phải, em muốn giống người yêu cũ của anh là em phải nâng ngực, cắt mí, sửa mũi, chuyển giới luôn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a black t-shirt"
+    }
+]

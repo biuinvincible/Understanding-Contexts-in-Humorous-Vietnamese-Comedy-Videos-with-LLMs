@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở việc chơi chữ với từ "building" trong tiếng Anh. Người nói đặt câu hỏi hài hước về việc tại sao tòa nhà đã xây xong vẫn được gọi là "building" (đang xây) thay vì "built" (đã xây). Câu hỏi tạo tiếng cười bằng cách chỉ ra sự "mâu thuẫn" này trong ngôn ngữ tiếng Anh.

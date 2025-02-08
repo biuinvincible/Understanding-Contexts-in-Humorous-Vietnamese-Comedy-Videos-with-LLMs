@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Ê cu!",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman standing in front of a wall with a white wall "
+    },
+    {
+        "utterance": " Thì thuốc độc mà hết hàng sử dụng á là nó hết độc hay là nó độc hơn?",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh: tông giọng trầm, nói nhỏ nhẹ và êm dịu, nói nhỏ và nhẹ nhàng, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a person with a tie "
+    }
+]

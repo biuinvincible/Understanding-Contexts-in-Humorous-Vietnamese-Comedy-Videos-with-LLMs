@@ -1,0 +1,1 @@
+Yếu tố hài hước được tạo ra từ việc áp dụng câu tục ngữ "trời đánh tránh bữa ăn" vào tình huống con muỗi đang hút máu. Người nói đặt ra một câu hỏi dí dỏm về việc liệu có được đánh muỗi khi nó đang "ăn" (hút máu) hay không, tạo ra sự hài hước bằng cách áp dụng một câu tục ngữ vào một tình huống hoàn toàn khác với ý nghĩa gốc của nó.

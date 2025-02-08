@@ -1,0 +1,92 @@
+[
+    {
+        "utterance": " Bị bóng đè nên vui hay buồn?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone, possibly singing."
+    },
+    {
+        "utterance": " Ở đây có ai từng ngủ mà bị bóng đè chưa?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Không",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a black leather jacket and pants stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Mà biết là chưa rồi, ai có giờ lên giùm cái",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people is seated in a theater, facing the stage."
+    },
+    {
+        "utterance": " Đó, rất nhiều, 1, 2 trên lầu đâu ạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A crowd of people is seated in a theater, with some raising their hands."
+    },
+    {
+        "utterance": " Ủa, trời đất ơi, bóng ở trển quá trời, ê lộn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A woman in a black leather jacket holds a microphone, with her hand covering her mouth."
+    },
+    {
+        "utterance": "Bị bóng đè ở trển quá trời luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a black leather jacket holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Thì, ví dụ mọi người nói cho em nghe đây là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A woman in a white shirt and black jacket holds a microphone to her mouth."
+    },
+    {
+        "utterance": " Những người bị bóng đè rồi thì cái lúc mà bóng đè thì mình như thế nào?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman with long hair holds a microphone, wearing a leather jacket and black pants."
+    },
+    {
+        "utterance": " Phê",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Bị bóng đè...",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, sáng, đều, vừa phải.",
+        "visual_description": "A crowd of people are seated in a theater, with some standing and watching."
+    },
+    {
+        "utterance": " Good choice",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone, with a subtle smile on their face."
+    },
+    {
+        "utterance": " Ê, lúc đó lẽ là lúc đó mình phải sợ chứ anh ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone on stage."
+    },
+    {
+        "utterance": " Khoan, anh bị bóng đè đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Bóng gì đè anh?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A crowd of people sit in a theater, with some looking at the stage."
+    },
+    {
+        "utterance": " Bóng tâm linh hay bóng giới tính?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A large audience is seated in a theater, watching a performance."
+    },
+    {
+        "utterance": " mà đề ổng phê",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Trời đất ơi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    }
+]

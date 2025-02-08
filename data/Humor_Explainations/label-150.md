@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách chơi chữ thông minh với câu "thời gian là tiền bạc". Khi cô giáo xác nhận điều này, học sinh đã lập luận hài hước rằng máy ATM phải là cỗ máy thời gian, vì nó liên quan đến tiền. Sự hài hước được tạo ra từ việc diễn giải theo nghĩa đen một câu thành ngữ quen thuộc.

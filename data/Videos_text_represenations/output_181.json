@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Hồi đó là tôi không chịu chị, chứ không phải là chị không ưng tôi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and black cap with hands on their head."
+    },
+    {
+        "utterance": " Ờ, bây giờ anh hối hận, anh tiếc phải không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a purple shirt stands in front of a white curtain, with a table to his left."
+    },
+    {
+        "utterance": " Tôi biết là trong lòng anh hối hận lắm, nhưng mà muộn rồi nha anh",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a white shirt stands on a stage with other people and furniture."
+    },
+    {
+        "utterance": " Ván xưa bây giờ đã đóng thuyền rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman and a man are standing together, with the woman on the left."
+    },
+    {
+        "utterance": " Bởi vì ngày xưa anh chê tôi nghèo chứ gì",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A woman with long brown hair and a blue floral top stands beside a man in a blue shirt."
+    },
+    {
+        "utterance": " Không, không, có cái này con cải chính tại ba con tâm sự",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman and man are seated together, with the woman on the left wearing a blue floral top."
+    },
+    {
+        "utterance": " Bạn bè giống bạn bè lắm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt stands with another in red pants and a blue shirt."
+    },
+    {
+        "utterance": " Sao, tâm sự sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt and black cap stands beside a woman in a floral dress."
+    },
+    {
+        "utterance": " Ông tâm sự là ngày xưa ông chê cô xấu, chứ không phải che cô nghèo",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and black hat stands beside another person in a floral dress."
+    }
+]

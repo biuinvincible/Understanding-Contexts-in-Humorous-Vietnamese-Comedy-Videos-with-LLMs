@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Lân, tại sao một công nghệ em bị 0 điểm?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman in a blue shirt and a sign "
+    },
+    {
+        "utterance": " Dạ thưa cô, bất công với em quá thưa cô",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men standing next to each other "
+    },
+    {
+        "utterance": " Tại sao một công nghệ mà em dùng đồ công nghệ làm bài mà em bị phạt cô?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men in a room with a wall "
+    }
+]

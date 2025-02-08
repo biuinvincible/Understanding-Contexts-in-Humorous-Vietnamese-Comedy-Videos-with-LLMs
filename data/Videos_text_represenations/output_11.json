@@ -1,0 +1,147 @@
+[
+    {
+        "utterance": " Nếu Zombie có thiệt thì sao?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black outfit is holding a microphone and gesturing with their hand."
+    },
+    {
+        "utterance": " Em tưởng tượng nếu Zombie có thiệt",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black outfit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Em cảm thấy kiểu lúc đó em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in black clothing holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Mình có quá nhiều việc phải làm, mình phải sinh tồn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black outfit is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Mình phải đi kiếm vũ khí, mình phải đi kiếm thức ăn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in black holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " Mình phải đi liên minh tất cả mọi thứ",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in black attire holds a microphone, with his arm raised and mouth open."
+    },
+    {
+        "utterance": " Những cái điều đó em làm không nổi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in black stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Thứ nhất là chạy không nổi rồi đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in black attire stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Cái thứ này sao chạy nổi",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt and glasses is smiling, with another person partially visible."
+    },
+    {
+        "utterance": " Em ăn em còn đặt shipper",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person stands on a stage, speaking into a microphone."
+    },
+    {
+        "utterance": " mà đừng có sao kêu em đi kiếm đồ ăn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black shirt holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " Nếu Zombie mà có thiệt",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black outfit holds a microphone and speaks, with his right arm bent."
+    },
+    {
+        "utterance": " Em tình nguyện em nằm ra",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in black attire holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " em mời nó ăn em luôn",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A woman in a white dress is laughing with her hand on her face."
+    },
+    {
+        "utterance": " Em kêu ba má em chạy hết đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in black attire is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Em vô nhà tắm rửa thay đồ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black outfit holds a microphone and appears to be speaking."
+    },
+    {
+        "utterance": " Em xịt thêm miếng dầu thơm, em bỏ thêm miếng hành, em bỏ thêm miếng tim",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a black shirt holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Em rắc thêm miếng nước mắm, xịt thêm miếng tương ớt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black shirt is singing into a microphone."
+    },
+    {
+        "utterance": " Em nằm nghiêng ráo nước, mời nó ăn em luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black outfit holds a microphone, set against a dark background."
+    },
+    {
+        "utterance": " Tại vì nó ăn em xong",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " gia đình em sẽ chạy được",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black shirt and pants stands on a stage with red curtains."
+    },
+    {
+        "utterance": " Ít ra nó ăn em xong, cái thời gian nó ăn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in black attire stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " nó sẽ tốn nhiều thời gian hơn người bình thường",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman with long dark hair smiles in a crowd of people."
+    },
+    {
+        "utterance": " Và đặc biệt nó sẽ có nguy cơ",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in black attire holds a microphone, gesturing with his hand."
+    },
+    {
+        "utterance": " bệnh nhiều hơn",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A woman with dark hair and glasses is prominently featured in the foreground."
+    },
+    {
+        "utterance": " Gout nè, mỡ trong máu nè",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black shirt holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Đang chạy cười",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in black, holding a microphone, stands on a stage with a red curtain backdrop."
+    },
+    {
+        "utterance": " Mày bị",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person stands on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Cholesterol cao quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black shirt holds a microphone, standing against a dark background."
+    }
+]

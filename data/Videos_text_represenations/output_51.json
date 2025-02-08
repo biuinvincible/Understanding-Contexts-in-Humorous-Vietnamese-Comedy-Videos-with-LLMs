@@ -1,0 +1,107 @@
+[
+    {
+        "utterance": " Mọi người biết đường ở Đà Lạt mọi người sợ nhất là cái gì?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black leather jacket holds a microphone, standing in front of a metal gate."
+    },
+    {
+        "utterance": " Đúng vậy",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, with a wall or gate behind him."
+    },
+    {
+        "utterance": " Dốc ở Đà Lạt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, speaking to an audience."
+    },
+    {
+        "utterance": " Mọi người biết dốc ở Đà Lạt rồi đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, speaking with his hand outstretched."
+    },
+    {
+        "utterance": " Nó không phải là cái dốc",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man wearing black, holding a microphone, with a watch in the background."
+    },
+    {
+        "utterance": " Không có cái dốc nào mà 75 độ hết",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Cái đó là cái tường",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white mask is surrounded by a group of people."
+    },
+    {
+        "utterance": " Cái đó là núi nhân tạo mọi người hiểu không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black leather jacket holds a microphone, standing against a wall."
+    },
+    {
+        "utterance": " Hôm đó tụi em đi diễn buổi tối",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white face mask is prominently featured in the foreground."
+    },
+    {
+        "utterance": " Thì ngồi sau xe em là con quỷ Nhi Võ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm",
+        "visual_description": "A man in a black leather jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Con quỷ Nhi Võ nó search Google",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black leather jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Nó chỉ là ok mày đi tiếp đi mày đi tiếp đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket stands in front of a wall, holding a microphone."
+    },
+    {
+        "utterance": " Két 2 đứa dừng dưới đó đó mày đi xuống dưới đó đó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a black jacket holds a microphone, speaking to an audience."
+    },
+    {
+        "utterance": " Em nhìn xuống dưới đó em tới 1 cái dốc",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black jacket is speaking into a microphone."
+    },
+    {
+        "utterance": " Gọi là dốc nhà bò",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white mask is surrounded by a crowd of people."
+    },
+    {
+        "utterance": " Nó đứng xuống như thế này",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man with short dark hair, wearing a black leather jacket, holds a microphone."
+    },
+    {
+        "utterance": " Như cái thác vậy đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black jacket holds a microphone, possibly speaking or singing."
+    },
+    {
+        "utterance": " Thì con Nhi nó hỏi là Ê Nam mày thương ba má mày không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black jacket holds a microphone, standing in front of a wall."
+    },
+    {
+        "utterance": " Em hỏi ổng sao vậy? Tưởng mày không thương",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man wearing a black jacket is holding a microphone in front of him."
+    },
+    {
+        "utterance": " Dẫn mày đi gặp ba má mới",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black jacket holds a microphone in front of a wall."
+    },
+    {
+        "utterance": " Hãy subscribe cho kênh Ghiền Mì Gõ Để không bỏ lỡ những video hấp dẫn",
+        "acoustic_features": "Nói nhỏ, trong, êm, đều và nhanh.",
+        "visual_description": "A woman in a black shirt covers her mouth while laughing."
+    }
+]

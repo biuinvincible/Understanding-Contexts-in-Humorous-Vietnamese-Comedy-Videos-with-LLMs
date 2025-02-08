@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn này nằm ở câu hỏi về Medusa nhìn gương. Đây là một câu đố logic vui nhộn: nếu Medusa nhìn vào gương, liệu cô ấy có bị hóa đá bởi chính hình ảnh phản chiếu của mình không? Câu hỏi này tạo ra một tình huống nghịch lý thú vị, khiến người nghe phải suy nghĩ về hệ quả của khả năng hóa đá của Medusa khi áp dụng lên chính bản thân cô ấy.

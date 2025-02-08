@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Bây giờ mà tao không coi trái mặt đền này hả?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man wearing a blue headband and matching shirt with a microphone stands on stage."
+    },
+    {
+        "utterance": " Trái mặt đền này đá không vô tao cũng thắng mày",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Two men in colorful outfits stand on a stage, one gesturing towards the other."
+    },
+    {
+        "utterance": " Chấp tao nửa trái mà",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a blue outfit with a matching hat is sitting and smiling."
+    },
+    {
+        "utterance": " Mày đừng có gáy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men in traditional Asian attire stand facing each other, with a table between them."
+    },
+    {
+        "utterance": " Mười triệu tao bỏ túi chắc ăn rồi mày ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Two people in traditional attire are performing on a stage with a red tablecloth."
+    },
+    {
+        "utterance": " Tao coi cái đó là coi như tao thí cô hồn",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a blue outfit with gold circles is speaking into a microphone."
+    },
+    {
+        "utterance": " Mười triệu là thí của hồn à",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "Two men in colorful outfits perform on a stage with a red table."
+    },
+    {
+        "utterance": " Ê",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A stage with a red floor and two people in colorful outfits performing."
+    },
+    {
+        "utterance": " Già cả lớn tuổi rồi nghe",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A stage with a red floor, four performers, and a table set for dining."
+    },
+    {
+        "utterance": " Chơi cờ bạc không chơi thí của hồn nha mày",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a red hat and shirt with yellow polka dots is dancing."
+    }
+]

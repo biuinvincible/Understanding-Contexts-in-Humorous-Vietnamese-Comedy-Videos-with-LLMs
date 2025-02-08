@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh câu chuyện tán tỉnh vụng về. Khi được hỏi thích đi biển hay núi, cô gái trả lời thích biển, chàng trai liền dùng câu tán "80% cơ thể anh là nước". Điểm cười đến từ phản ứng "mắc ọe" của cô gái khi nhớ lại và câu đáp trả hài hước "Cây chuối nhà tao cũng vậy", phá tan sự lãng mạn của lời tán tỉnh.

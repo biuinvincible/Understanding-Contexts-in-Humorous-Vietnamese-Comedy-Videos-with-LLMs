@@ -1,0 +1,117 @@
+[
+    {
+        "utterance": " Mọi người mà về quê miền Tây á",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a colorful shirt and white pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Mà mấy cái dịp Tết, mọi người sẽ tham gia một cái bộ môn",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và nhanh.",
+        "visual_description": "A man in a colorful jacket and white pants stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Rất gắn kết tình anh em, tình dân tộc, tình làng, nghĩa xóm",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a multicolored shirt and white pants stands on a stage."
+    },
+    {
+        "utterance": " Kéo xì dách",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều.",
+        "visual_description": "A person in a colorful jacket stands on stage, addressing an audience."
+    },
+    {
+        "utterance": " Wow, mọi người biết xì dách đúng không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt and pants is standing on a stage with a microphone."
+    },
+    {
+        "utterance": " Có nghĩa là",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white outfit and colorful jacket holds a microphone on stage."
+    },
+    {
+        "utterance": " Em có một ông chú",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a patterned shirt and white pants stands on a stage, addressing an audience."
+    },
+    {
+        "utterance": " Ông chơi xì dách rất siêu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A man in a colorful shirt and white pants is on stage with a microphone."
+    },
+    {
+        "utterance": " Ông cứ kéo 2 lá lên là 19, 20",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a colorful jacket and white pants stands confidently on a stage."
+    },
+    {
+        "utterance": " Xì dách",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A man in a colorful shirt and white pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Thế em mới thắc mắc em hỏi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a colorful jacket and white pants is singing into a microphone."
+    },
+    {
+        "utterance": " Chú",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A man in a colorful jacket and white pants holds a microphone."
+    },
+    {
+        "utterance": " Sao chú chơi hay vậy?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, sôi nổi, vừa phải.",
+        "visual_description": "A person in a white outfit holds a microphone while speaking."
+    },
+    {
+        "utterance": " Thì chú mới hỏi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A man in white pants and a colorful jacket holds a microphone."
+    },
+    {
+        "utterance": " Mày tuổi gì?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white pants and colorful jacket holds a microphone."
+    },
+    {
+        "utterance": " Liên quan gì ta",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói chậm.",
+        "visual_description": "A person in a white outfit holds a microphone, with a colorful jacket and black shirt."
+    },
+    {
+        "utterance": " Nhưng mà thôi trả lời",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in white pants and a colorful jacket holds a microphone."
+    },
+    {
+        "utterance": " Dạ không tuổi dậu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a colorful jacket and white pants holds a microphone."
+    },
+    {
+        "utterance": " Gà",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và chậm.",
+        "visual_description": "A man in a white and black shirt sits beside a woman in a similar outfit."
+    },
+    {
+        "utterance": " Tức mọi người",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a colorful jacket and white pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Đang thua bài tức",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a white pants and black shirt is holding a microphone."
+    },
+    {
+        "utterance": " Vậy chú tuổi gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, sôi nổi, nhanh.",
+        "visual_description": "A person in a black shirt is sitting with their arms crossed, surrounded by others."
+    },
+    {
+        "utterance": " Tao tuổi dần",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman with long dark hair wearing a black shirt is laughing."
+    }
+]

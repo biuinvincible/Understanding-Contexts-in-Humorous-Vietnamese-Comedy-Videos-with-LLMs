@@ -1,0 +1,1 @@
+Tiếng cười được tạo ra từ cách trả lời về trình độ học vấn "12 trên 1" - ám chỉ việc học 12 năm ở một lớp, không lên lớp. Chi tiết "năm nào cũng đổi bạn" và "bạn tui có chút xíu" càng làm rõ hơn việc người nói là học sinh kém, phải học lại nhiều lần, trong khi các bạn cùng lớp ngày càng nhỏ hơn mình.

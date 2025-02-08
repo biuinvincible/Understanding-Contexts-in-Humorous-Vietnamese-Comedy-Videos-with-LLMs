@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở câu nói châm biếm của người con về món nợ của cha. Khi cha nợ 10 cây vàng mà lãi suất khiến thành 22 cây, người con ví von rằng "đời ba ăn mặn thì đừng bắt đời con khát nước". Câu nói này còn được đẩy lên cao trào khi anh ta thêm vào "rồi bắt đời cháu ba phải đi tiểu", ám chỉ hậu quả của việc nợ nần sẽ ảnh hưởng đến cả thế hệ mai sau.

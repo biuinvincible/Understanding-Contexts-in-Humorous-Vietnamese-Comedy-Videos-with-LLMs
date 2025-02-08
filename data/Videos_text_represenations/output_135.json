@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": " Bây giờ ông ăn trái xoài đi, bỏ trái xoài ra",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in yellow traditional attire pointing at something"
+    },
+    {
+        "utterance": " Đó, là cầu bơm tét dú hết xài",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 man in traditional outfit standing next to a table with intricate carvings"
+    },
+    {
+        "utterance": " Thôi thôi kệ đi",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh",
+        "visual_description": "A joyful audience laughing in a dimly lit theater."
+    },
+    {
+        "utterance": " Thôi kệ đi, bà muốn ăn sao bà ăn đi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "2 man in traditional outfit standing next to a table with intricate carvings"
+    },
+    {
+        "utterance": " Mệt quá, cúng cái gì mà bất nhơn vậy, không biết nữa à",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 man in traditional outfit walking on a stage"
+    }
+]

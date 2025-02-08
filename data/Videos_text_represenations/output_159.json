@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Mày thiếu nợ tao chừng nào mày trả",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in a suit is looking at a computer "
+    },
+    {
+        "utterance": " Thôi anh đưa tháng 4 dạy đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a suit talking on a cell phone "
+    },
+    {
+        "utterance": " Tháng sau",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man laying on the ground next to a painting "
+    },
+    {
+        "utterance": " Tháng sạch",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a person laying on a bed with a child "
+    },
+    {
+        "utterance": " Ngon quá",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a black shirt and a dog "
+    },
+    {
+        "utterance": " Quá",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses and a black shirt "
+    },
+    {
+        "utterance": " Bạn có biết",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man in a military uniform cutting a cake "
+    },
+    {
+        "utterance": " Tiền của bạn thật chất không phải là của bạn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a suit and tie is looking at a woman "
+    },
+    {
+        "utterance": " Mà chỉ là tới lượt bạn xài thôi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with glasses and a black shirt "
+    }
+]

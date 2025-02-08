@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Con đang ngồi trong lớp á, cô giáo chỉ mà hỏi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a red shirt and white skirt walks past two men on stage."
+    },
+    {
+        "utterance": " Ai là người ăn cắp cái nỏ thần của ông An Dưong Vương",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Three men are standing on a stage, each holding a microphone."
+    },
+    {
+        "utterance": " Tại sao mày đi ăn cắp cái nỏ của người ta?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, đều, nhanh.",
+        "visual_description": "A man in a green shirt holds a microphone, with a backdrop of yellow lights."
+    },
+    {
+        "utterance": " Nhà mình có cái ná mày đi ăn cắp cái nỏ chi?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one in a green shirt and the other in a striped shirt, are holding microphones."
+    },
+    {
+        "utterance": " Mày đem cái nỏ mày trả cho ông Vương liền nha, tao quýnh chết cha mày à",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown shirt and checkered scarf holds a microphone."
+    },
+    {
+        "utterance": " Ba ba ba, con biết người lấy ba",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man with dark hair in a bun is speaking into a microphone."
+    },
+    {
+        "utterance": " Mày biết người lấy tại sao mày không nói?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a red shirt and white shorts holds a microphone, standing on stage."
+    },
+    {
+        "utterance": " Để cô giáo nghi ngờ anh mày lấy cái nỏ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a red shirt holds a microphone and a sword."
+    },
+    {
+        "utterance": " Không phải, người lấy cắp cái nỏ thần của anh như là Trọng Thủy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A crowd of people sits in white chairs, with a person in a red shirt standing out."
+    },
+    {
+        "utterance": " À",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a blue shirt holds a microphone, with a blurred background."
+    },
+    {
+        "utterance": " À trọng thủy",
+        "acoustic_features": "Nói vừa phải, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Three men are standing on a stage, each holding a microphone."
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "Three men in casual attire stand on a stage, each holding a microphone."
+    },
+    {
+        "utterance": " Nhà trọng thủy ở đâu?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is sitting among other people in a crowd."
+    },
+    {
+        "utterance": " Dạ...",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a teal polo shirt holds a microphone, with a pixelated background."
+    },
+    {
+        "utterance": " Tối mai tao dẫn cô giáo anh mày tới đem minh oan cho anh mày",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a blue shirt holds a microphone, set against a vibrant background."
+    },
+    {
+        "utterance": " Chứ nhà tao có nghèo chứ đâu có cho con đi ăn cắp ăn trộm mày",
+        "acoustic_features": "Nói trầm, mạnh, nhẹ nhàng, sáng, đều, vừa phải.",
+        "visual_description": "Three men stand on a stage, each holding a microphone and an object in their hand."
+    },
+    {
+        "utterance": " Trời ơi ba ơi ba ơi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a red shirt stands on stage with two other individuals."
+    },
+    {
+        "utterance": " Sao vậy?",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a teal polo shirt holds a microphone and appears to be singing."
+    },
+    {
+        "utterance": " Trời ơi ba ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A man in a teal shirt holds a microphone, singing with passion and energy."
+    },
+    {
+        "utterance": " Trọng thủy là một nhân vật lịch sử có từ mấy ngàn năm trước lận",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a blue shirt holds a microphone, with his eyes closed."
+    },
+    {
+        "utterance": " Mày đừng có xạo, mấy ngàn năm sao tao đẻ trước mày tao không biết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, sáng, đều, nhanh.",
+        "visual_description": "Three men are on a stage, each holding a microphone and engaged in conversation."
+    },
+    {
+        "utterance": " Tao không biết con tao sao biết, cô mày hỏi tào lao",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Three men on stage, one in a red shirt and white shorts, another in a brown robe, and the third in a blue shirt and gray pants."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Tại sao mà mấy tòa nhà nó gọi là buildings mà nó đã xây xong rồi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man is cutting a sheet of paper with a remote "
+    },
+    {
+        "utterance": " Thìm yên vô làm chi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men are looking at a paper "
+    }
+]

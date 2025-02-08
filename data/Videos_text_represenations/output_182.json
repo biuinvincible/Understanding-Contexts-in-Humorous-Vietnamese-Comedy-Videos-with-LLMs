@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Tôi nói thiệt với chị nha, gia đình tôi duf gì cũng là một gia đình vô học",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a white shirt and dark pants is kneeling on the floor."
+    },
+    {
+        "utterance": " Hả?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a blue shirt stands in front of a pink curtain."
+    },
+    {
+        "utterance": " Ơ, một gia đình có truyền thống văn học",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt is kneeling, another in blue stands with hands on hips."
+    },
+    {
+        "utterance": " Đúng, đúng",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and gray pants stands with another wearing a blue shirt."
+    }
+]

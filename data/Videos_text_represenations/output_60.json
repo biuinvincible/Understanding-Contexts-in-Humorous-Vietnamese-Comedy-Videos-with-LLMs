@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Chồng mình là một người uy tín",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A woman stands on stage, holding a microphone in front of a brick wall."
+    },
+    {
+        "utterance": " Anh không bao giờ thất hứa cả",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and light blue jeans holds a microphone."
+    },
+    {
+        "utterance": " Từ hồi yêu nhau đến giờ, anh chả hứa cái mẹ gì hết",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and light blue jeans stands in front of a brick wall."
+    }
+]

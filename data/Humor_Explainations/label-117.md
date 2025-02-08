@@ -1,0 +1,1 @@
+Yếu tố hài hước đến từ cách người đàn ông cắt ngang câu nói triết lý về tình yêu. Khi người phụ nữ bắt đầu với câu nói sâu sắc "Trong tình yêu, có không giữ, mất...", anh ta đã vô tư và thực tế đáp lại "Mất kiếm đứa khác em" - phá vỡ hoàn toàn không khí lãng mạn và triết lý mà cô gái đang cố tạo ra.

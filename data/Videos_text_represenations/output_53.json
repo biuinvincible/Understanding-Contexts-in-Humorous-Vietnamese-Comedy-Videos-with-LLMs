@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Thằng này con nhà ai đấy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in an orange robe stands beside a woman wearing a red and gold outfit."
+    },
+    {
+        "utterance": " Thằng này hả?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white headdress is between two men in red and orange attire."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white hat with floral designs stands beside another person."
+    },
+    {
+        "utterance": " Thằng này con bố nó",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white hat with floral designs and a person in an orange robe."
+    },
+    {
+        "utterance": " Thế hả?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a yellow hat and red shirt stands beside two others in traditional attire."
+    },
+    {
+        "utterance": " Ai cả biết là con bố nó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Three people in traditional Asian attire stand together, with a backdrop of pink and gold."
+    },
+    {
+        "utterance": " Nhưng mà bố nó là ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Three people in traditional Vietnamese clothing stand together, facing each other."
+    },
+    {
+        "utterance": " Bố nó à?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white hat and red robe faces another person wearing orange."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white and red costume looks at another person gesturing."
+    },
+    {
+        "utterance": " Bố nói",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "Two men in traditional Vietnamese attire, one with a yellow headdress, engage in conversation."
+    },
+    {
+        "utterance": " Là chồng mẹ nó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "Two men in traditional Asian attire, one wearing a yellow hat, engage in conversation."
+    },
+    {
+        "utterance": " Ừ",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "Three individuals in traditional Asian attire are engaged in conversation, standing against a backdrop of blooming trees."
+    },
+    {
+        "utterance": " Là người đẻ ra nó",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a red robe stands beside a woman and another man, all dressed in traditional attire."
+    }
+]

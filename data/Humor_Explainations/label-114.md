@@ -1,0 +1,1 @@
+Yếu tố hài hước đến từ cách người đàn ông khéo léo tránh trả lời câu hỏi khó. Khi bị đặt vào tình huống phải lựa chọn giữa người yêu cũ và người yêu hiện tại, anh ta đã thông minh trả lời "Anh đâu biết bơi" - một cách né tránh khéo léo và hài hước để không phải đưa ra lựa chọn nào cả.

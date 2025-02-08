@@ -1,0 +1,67 @@
+[
+    {
+        "utterance": " Nói thiệt con nghe nhiều người nói lắm rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "Two men, one in a green shirt and the other in a white robe, are visible."
+    },
+    {
+        "utterance": " Thầy gọi hồn được người chết",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A man in a green shirt and tie is shown with a purple background."
+    },
+    {
+        "utterance": " Cho nên bữa nay con không có tin",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "A man in a green shirt and tie appears to be speaking."
+    },
+    {
+        "utterance": " Bữa nay con tới kiếm thầy để coi có đúng không vậy mà",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men standing in front of a sign with Vietnamese writing."
+    },
+    {
+        "utterance": " Không tin thì anh cũng phải tin thôi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "Two men in front of a sign, one wearing a green shirt and tie, the other in white."
+    },
+    {
+        "utterance": " Tôi nói thật với anh",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt is singing, with another man in green behind him."
+    },
+    {
+        "utterance": " Nếu không có việc mà người chết trở về được",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt stands in front of a white sign with red letters."
+    },
+    {
+        "utterance": " Thì ông Quốc Dũng ông đã không viết bài",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white robe and another in a green shirt stand on a stage."
+    },
+    {
+        "utterance": " Người về từ nòng đất",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a green shirt and tie is visible, with a blurred background."
+    },
+    {
+        "utterance": " Rồi nếu không có hồn trở về được",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a green shirt and tie is shown against a purple background."
+    },
+    {
+        "utterance": " Và mình đến mà mình không đi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white shirt stands in front of a white backdrop with red text."
+    },
+    {
+        "utterance": " Thì ông Trịnh Công Sơn ông đã không viết",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a white robe is shown with a serious expression."
+    },
+    {
+        "utterance": " Là một cõi đi vẻ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A crowd of people, mostly women, laughing and smiling at an event or performance."
+    }
+]

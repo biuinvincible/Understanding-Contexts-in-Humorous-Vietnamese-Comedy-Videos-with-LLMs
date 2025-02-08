@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ sự hiểu lầm về từ "fun". Khi được giải thích rằng "fun" nghĩa là vui, nhân vật ngây thơ kết luận rằng "bên Pháp vui hơn vì đi đâu cũng thấy fun", nhầm lẫn với từ "phân" trong tiếng Việt. Sự chơi chữ này tạo nên tiếng cười từ việc hiểu sai nghĩa của từ tiếng Anh dựa trên cách phát âm tương tự trong tiếng Việt.

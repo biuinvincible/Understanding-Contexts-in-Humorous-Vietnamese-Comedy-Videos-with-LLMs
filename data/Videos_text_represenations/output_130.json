@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Cuộc đời tao có gì vui đâu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man in a brown traditional outfit"
+    },
+    {
+        "utterance": " Tao ăn nhậu là đúng rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a brown traditional outfit"
+    },
+    {
+        "utterance": " Bây giờ tao hỏi mày nè, ruộng ai làm?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Tui làm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": " Việc nhà ai làm?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a brown traditional outfit"
+    },
+    {
+        "utterance": " Tui làm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": " Con cái ai lo?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    },
+    {
+        "utterance": " Tui lo",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man in female costume"
+    },
+    {
+        "utterance": "Rồi mày lo hết, tao lo cái gì, tao nhậu!",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "a man and a another man in female costume stannding together on a stage"
+    }
+]

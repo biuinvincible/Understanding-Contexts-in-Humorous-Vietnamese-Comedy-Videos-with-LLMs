@@ -1,0 +1,1 @@
+Sự hài hước trong đoạn này đến từ nhận xét mỉa mai về mối quan hệ giữa các công ty thuốc lá và công ty sản xuất bao cao su với khách hàng của họ. Người nói chỉ ra một thực tế trớ trêu: trong khi công ty thuốc lá đang "giết chết" khách hàng tốt nhất của họ thì công ty bao cao su lại đang ngăn chặn sự ra đời của khách hàng tương lai.

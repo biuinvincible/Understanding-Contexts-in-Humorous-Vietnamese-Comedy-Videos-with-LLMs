@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại nằm ở câu đố về khái niệm "phòng trống". Đây là một câu đố chơi chữ thông minh, vì theo định nghĩa, nếu có người ở trong phòng thì phòng không còn "trống" nữa. Do đó, việc hỏi liệu có ai có thể ở trong phòng trống hay không tạo ra một nghịch lý hài hước từ chính định nghĩa của từ "trống".

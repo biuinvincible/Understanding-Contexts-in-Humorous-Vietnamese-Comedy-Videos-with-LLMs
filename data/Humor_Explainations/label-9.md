@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ việc kể về trải nghiệm bị bắt nạt khi còn nhỏ, nhưng theo một cách hài hước. Người kể mô tả bản thân là đứa trẻ nhút nhát bị một nhóm học sinh lớn hơn tới hỏi những câu vô nghĩa như "Mày đúng không?", "Mày biết chuyện gì chưa?". Sự vô lý trong cách hỏi và phản ứng hoảng sợ của nhân vật chính tạo nên tiếng cười từ tình huống đáng lẽ căng thẳng.

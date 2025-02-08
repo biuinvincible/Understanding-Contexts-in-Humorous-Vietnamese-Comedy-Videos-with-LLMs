@@ -1,0 +1,1 @@
+Tình huống hài hước xuất phát từ cách lý luận ngây ngô nhưng có logic về mối quan hệ giữa "trời đánh" và cột thu lôi. Học sinh đặt câu hỏi về việc lắp đặt cột thu lôi có phải là hành động ủng hộ người xấu hay không, vì nó ngăn cản "trời đánh" - vốn được coi là hình phạt dành cho kẻ xấu. Sự kết hợp giữa quan niệm dân gian và khoa học tạo nên tiếng cười thú vị.

@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người nói kể về việc bắt được một con chó giống Corgi và đối mặt với tình huống khó xử đạo đức. Yếu tố hài nằm ở sự mâu thuẫn giữa "mục đích ban đầu" và việc nhận tiền chuộc, cùng với cách người kể chuyện tự đấu tranh về mặt đạo đức, vừa muốn tránh "vi phạm đạo đức nghề nghiệp" nhưng cũng sợ "cắn rứt lương tâm" nếu không trả lại chó.

@@ -1,0 +1,102 @@
+[
+    {
+        "utterance": " Hồi đó em bị gãy chân, xong em đi vô bác sĩ, bác sĩ khám chân em",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black shirt and khaki pants stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " thì em gặp cái anh bác sĩ anh rất là dễ thương",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và chậm.",
+        "visual_description": "A man in a black shirt and jeans stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Anh nói chuyện với em và em phát hiện một điều là em và anh có rất nhiều điểm chung với nhau",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a black shirt and jeans stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Anh thấy em lần đầu tiên em mổ sợ quá anh vô anh hỏi em kêu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black shirt and khaki pants stands on a stage with a microphone."
+    },
+    {
+        "utterance": " Ủa em, em tên gì?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "A person in a black shirt and khaki pants stands on stage with a microphone."
+    },
+    {
+        "utterance": " Kêu dạ em tên Khang",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A man in a black shirt is speaking into a microphone."
+    },
+    {
+        "utterance": " Ủa, anh cũng tên Khang?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black polo shirt holds a microphone, standing against a dark background."
+    },
+    {
+        "utterance": " Em nhà ở đâu?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black shirt holds a microphone to his mouth."
+    },
+    {
+        "utterance": " Em ở quận nhất",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a black shirt is holding a microphone and singing."
+    },
+    {
+        "utterance": " Ui anh cũng ở quận nhất nè, hay quá vậy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark shirt holds a microphone and appears to be singing."
+    },
+    {
+        "utterance": " Lần đầu tiên em mổ đúng không?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a dark shirt holds a microphone, with a bracelet on his wrist."
+    },
+    {
+        "utterance": " Đúng rồi anh",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói nhanh.",
+        "visual_description": "A crowd of people, with two women in the foreground smiling and looking to the right."
+    },
+    {
+        "utterance": " Ui, anh cũng vậy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A crowd of people are laughing and looking upwards towards something."
+    },
+    {
+        "utterance": " À, ý anh là chúng ta là lần đầu của nhau á hả?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black shirt and jeans stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Ôi biết cái cảm giác mà mình biết được cái người mổ cho mình là thật tập sinh đó",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black shirt and jeans is speaking into a microphone on stage."
+    },
+    {
+        "utterance": " Em sợ em nằm trong phòng ba má an ủi em kiểu lần đầu tiên không sao hết",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a black shirt and khaki pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Em nhìn ra ngoài em thấy đồng nghiệp đang an ủi ảnh luôn á",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black shirt and jeans stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Không sao, không sao, không sao",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black shirt and khaki pants stands on a stage, pointing to the left."
+    },
+    {
+        "utterance": " Xong ca này mày sẽ tốt nghiệp không sao hết",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black shirt and light-colored pants stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Cố lên đừng run như lúc thi là được rồi",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a black shirt and jeans is standing on stage with a microphone."
+    }
+]

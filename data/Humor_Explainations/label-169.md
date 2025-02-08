@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi học sinh biện minh cho việc bị điểm 0 môn công nghệ. Em học sinh cho rằng việc sử dụng "đồ công nghệ" trong bài thi công nghệ là hợp lý, tạo ra một nghịch lý hài hước. Sự hài hước nằm ở việc học sinh cố tình hiểu sai về bản chất của môn học và quy định thi cử, dùng chính tên môn học để biện minh cho hành vi gian lận.

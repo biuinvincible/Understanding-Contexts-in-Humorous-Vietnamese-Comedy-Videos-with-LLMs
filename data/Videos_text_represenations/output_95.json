@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Nhắc bài bạn là hại bạn nghe chưa",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in female teacher costume "
+    },
+    {
+        "utterance": " Dạ không sao cô để nó hại em đi cô",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "two man in white shirts are standing next to each other "
+    },
+    {
+        "utterance": " Hại tao đi hại tao đi",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "two man in white shirts are standing next to each other "
+    }
+]

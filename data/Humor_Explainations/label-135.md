@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở phản ứng bực dọc của người đàn ông với việc sắp đặt đồ cúng. Câu nói "cúng cái gì mà bất nhơn vậy" thể hiện sự khó chịu một cách hài hước với những phiền phức trong việc sắp xếp lễ vật. Tình huống càng trở nên buồn cười khi ông bỏ cuộc và nói "Thôi kệ đi, bà muốn ăn sao bà ăn đi", cho thấy sự mệt mỏi với những quy tắc phức tạp trong nghi lễ cúng.

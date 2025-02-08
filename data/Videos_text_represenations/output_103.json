@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Dạ thưa thầy!",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with glasses is raising his hand "
+    },
+    {
+        "utterance": " Sao Lân?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a black suit "
+    },
+    {
+        "utterance": " Ủa tại sao Sơn Tinh chiến thắng Thủy Tinh mà trái đất bị nước chiếm tới 70% lận thầy?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man wearing glasses and a white shirt "
+    }
+]

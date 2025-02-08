@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh sự hiểu lầm về thời gian của nhân vật cha. Khi con nói Trọng Thủy là nhân vật lịch sử từ nhiều ngàn năm trước, người cha không tin và lý luận rằng vì ông sinh trước con nên phải biết. Sự hài hước được tạo ra từ logic ngây ngô này, cùng với phản ứng bực dọc cho rằng "cô giáo hỏi tào lao" khi không hiểu được khái niệm về thời gian lịch sử.

@@ -1,0 +1,1 @@
+Tình huống hài hước xuất hiện khi người thầy đồng ý gọi hồn vợ người đàn ông về vì bà ấy cứ hiện về làm phiền giấc ngủ. Tuy nhiên, khi thầy gợi ý có thể bà còn nợ nần cần nhờ chồng trả hộ, người chồng lập tức đổi ý "khỏi kêu bả về". Sự thay đổi thái độ đột ngột khi nghe đến chuyện tiền nong tạo nên tiếng cười.

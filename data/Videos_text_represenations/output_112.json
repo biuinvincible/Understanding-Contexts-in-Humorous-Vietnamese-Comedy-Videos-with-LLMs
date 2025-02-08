@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Ủa anh thấy em đẹp nhất khi nào?",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh: tông giọng trung bình, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a woman with glasses and a white shirt "
+    },
+    {
+        "utterance": " Luôn em đeo khẩu trang á",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing glasses "
+    }
+]

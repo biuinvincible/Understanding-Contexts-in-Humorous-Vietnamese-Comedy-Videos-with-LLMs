@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Ê cu, nếu một người bị điếc mà họ chưa từng nghe một cái ngôn ngữ nào",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men in a room with a mirror "
+    },
+    {
+        "utterance": " Vậy trong đầu họ suy nghĩ bằng cái ngôn ngữ nào?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with a beard and a picture of a woman "
+    }
+]

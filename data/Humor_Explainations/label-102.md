@@ -1,0 +1,1 @@
+Yếu tố hài hước của đoạn hội thoại nằm ở cách chơi chữ thông minh với từ "như". Khi được hỏi về cái tên bị chửi nhiều nhất ở Việt Nam, câu trả lời "tên Như" dẫn đến một lời giải thích dí dỏm: "ngu như heo, lì như bò, hai đứa tấu hề vô duyên như hạch". Điểm đặc sắc là việc tận dụng từ "như" trong các thành ngữ tiêu cực phổ biến để tạo ra câu trả lời bất ngờ và hài hước.

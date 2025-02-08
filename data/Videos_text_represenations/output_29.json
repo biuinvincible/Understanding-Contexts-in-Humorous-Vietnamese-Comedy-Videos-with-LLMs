@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Trời đất ơi! Em rất là đẹp",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a striped shirt touches the shoulder of a woman in a white top."
+    },
+    {
+        "utterance": " Nhưng mà có cái bờ môi là chưa có đủ sexy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white top and another in a sparkly shirt stand together."
+    },
+    {
+        "utterance": " Anh cho tiền em đi bơm môi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt stands beside another wearing a silver shirt, gesturing with their hand."
+    },
+    {
+        "utterance": " Thôi em sợ lắm",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white robe stands beside another wearing a patterned shirt, engaged in conversation."
+    },
+    {
+        "utterance": " Sao vậy?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "A person in a white shirt is standing next to another person in a silver shirt."
+    },
+    {
+        "utterance": " Thôi em thấy cái tai nạn bơm môi rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "A person in a white shirt stands beside another person wearing a silver shirt."
+    },
+    {
+        "utterance": " Bơm môi mắc mớ gì tai nạn",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and black pants sits on a bench with another person."
+    },
+    {
+        "utterance": " Đây Việt Nam thì ham to đấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man and woman sit on a bench, with the woman wearing a white top."
+    },
+    {
+        "utterance": " Ai?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man and woman sit on a wooden bench, facing each other."
+    },
+    {
+        "utterance": " Việt Nam ham to",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a white shirt and a man in a black and white shirt are seated next to each other."
+    },
+    {
+        "utterance": " Rất nhiều bà bơm xong còn xin tí",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white top and a person in a patterned shirt are seated together."
+    },
+    {
+        "utterance": " Xin tí xin tí hôm đấy em chứng kiến ngay tại chợ Sài Gòn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits next to another person on a stage."
+    },
+    {
+        "utterance": " Ngay hàng cá luôn",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A woman in a white shirt with a V-neckline is shown on stage."
+    },
+    {
+        "utterance": " Bà kia mới vừa vào bơm môi đến đây này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white top is seated with a microphone attached to their clothing."
+    },
+    {
+        "utterance": " Môi trẻ đến đây này",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is shown with their hand near their neck."
+    },
+    {
+        "utterance": " Xong vừa bước vào hàng cá hỏi bao nhiêu kg",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a light blue top with their hand raised to their face."
+    },
+    {
+        "utterance": " Con mẹ bán cá vỗ trong một cái bốp",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white dress is shown with their arms outstretched, accompanied by another person."
+    },
+    {
+        "utterance": " Xong bà đứng vào hỏi ô con này",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black pants is dancing next to a bench."
+    },
+    {
+        "utterance": " Sao tự dưng tao mua cá sao mày đánh tao",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và chậm.",
+        "visual_description": "A person in a white shirt stands in front of a purple background."
+    },
+    {
+        "utterance": " Nói cá người ta tươi thế kia",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white top stands in front of a pink curtain."
+    },
+    {
+        "utterance": " Sáng sớm bà trề môi thế này chó nó mua à?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt is shown with their mouth open, possibly singing."
+    },
+    {
+        "utterance": " Trời đất ơi!",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white top with their mouth open and arms bent at the elbow."
+    }
+]

@@ -1,0 +1,1 @@
+Đoạn hội thoại này hài hước qua cách người nói mỉa mai khái niệm "đam mê". Anh ta chỉ ra rằng mọi người thường gọi những việc không sinh lời là "đam mê", sau đó dùng logic này để pha trò về mối quan hệ với "chị bên cạnh". Sự kết hợp giữa việc châm biếm quan niệm xã hội về đam mê và tình yêu tạo nên tiếng cười thông minh.

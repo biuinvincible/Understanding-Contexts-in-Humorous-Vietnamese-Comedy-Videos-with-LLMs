@@ -1,0 +1,77 @@
+[
+    {
+        "utterance": " theo dõi nhiều năm làm giao thông",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a purple robe and red hat stands in front of a red background."
+    },
+    {
+        "utterance": " thần nói thẳng một câu rằng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a purple robe and red hat stands with hands clasped together."
+    },
+    {
+        "utterance": " giao thông với hạ giới không thể hết ách tắc được đâu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a pink robe and hat stands in front of a red curtain."
+    },
+    {
+        "utterance": " dù có ra cái luật gì chăng nữa phạt nặng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a yellow robe sits at a table with two others."
+    },
+    {
+        "utterance": " bao nhiêu chăng nữa vẫn tắc",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a purple outfit and red hat is standing in front of a red wall."
+    },
+    {
+        "utterance": " năm tới thần mạnh dạn đề nghị ngọc hoàng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a purple outfit and red hat stands against a red background."
+    },
+    {
+        "utterance": "  Nam Tào, Bắc Đẩu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a vibrant purple robe and red hat stands against a red backdrop."
+    },
+    {
+        "utterance": " thông qua cho thần 2 giải pháp",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a purple outfit with gold accents and a red hat stands against a red background."
+    },
+    {
+        "utterance": " 1",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a pink shirt sits at a table on a stage with a large screen behind them."
+    },
+    {
+        "utterance": " hãy để giao thông phát triển theo quy luật tự nhiên",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a purple robe and red hat is shown in the image."
+    },
+    {
+        "utterance": " tức là người dân nào cố tình đi sai luật cho đâm chết luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a red hat and purple robe is standing with their arm outstretched."
+    },
+    {
+        "utterance": " 2",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A group of people are sitting in red seats, smiling and looking to the right."
+    },
+    {
+        "utterance": " giải tán tất cả những thành phố hay ách tắc",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a purple robe and red hat is dancing with his arms outstretched."
+    },
+    {
+        "utterance": " cho sát nhập",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a purple outfit with gold accents stands in front of red curtains."
+    },
+    {
+        "utterance": " về nông thôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man wearing a purple robe and red hat stands in front of a red background."
+    }
+]

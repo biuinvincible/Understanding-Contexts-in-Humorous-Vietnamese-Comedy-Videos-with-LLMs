@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở cách học trò xoay chuyển câu trả lời của thầy một cách bất ngờ. Khi thầy giải thích con người không phải động vật săn mồi ban đêm vì hoạt động vào buổi sáng, học trò liền đưa ra quan sát hóm hỉnh về việc "săn mồi" khi đi nhậu ban đêm. Sự tương phản giữa câu trả lời nghiêm túc của thầy và cách diễn giải hài hước của trò tạo nên tiếng cười.

@@ -1,0 +1,27 @@
+[
+    {
+        "utterance": "chị đánh em đau thôi mà, đánh ông này nhẹ thế",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "3 people dressed in traditional and colorful theatrical costumes standing on a stage"
+    },
+    {
+        "utterance": " mày thích bì tị à?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "2 people dressed in traditional and colorful theatrical costumes standing together"
+    },
+    {
+        "utterance": " mày nhìn lại cái mặt mày xem",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "3 people dressed in traditional and colorful theatrical costumes standing on a stage"
+    },
+    {
+        "utterance": " cống rãnh mà đòi sóng sánh với đại dương",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "3 people dressed in traditional and colorful theatrical costumes standing on a stage"
+    },
+    {
+        "utterance": " máng mưa như đòi tương đương với thủy điện à",
+        "acoustic_features": "Nói chậm rãi, trầm và ấm, đều và nhanh.",
+        "visual_description": "3 people dressed in traditional and colorful theatrical costumes standing on a stage"
+    }
+]

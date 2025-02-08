@@ -1,0 +1,72 @@
+[
+    {
+        "utterance": " Chồng mình luôn tự hào anh ấy là người biết lắng nghe",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person stands in front of a brick wall, with their back to the viewer."
+    },
+    {
+        "utterance": " Anh ấy lắng nghe như này nè",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman is standing on a stage, holding a microphone and speaking to an audience."
+    },
+    {
+        "utterance": " Nếu mà mình than",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and light blue jeans stands on stage with a microphone."
+    },
+    {
+        "utterance": " Nay em mệt",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman in a brown shirt and jeans stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Anh sẽ hỏi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a brown top and jeans stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Em mệt à?",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh, tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc.",
+        "visual_description": "A woman stands confidently on stage, microphone in hand, addressing an audience."
+    },
+    {
+        "utterance": " Nếu mà mình",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and blue jeans holds a microphone on stage."
+    },
+    {
+        "utterance": " Kêu đói",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and light blue jeans holds a microphone."
+    },
+    {
+        "utterance": " Anh ấy",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown shirt and blue jeans stands against a brick wall."
+    },
+    {
+        "utterance": " Đói nhở?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person's head is visible in front of a brick wall with a sign."
+    },
+    {
+        "utterance": " Thì anh ấy sẽ hỏi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person's head is visible in front of a brick wall with large letters."
+    },
+    {
+        "utterance": " Đói à em?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A woman in a brown shirt and light blue jeans holds a microphone."
+    },
+    {
+        "utterance": " Chán vãi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A woman in a brown shirt and light blue jeans holds a microphone."
+    },
+    {
+        "utterance": " Chán à?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman in a brown shirt and light blue jeans holds a microphone."
+    }
+]

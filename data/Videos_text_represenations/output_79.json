@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Người mù mà bị mụn ấy",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman sitting on a couch and talking on the phone"
+    },
+    {
+        "utterance": " thì sẽ không bao giờ cảm thấy chán",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man is talking on a cell phone while holding the cell phone to his ear "
+    },
+    {
+        "utterance": " Bởi vì họ chỉ cần sờ tay lên mặt là có chuyện để đọc rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a young woman sitting on a couch holding a cell phone "
+    }
+]

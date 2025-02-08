@@ -1,0 +1,97 @@
+[
+    {
+        "utterance": " Cái áo nó siêu đẹp, siêu chất mà cái shop nó sale cũng rẻ nữa",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, sáng, rõ nét, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts is holding a microphone."
+    },
+    {
+        "utterance": " Thế vậy mà em cầm cái áo em bỏ vô giỏ hàng",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and tie is holding a microphone."
+    },
+    {
+        "utterance": " Em suy nghĩ hoài em không biết có nên mua hay không",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A person in a white shirt and shorts stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Mọi người biết tại sao không?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và nhiều âm sắc.",
+        "visual_description": "A person in a white shirt and shorts is standing on a stage with a microphone."
+    },
+    {
+        "utterance": " Tại cái áo đó bán 39 ngàn",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and tie is holding a microphone."
+    },
+    {
+        "utterance": " Nhiều người bất ngờ lắm",
+        "acoustic_features": "Nói trầm, ấm, đều và mạnh mẽ.",
+        "visual_description": "A person in a white shirt and shorts is on stage with a microphone."
+    },
+    {
+        "utterance": " Chắc mọi người chưa thấy cái áo 15 ngàn",
+        "acoustic_features": "Nói nhỏ, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and tie is holding a microphone."
+    },
+    {
+        "utterance": " Biết sao em biết không?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A person in a white shirt and shorts is holding a microphone."
+    },
+    {
+        "utterance": " Tại nhà em có cái áo 12 ngàn",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "Two women, wearing black shirts, are smiling at each other in front of a crowd."
+    },
+    {
+        "utterance": " Đừng có khi dễ mấy cái áo 12 ngàn",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and blue shorts is holding a microphone."
+    },
+    {
+        "utterance": " Mấy cái áo đó hơi bị bền",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi và đều.",
+        "visual_description": "A person in a white shirt and shorts is on stage with a microphone."
+    },
+    {
+        "utterance": " Tại vì bây giờ mọi người mua cái áo mấy triệu, mấy chục triệu đi chăng nữa",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và nhanh.",
+        "visual_description": "A person in a white shirt and shorts stands on stage with a microphone."
+    },
+    {
+        "utterance": " Thì mọi người mặc một thời gian nó cũng bị cũ, nó cũng bị xấu đúng không?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and tie is singing into a microphone."
+    },
+    {
+        "utterance": " Cái áo 12 ngàn của em mới mua nó xấu sẵn rồi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, nhẹ nhàng, sôi nổi, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and green baseball cap sits with others."
+    },
+    {
+        "utterance": " Mặc một thời gian nó không có thay đổi bản chất của nó",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A person in a white shirt and shorts stands on stage with a microphone."
+    },
+    {
+        "utterance": " Thậm chí nó có khả năng tự cập nhật xu hướng nữa",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts is standing on a stage holding a microphone."
+    },
+    {
+        "utterance": " Mua mới mua là form hip hop đúng không?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts is holding a microphone on stage."
+    },
+    {
+        "utterance": " Mặc thời gian nó rút lên thành baby cu te",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A person in a white shirt and shorts is standing on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Cứ mặc đi, mặc thời gian nó rút lên thành cái nón rồi cũng dễ thương",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A person in a white shirt and shorts holds a microphone on stage."
+    }
+]

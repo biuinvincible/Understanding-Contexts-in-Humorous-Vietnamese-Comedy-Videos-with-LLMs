@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Cô ơi! Đi ly dị không đem chồng theo?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman and a man a suit standing next to each other "
+    },
+    {
+        "utterance": " Đem ông nội, ông ngoại theo chi vậy?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman and a man a suit standing next to each other "
+    },
+    {
+        "utterance": " Trời ơi! Chồng của tôi đó!",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman and a man a suit standing next to each other "
+    },
+    {
+        "utterance": "Chết cha! Chồng hả? Xin lỗi nha!",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a woman and a man a suit standing next to each other "
+    }
+]

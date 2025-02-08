@@ -1,0 +1,1 @@
+Yếu tố hài hước được tạo ra từ việc chơi chữ với từ "khoan". Trong tình huống này, từ "khoan" có hai nghĩa: một là động từ chỉ hành động khoan (đục lỗ), hai là từ yêu cầu dừng lại. Câu hỏi tạo ra sự nhầm lẫn hài hước khi người nghe phải quyết định xem nên hiểu "khoan" theo nghĩa nào trong tình huống này.

@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Công nhận nước Mỹ này cái gì cũng lạ với em anh ạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and black pants stands beside another on a stage."
+    },
+    {
+        "utterance": " Ừ, anh nói cho em nghe",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt and another in a metallic shirt sit on a bench."
+    },
+    {
+        "utterance": " Em mới qua đây á, em muốn học thì em phải từ từ",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A woman in a white blouse and black pants sits on a bench with a man."
+    },
+    {
+        "utterance": " Nghe không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white top and another in a black and white shirt are visible."
+    },
+    {
+        "utterance": " Anh, thế hôm nào anh cho em đi học tiếng Anh nhá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits beside another person wearing a silver shirt."
+    },
+    {
+        "utterance": " Được",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt sits next to someone wearing a black and white patterned shirt."
+    },
+    {
+        "utterance": " Em thấy Mỹ nói tiếng Anh ào ào, em thích lắm cơ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt sits next to another person in a patterned shirt."
+    },
+    {
+        "utterance": " Thế hôm nào anh cho em đi học tiếng Anh để em nói chuyện với người Việt",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and another in a black-and-white striped shirt are sitting together."
+    }
+]

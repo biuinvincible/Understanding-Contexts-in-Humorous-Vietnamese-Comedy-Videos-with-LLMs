@@ -1,0 +1,1 @@
+Tình huống hài hước nằm ở việc có người phê phán cách cúng bái sơ sài, nhưng người kia lại đáp lại một cách thực tế rằng chỉ hái vài cây ngoài vườn để cúng và "cầu bơm vú vừa đủ xài". Sự hài hước đến từ cách trả lời thẳng thắn, không màu mè và thể hiện quan điểm thực dụng về việc cúng bái, tạo nên sự tương phản với quan điểm truyền thống về nghi lễ trang trọng.

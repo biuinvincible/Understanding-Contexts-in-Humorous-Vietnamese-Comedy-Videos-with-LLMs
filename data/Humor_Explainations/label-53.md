@@ -1,0 +1,1 @@
+Tình huống hài hước được tạo ra từ cuộc đối thoại vòng vo về danh tính "bố nó". Người hỏi muốn biết cụ thể ai là bố, nhưng người trả lời lại dùng những câu trả lời hiển nhiên như "là chồng mẹ nó" hay "là người đẻ ra nó", tạo ra hiệu ứng hài hước từ việc né tránh câu trả lời trực tiếp.

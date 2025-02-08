@@ -1,0 +1,1 @@
+Yếu tố hài hước xuất phát từ cách học trò chỉ ra sự mâu thuẫn trong truyền thuyết Âu Cơ - Lạc Long Quân với thực tế. Khi so sánh việc chia 50-50 con cái trong truyền thuyết với thực tế 75% dân số tập trung ở đồng bằng, câu hỏi ngây ngô nhưng sâu sắc này tạo tiếng cười từ sự không tương đồng giữa truyền thuyết và thực tế.

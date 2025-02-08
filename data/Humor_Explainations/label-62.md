@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở cách chồng "lắng nghe" vợ - anh ấy chỉ đơn giản lặp lại những gì vợ nói dưới dạng câu hỏi: "Em mệt à?", "Đói à?", "Chán à?". Cách lắng nghe này hoàn toàn đối lập với niềm tự hào của anh ấy về khả năng lắng nghe của mình, tạo nên tình huống mỉa mai hài hước về khoảng cách giữa nhận thức và thực tế.

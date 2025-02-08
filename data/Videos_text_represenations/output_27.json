@@ -1,0 +1,92 @@
+[
+    {
+        "utterance": " Làm gì khi bị bóng đè?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt, leather jacket, and black pants holds a microphone."
+    },
+    {
+        "utterance": " Thì lúc trong khoảng thời gian mà bị đè nhiều như vậy",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a leather jacket and pants is singing into a microphone on stage."
+    },
+    {
+        "utterance": " Em mới lên trên mạng em tìm những cái cách",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a brown jacket and white shirt stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Làm gì khi bị bóng đè?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải",
+        "visual_description": "A woman in a black jacket and pants stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Bước đầu tiên",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Thử cử động",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people sit in a theater, with a man standing at the front."
+    },
+    {
+        "utterance": " Ông này là chắc bị bóng giống ông kia đè nè",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A crowd of people are seated in a theater, facing the same direction."
+    },
+    {
+        "utterance": " Chứ sao cử động được má?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black jacket is holding a microphone."
+    },
+    {
+        "utterance": " Đã nói là không cử động được",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Ok",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black leather jacket and pants is singing into a microphone."
+    },
+    {
+        "utterance": " Bước thứ 2",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and black leather jacket holds a microphone."
+    },
+    {
+        "utterance": " Ngồi dậy bật đèn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black jacket and white shirt holds a microphone."
+    },
+    {
+        "utterance": " Khoan anh ơi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A woman in a black leather jacket and white shirt is singing into a microphone."
+    },
+    {
+        "utterance": " Ý là cái anh viết cho blog đó là",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black leather jacket and pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Thí dụ mà em muốn ngồi dậy bật đèn",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman in a leather jacket holds a microphone and points upward with her right hand."
+    },
+    {
+        "utterance": " Là em phải làm được bước đầu tiên trước đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black jacket and pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Bước số 3",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black leather jacket holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Ngồi dậy và đọc kinh",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A crowd of people are seated in a theater, facing forward."
+    }
+]

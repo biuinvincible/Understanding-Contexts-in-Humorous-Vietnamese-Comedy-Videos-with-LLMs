@@ -1,0 +1,52 @@
+[
+    {
+        "utterance": " Thú thật với mọi người thì vừa rồi, người yêu em vừa mới phát hiện ra là em lén đi chơi với lại một người con gái khác.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and black jacket holds a microphone."
+    },
+    {
+        "utterance": " Và đồng thời người yêu em còn vô tình phát hiện em mua một món quà giá trị tặng cho người con gái đó nữa.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black suit jacket and white shirt holds a microphone."
+    },
+    {
+        "utterance": " Mọi người thấy ghê không?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit holds a microphone, with their right hand raised."
+    },
+    {
+        "utterance": " Mọi người thử đặt tâm trạng là bạn gái em, mọi người sẽ thấy cái việc này nó khủng khiếp đến dường nào.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black suit is standing on stage, holding a microphone."
+    },
+    {
+        "utterance": " Bản thân em cũng thấy khủng khiếp mà.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black suit holds a microphone, standing on a dark stage."
+    },
+    {
+        "utterance": " Tại vì tất cả những gì bạn gái em phát hiện từ nãy đến giờ, mọi thứ nó đều là nằm mơ.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói nhẹ nhàng, giọng trầm và ấm áp, giọng sôi nổi và nhiều âm sắc, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black suit jacket holds a microphone to their mouth."
+    },
+    {
+        "utterance": " Mọi người cứ hình dung nha.",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi và đều.",
+        "visual_description": "A person in a black suit is holding a microphone."
+    },
+    {
+        "utterance": " Hình dung cảm giác của em, nó giống như là một ngày nào đó đẹp trời và vô tình thấy con ghệ mình đang ngủ.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black jacket and white shirt holds a microphone."
+    },
+    {
+        "utterance": " Mày ngoại tình đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a black suit holds a microphone, with his eyes closed."
+    },
+    {
+        "utterance": " Khốn nạn.",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A person in a black suit holds a microphone."
+    }
+]

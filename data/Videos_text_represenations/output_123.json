@@ -1,0 +1,47 @@
+[
+    {
+        "utterance": " Không, tại vì em nói là nhiều khi em nói chuyện mà em nói tiếng Việt mà Mỹ nó không hiểu",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A woman with black hair wearing a light blue outfit"
+    },
+    {
+        "utterance": " Ủa sao vậy?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Hôm đấy em đi từ phi trường Los Angeles em sang Houston đây này",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Xong em vào em đưa cái vé cho nó",
+        "acoustic_features": "Nói vừa phải, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Xong mà em thấy một cái điều vô cùng vô lý là mình đã đưa cái vé như thế",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Thì nó nhìn thấy mặt mình đáng lẽ nó phải cho mình đi chứ",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Xong nó bảo",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man sitting with a woman on a couch"
+    },
+    {
+        "utterance": " Ai đi?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều, lớn, mạnh mẽ, sôi nổi và vừa phải.",
+        "visual_description": "A woman with black hair wearing a light blue outfit"
+    },
+    {
+        "utterance": " Xong em bảo là em đi",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A woman with black hair wearing a light blue outfit"
+    }
+]

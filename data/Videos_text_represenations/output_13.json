@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Em mình với mình ngày xưa có một cái tính là học rất là dở mọi người",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a white shirt and jeans holds a microphone on a stage."
+    },
+    {
+        "utterance": " Sau này mình phát hiện ra là do mẹ mình bán tạp hóa",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white shirt and gray pants speaks into a microphone."
+    },
+    {
+        "utterance": " Mình không có ý đổ lỗi cho cái việc bán tạp hóa",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a white shirt and gray pants holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Mình muốn đổ lỗi cho mẹ mình",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Cái việc như thế nên nè",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and gray pants is speaking into a microphone."
+    },
+    {
+        "utterance": " Thí dụ ngày xưa bạn học văn học đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man sits in a crowded theater, wearing a tan vest and black shirt."
+    },
+    {
+        "utterance": " Học văn học ngày xưa có học tác giả, tác phẩm",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and pants holds a microphone, with their hand raised."
+    },
+    {
+        "utterance": " Ví dụ nha, học về tác giả nha",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a white shirt and pants holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Nhà thơ Nguyễn Văn A",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A person in a white shirt and light-colored pants is speaking into a microphone."
+    },
+    {
+        "utterance": " Sinh năm 1935",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a white shirt and pants holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Là một người sinh ra và lớn lên trong một gia đình có truyền thống...",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and gray pants is holding a microphone."
+    },
+    {
+        "utterance": " Bán nước em ơi, bán nước",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt holds a microphone, with their hand on their head."
+    },
+    {
+        "utterance": " Rồi tới học văn không xong, học sử không xong nữa mọi người",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and gray pants is holding a microphone."
+    },
+    {
+        "utterance": " Học sử như thế nào?",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a white shirt and pants holds a microphone on stage."
+    },
+    {
+        "utterance": " Thí dụ như ngày xưa có học một cái bác kia rất là nổi tiếng",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a white shirt and pants holds a microphone, standing on a stage."
+    },
+    {
+        "utterance": " Martin P.",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a white shirt and gray pants holds a microphone, touching his head."
+    },
+    {
+        "utterance": " Là một trong những nhà lãnh đạo kiệt xuất của Hoa Kỳ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and pants holds a microphone, with one hand touching their head."
+    },
+    {
+        "utterance": " Về phong trào bất bạo động",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and pants holds a microphone, gesturing with their hand."
+    },
+    {
+        "utterance": " Vì thế năm 1964",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and pants is holding a microphone."
+    },
+    {
+        "utterance": " Ông đã vinh dự nhận một giải thưởng vô cùng danh giá",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a white shirt and pants holds a microphone, standing on stage."
+    },
+    {
+        "utterance": " Đó chính là... một cái card Vina 20 em ơi",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt and pants holds a microphone, making a peace sign with their hand."
+    },
+    {
+        "utterance": " Một cái card Vina 20",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "The image shows a group of people watching something, possibly a performance or presentation."
+    }
+]

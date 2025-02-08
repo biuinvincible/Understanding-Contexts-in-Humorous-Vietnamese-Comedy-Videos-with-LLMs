@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở phương pháp học tiếng Anh độc đáo của nhân vật - một đầu bếp chuyên nấu bún riêu. Thay vì học theo cách thông thường, họ sử dụng đồ dùng trong bếp để học từ vựng, đặc biệt là cách học ngày tháng bằng cách gắn với các vật dụng như mâm và hủ tiêu. Cách học sáng tạo và gần gũi với nghề nghiệp này tạo nên tình huống vừa hài hước vừa dễ thương.

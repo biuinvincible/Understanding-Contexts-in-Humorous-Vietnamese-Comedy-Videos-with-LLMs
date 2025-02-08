@@ -1,0 +1,32 @@
+[
+    {
+        "utterance": " Tôi hỏi ông ấy, ông sai bao nhiêu để tôi biết tôi mua áo tôi tặng ông ấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a woman in violet outfit"
+    },
+    {
+        "utterance": " Ông bảo với tôi sai của ông là XXXL cơ mà",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman in violet outfit standing next to a man on a stage"
+    },
+    {
+        "utterance": " Bây giờ nó còn bao nhiêu?",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a woman in violet outfit standing next to a man on a stage"
+    },
+    {
+        "utterance": " Bây giờ nó chỉ còn sai S thôi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man in a suit"
+    },
+    {
+        "utterance": " S thôi à?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a woman in violet outfit"
+    },
+    {
+        "utterance": " Thế từ trên xuống dưới còn chỗ nào giữ được size cũ không?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "2 people standing on a large stage with a large projector screen "
+    }
+]

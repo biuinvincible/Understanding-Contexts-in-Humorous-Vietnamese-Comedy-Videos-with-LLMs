@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh việc người nói tự nhận mình có khả năng nghĩ ra "hàng triệu phương pháp" nhưng lại luôn chọn cách "ngu nhất". Điều này được minh họa qua việc anh ta đề nghị cho khách hàng giảm giá 1% nếu đấm được mình - một đề xuất phi lý và nguy hiểm. Sự tương phản giữa khả năng tư duy và quyết định thực tế tạo nên tiếng cười.

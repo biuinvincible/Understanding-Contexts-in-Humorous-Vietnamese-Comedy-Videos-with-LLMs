@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này nằm ở cách tư vấn quá đơn giản và hiển nhiên của người được hỏi. Khi được hỏi cách bớt tiêu cực, câu trả lời "nếu tiêu cực thì hãy tích cực lên" và "nếu buồn thì vui lên" tạo tiếng cười từ sự phi lý của lời khuyên quá hiển nhiên này.

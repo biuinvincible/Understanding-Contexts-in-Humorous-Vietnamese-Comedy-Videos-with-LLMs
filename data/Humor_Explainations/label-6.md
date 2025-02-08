@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này đến từ cách người nói tương tác với khán giả độc thân. Sự hài hước nằm ở phản ứng ngạc nhiên thú vị của họ khi thấy một người "ế" nhưng lại tỏ ra vô cùng hào hứng và tràn đầy năng lượng - điều này đi ngược lại với định kiến thông thường về người độc thân thường buồn bã. Cách họ nhấn mạnh sự tương phản này tạo nên tiếng cười từ khán giả.

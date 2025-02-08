@@ -1,0 +1,12 @@
+[
+    {
+        "utterance": " Em chưa ăn gì hết trơn, em đói quá à",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a woman with glasses and a white t-shirt "
+    },
+    {
+        "utterance": " Anh ăn rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a man wearing glasses "
+    }
+]

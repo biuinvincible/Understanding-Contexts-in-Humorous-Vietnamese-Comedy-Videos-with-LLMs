@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách trả lời khéo léo cho câu hỏi triết học nổi tiếng "con gà có trước hay quả trứng có trước". Thay vì đưa ra lý giải phức tạp, người trả lời chọn cách đùa "mày phải đi hỏi con gà chứ mày hỏi tao", khéo léo tránh né câu hỏi khó bằng cách hài hước.

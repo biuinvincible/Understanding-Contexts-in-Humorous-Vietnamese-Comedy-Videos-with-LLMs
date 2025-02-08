@@ -1,0 +1,37 @@
+[
+    {
+        "utterance": " Hùng là nó muốn bước vô căn nhà này, bước ra căn nhà này là phải qua tay tôi.",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "2 people standing on a large stage with a huge projector screen"
+    },
+    {
+        "utterance": " Ủa vậy là...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "a woman wearing warm clothes"
+    },
+    {
+        "utterance": " Không lẽ bác là...",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 people standing on a large stage with a huge projector screen"
+    },
+    {
+        "utterance": " Đúng rồi đó, tôi đó.",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "a man wearing a black vest and a hat"
+    },
+    {
+        "utterance": " Bác là...",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a woman wearing warm clothes"
+    },
+    {
+        "utterance": " Là ba của anh Hùng hả bác?",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "a woman wearing warm clothes"
+    },
+    {
+        "utterance": " Không, Ô-Xin hay mở cửa cho nó.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man wearing a black vest and a hat"
+    }
+]

@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở sự vô tâm của người đàn ông. Khi người phụ nữ than thở về việc đói vì chưa ăn gì, thay vì quan tâm hay đề nghị giúp đỡ, anh ta chỉ đơn giản thông báo "Anh ăn rồi" - một câu trả lời thể hiện sự thiếu đồng cảm một cách hài hước.

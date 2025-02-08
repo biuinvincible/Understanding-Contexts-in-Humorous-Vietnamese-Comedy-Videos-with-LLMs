@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách dẫn dắt vào câu chuyện "Sự tích thỏ ngọc". Người kể chuyện tạo sự thú vị khi giải thích việc các ông tiên "hóa thân" thành người già chỉ đơn giản là "thay đồ thôi". Cách nói giản dị, đời thường này tạo nên sự tương phản hài hước với tính chất thần thoại của câu chuyện cổ tích.

@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại này nằm ở việc nói về độ dốc ở Đà Lạt, khi người nói dùng phép khoa trương để mô tả độ dốc "75 độ" và gọi đó là "tường" hay "núi nhân tạo". Tình huống trở nên hài hước hơn khi kể về "con quỷ Nhi Võ" ngồi sau xe và hỏi câu "mày thương ba má mày không?" - ám chỉ độ nguy hiểm của con dốc có thể dẫn đến gặp ba má "mới".

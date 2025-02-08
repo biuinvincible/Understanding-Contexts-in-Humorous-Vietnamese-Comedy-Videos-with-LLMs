@@ -1,0 +1,92 @@
+[
+    {
+        "utterance": " Có 2 thằng, 1 thằng mù, 1 thằng căm đi vô 1 siêu thị",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "two men are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Đúng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Thằng căm, nó muốn mua cái nón, rồi nó lấy cái nón đó đội lên đầu",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Rồi lấy tay chỉ chỉ, ông chủ hiểu, bán ra cái nón",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Giờ em đố 2 anh, thằng mù nó muốn mua cục xà bông, nó làm sao?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Nó chỉ cục xà bông?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Trật",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm và đều.",
+        "visual_description": "two men in suits are standing next to each other on a stage "
+    },
+    {
+        "utterance": " Nó lấy 1 cục xà bông nó trà, trà lên đầu nó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "a man with long hair is talking into a microphone "
+    },
+    {
+        "utterance": " Đúng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "people standing around a stage "
+    },
+    {
+        "utterance": " trật lất",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "people standing around a stage "
+    },
+    {
+        "utterance": " Chứ nó làm cái gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "3 people are standing next to each other "
+    },
+    {
+        "utterance": " Thì nó nói",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn, chậm.",
+        "visual_description": "a man in a suit"
+    },
+    {
+        "utterance": " Nó nói gì?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "3 people are standing next to each other "
+    },
+    {
+        "utterance": " Nó nói gì?",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "3 people are standing next to each other "
+    },
+    {
+        "utterance": " Bán tôi 1 cục xà bông",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "two men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Sao nó nói được?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "three men standing next to each other on a stage "
+    },
+    {
+        "utterance": " Nó mù mà?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "2 men standing next to each other "
+    },
+    {
+        "utterance": " Nó mù chứ nó đâu có câm đâu",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "2 men standing next to each other "
+    }
+]

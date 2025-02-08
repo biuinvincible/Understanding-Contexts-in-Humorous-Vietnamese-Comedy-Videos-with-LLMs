@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn hội thoại xuất phát từ sự hiểu lầm về độ tuổi. Người đối thoại nhầm tưởng chồng của người phụ nữ là ông nội hoặc ông ngoại do có vẻ ngoài già dặn. Khi người vợ phải giải thích "Trời ơi! Chồng của tôi đó!", tình huống trở nên hài hước vì sự chênh lệch giữa vẻ ngoài và vai trò thực sự của người chồng.

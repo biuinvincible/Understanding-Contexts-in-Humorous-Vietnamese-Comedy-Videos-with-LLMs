@@ -1,0 +1,42 @@
+[
+    {
+        "utterance": " Em là một người có thể nhìn trước hàng triệu phương pháp để xử lý một vấn đề",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man stands in front of a white wall, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Và sau đó em chọn luôn cách ngu nhất",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark blue shirt and plaid pants holds a microphone."
+    },
+    {
+        "utterance": " Nè nhá, đầu tháng này em có đi tập boxing",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a dark blue shirt stands in front of a white wall, holding a microphone."
+    },
+    {
+        "utterance": " Và ở trong lỡ boxing gặp một anh",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person stands in front of a white wall, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Em giới thiệu em là diễn viên hài độc thoại",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a blue shirt holds a microphone in front of a wall sign."
+    },
+    {
+        "utterance": " Tất nhiên, anh ấy xin mã giảm giá",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a dark blue shirt stands in front of a white wall, holding a microphone."
+    },
+    {
+        "utterance": " Trong vô vàn cách xử lý hợp lý lần hôm đấy",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A person in a dark shirt holds a microphone, standing in front of a white wall."
+    },
+    {
+        "utterance": " Em đã bảo, anh đấm được em một cái em giảm cho anh 1%",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhẹ nhàng.",
+        "visual_description": "A person in a dark blue shirt holds a microphone, standing in front of a sign."
+    }
+]

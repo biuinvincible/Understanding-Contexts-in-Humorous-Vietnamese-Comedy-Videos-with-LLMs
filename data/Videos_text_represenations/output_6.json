@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Những ai đi một mình mà đang ế mà đi một mình đâu, dơ tay lên nè",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt holds a microphone, with their arm extended to the side."
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person is sitting in front of a brick wall with a microphone stand."
+    },
+    {
+        "utterance": " Wow, trời sao chị ế mà vui quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt and shorts is speaking into a microphone."
+    },
+    {
+        "utterance": " Lần đầu tiên em thấy một người ế mà kiểu hào hứng và nhiều năng lượng",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A person in a white shirt is holding a microphone and appears to be performing."
+    }
+]

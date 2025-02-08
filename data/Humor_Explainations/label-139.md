@@ -1,0 +1,1 @@
+Yếu tố hài hước nằm ở cách chơi chữ dí dỏm khi người nói tự giới thiệu mình là "Lưu Đức Dây", một cách chơi chữ với tên ca sĩ Hồng Kông nổi tiếng "Lưu Đức Hòa". Sự hài hước được tăng cường thông qua cách dẫn dắt câu chuyện, tạo sự tò mò về danh tính trước khi đưa ra câu trả lời bất ngờ và hài hước.

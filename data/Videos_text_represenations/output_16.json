@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Mọi người biết là em đã từng diễn về một cái chuyện là",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Em với em trai của em thì em là cái đứa ra rìa rồi đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a suit stands on stage, holding a microphone and gesturing with their hand."
+    },
+    {
+        "utterance": " Em ra rìa từ khi em sinh",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Mẹ em sinh ngày 3 tháng 9",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a suit is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Ba em sinh ngày 10 tháng 9",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a dark suit holds a microphone, standing against a black background."
+    },
+    {
+        "utterance": " Thằng em em sinh ngày 14 tháng 9",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Em 23 tháng 1",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit stands on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Một con bảo bình sống với ba con sữ nữ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and speaking."
+    },
+    {
+        "utterance": " Đã không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a dark suit stands on stage, holding a microphone and gesturing."
+    },
+    {
+        "utterance": " Thấy cuộc đời em xuất sắc không?",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A man in a dark suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Tức là có một cái sự phân biệt đối xử trong gia đình em rất rõ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit holds a microphone, standing against a black background."
+    },
+    {
+        "utterance": " Thằng em em nó làm cái gì ba mẹ em cũng khen",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit holds a microphone, standing against a black background."
+    },
+    {
+        "utterance": " Em làm cái gì cũng bị chửi hết",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a dark suit holds a microphone with both hands."
+    },
+    {
+        "utterance": " Thậm chí là nó không làm gì luôn ba em cũng khen",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a dark suit is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Ngồi ăn cơm cái nó ngồi im",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Ba em kêu sao thằng này nó đỉnh đạt dữ vậy ta?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a dark suit and tie is speaking into a microphone."
+    },
+    {
+        "utterance": " Sao để 2 thằng mà thằng này nó điềm tĩnh mà thằng kia nó cứ",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone and gesturing with his hand."
+    },
+    {
+        "utterance": " Em lúc quay qua em cái em ngồi ngồi coi tiktok em rung đùi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a dark suit, white shirt, and tie holds a microphone."
+    },
+    {
+        "utterance": " Thằng em em nó mới học đại học năm 3 thôi đại học luật",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a dark suit is shown from the waist up, facing left."
+    },
+    {
+        "utterance": " Có nói chung là năm nào cũng có học bổng gì đó",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Ba em kêu ui trời ơi con của ba ui con của ba đại học năm 3 rồi",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói chậm.",
+        "visual_description": "A man in a dark suit, white shirt, and tie is speaking into a microphone."
+    },
+    {
+        "utterance": " Nói luật sư tương lai, em học 8 năm mà chưa khen câu nào",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a white shirt is laughing with others in the audience."
+    }
+]

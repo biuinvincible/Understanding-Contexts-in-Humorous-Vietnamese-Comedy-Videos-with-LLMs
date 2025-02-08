@@ -1,0 +1,112 @@
+[
+    {
+        "utterance": " Năm ngoái mình có đi xem phim với bạn gái cũ",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black suit is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Hôm nói mình bận quá",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A man in a black suit is holding a microphone and speaking."
+    },
+    {
+        "utterance": " Cho nên mình không có book vé xem phim",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black suit holds a microphone and stands on a red stage."
+    },
+    {
+        "utterance": " Mình nhờ bạn book và nói",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a black jacket holds a microphone, set against a dark background."
+    },
+    {
+        "utterance": " Ok hôm nay anh sẽ đi chơi với em",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit is speaking into a microphone."
+    },
+    {
+        "utterance": " Em muốn book phim gì? Mình đi coi phim đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black suit holds a microphone and gestures with their hand."
+    },
+    {
+        "utterance": " Mình bận cho nên mình chỉ có thể đi coi lúc 11h30 thôi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit is holding a microphone."
+    },
+    {
+        "utterance": " Thứ mình không ngờ là bạn book phim ma",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a black jacket is holding a microphone and gesturing with their hand."
+    },
+    {
+        "utterance": " Mọi người",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit holds a microphone and gestures with his hand."
+    },
+    {
+        "utterance": " Ok cái phim nó ghê lắm mọi người",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black suit is standing on a stage, holding a microphone."
+    },
+    {
+        "utterance": " Phim đó như là phim nước ngoài",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Phim bóng đè gì đó mà nó cứ con ma nó nhảy ra",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person in a black suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Đùng đùng đùng coi sợ quá trời luôn",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a black suit holds a microphone and sings on stage."
+    },
+    {
+        "utterance": " Tí nữa sợ quá quay qua nhìn bạn gái",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black jacket holds a microphone and speaks."
+    },
+    {
+        "utterance": " Thấy mất tiêu",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a black suit is holding a microphone."
+    },
+    {
+        "utterance": " Chùm cái áo khoác trốn ở trong đó",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a black suit stands on stage, holding a microphone."
+    },
+    {
+        "utterance": " Thì tí nữa đang ngồi coi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man in a black suit is standing on stage with a microphone."
+    },
+    {
+        "utterance": " Ráng chịu đựng",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a black suit holds a microphone."
+    },
+    {
+        "utterance": " Thì tí nữa có người khều",
+        "acoustic_features": "Nói nhanh, mạnh, nhẹ nhàng, trầm, ấm áp, đều đặn và nhanh.",
+        "visual_description": "A person in a black suit holds a microphone, with their hand raised."
+    },
+    {
+        "utterance": " Anh anh anh",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "A man with short hair and glasses holds a microphone, wearing a black jacket."
+    },
+    {
+        "utterance": " Anh anh em hết ca rồi em tắt đèn rồi",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A person wearing a white shirt and mask sits in front of another person."
+    },
+    {
+        "utterance": " Tí nữa anh đi xong cứ đi về xuống bãi gửi xe nha",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A group of people wearing masks sit together in a dimly lit room."
+    }
+]

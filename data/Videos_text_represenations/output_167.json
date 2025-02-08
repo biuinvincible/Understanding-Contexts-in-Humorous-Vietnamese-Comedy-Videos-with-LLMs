@@ -1,0 +1,22 @@
+[
+    {
+        "utterance": " Tại mày nãy tao mua cái hotdog á",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man in a blue shirt and a laptop "
+    },
+    {
+        "utterance": " Mà giờ tao bỏ nó vô tủ lạnh rồi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man in a blue shirt and a blue shirt is reading a book "
+    },
+    {
+        "utterance": " Nó có biến thành cái colddog không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man with glasses holding a laptop computer "
+    },
+    {
+        "utterance": " Trả lời lại đi",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man with glasses is holding a laptop "
+    }
+]

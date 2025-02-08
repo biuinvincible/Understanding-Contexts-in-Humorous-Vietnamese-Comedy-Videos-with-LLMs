@@ -1,0 +1,87 @@
+[
+    {
+        "utterance": " Ai hôm nay đi với gia đình đâu?",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit stands out amidst a crowd of people."
+    },
+    {
+        "utterance": " Trời ơi gia đình quá trời quá đất ơi luôn, đâu? Bên kia",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "A person in a brown suit is holding a black object and speaking to an audience."
+    },
+    {
+        "utterance": " Mình thông báo tình hình nay có những thành viên gặp gia đình mình đi ạ",
+        "acoustic_features": "Nói nhanh, mạnh, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit is holding a microphone and appears to be singing."
+    },
+    {
+        "utterance": " Đây là...",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, đều và nhanh.",
+        "visual_description": "A person in a white shirt stands out among a crowd of people."
+    },
+    {
+        "utterance": " Chồng nè",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit holds a microphone, set against an ornate backdrop."
+    },
+    {
+        "utterance": " Vợ nè",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A person in a white shirt sits among others in a crowded room."
+    },
+    {
+        "utterance": " Con trai nè, con gái nè",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "Crowd of people in a theater, mostly young adults seated and facing forward."
+    },
+    {
+        "utterance": " À trời ơi, gia đình 4 người, vỗ tay",
+        "acoustic_features": "Nói vừa, trầm, ấm, đều và nhanh: tông giọng trung bình, nói nhanh và mạnh, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói nhanh.",
+        "visual_description": "A crowd of people is seated in rows, watching something with interest."
+    },
+    {
+        "utterance": " Mọi người là đi con đường em lần đầu tiên luôn đúng không ạ?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit holds a microphone, gesturing with his hand."
+    },
+    {
+        "utterance": " Đúng rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a brown suit holds a microphone, standing in front of a patterned wall."
+    },
+    {
+        "utterance": " Dạ",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a brown suit holds a microphone, standing in front of a patterned wall."
+    },
+    {
+        "utterance": " Tại sao trước giờ mình chưa đi coi vậy ạ?",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A group of people are seated, with a person in a white shirt and black vest prominently visible."
+    },
+    {
+        "utterance": " Trước giờ không biết...",
+        "acoustic_features": "Nói vừa phải, mạnh mẽ, trầm, ấm, đều và vừa phải.",
+        "visual_description": "A man in a brown suit holds a microphone and appears to be speaking."
+    },
+    {
+        "utterance": " À mình biết Sài Gòn Tếu bao lâu rồi",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều, vừa phải.",
+        "visual_description": "A group of people, including a person in a white shirt, are gathered together."
+    },
+    {
+        "utterance": " Mới hôm qua",
+        "acoustic_features": "Nói trầm, mạnh, lớn, ấm, đều và nhanh",
+        "visual_description": "A man in a brown suit is shown from the side, holding his hand to his face."
+    },
+    {
+        "utterance": " Em cảm ơn gia đình mình",
+        "acoustic_features": "Nói nhanh, mạnh, lớn, trầm, ấm, sôi nổi, đều và nhanh.",
+        "visual_description": "A crowd of people sit in an auditorium, laughing and clapping together."
+    },
+    {
+        "utterance": " Chúc gia đình có thời gian vui vẻ",
+        "acoustic_features": "Nói vừa phải, trầm, ấm, đều và nhanh",
+        "visual_description": "A man in a brown suit holds a microphone, standing against a dark background."
+    }
+]

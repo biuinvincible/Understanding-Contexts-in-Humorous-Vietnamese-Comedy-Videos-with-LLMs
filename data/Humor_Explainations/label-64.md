@@ -1,0 +1,1 @@
+Yếu tố hài hước trong đoạn này đến từ cách người nói định nghĩa về "nghề". Anh ta từ chối gọi Hài Độc Thoại là nghề dù đã làm 3 năm, với lý do đơn giản là nó không mang lại thu nhập. Sự thẳng thắn tự giễu về thực tế tài chính của nghề nghiệp tạo nên tiếng cười chua chát nhưng đồng cảm.

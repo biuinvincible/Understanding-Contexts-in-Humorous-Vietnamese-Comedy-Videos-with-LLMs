@@ -1,0 +1,1 @@
+Tình huống hài hước xoay quanh cuộc đối đáp giữa người đi xe máy và người phụ nữ sau va chạm. Dù có lý lẽ, luật lệ và logic ủng hộ, người đi xe vẫn phải chịu thua trước câu hỏi đầy quyền uy "Mày xin tao cho chưa?". Sự tương phản giữa việc tuân thủ luật và thực tế "luật rừng" trên đường tạo nên tiếng cười chua chát.

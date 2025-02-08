@@ -1,0 +1,17 @@
+[
+    {
+        "utterance": " Mày tao mới nghĩ ra, ví dụ như nhựa làm từ dầu đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "two men standing next to each other in a dirt field "
+    },
+    {
+        "utterance": " Mà dầu có từ hóa thạch.",
+        "acoustic_features": "Nói chậm rãi, trầm, ấm, đều và nhanh.",
+        "visual_description": "a man and woman playing a game on a cell phone "
+    },
+    {
+        "utterance": " Vậy là khủng long nhựa là làm từ khủng long thật đúng không?",
+        "acoustic_features": "Nói chậm, trầm, ấm, đều và nhanh: tông giọng trầm, nói chậm rãi và êm dịu, nói lớn và mạnh mẽ, giọng trầm và ấm áp, giọng đều đặn và ít biến động, nhịp độ nói vừa phải.",
+        "visual_description": "a man and a woman standing next to each other "
+    }
+]
